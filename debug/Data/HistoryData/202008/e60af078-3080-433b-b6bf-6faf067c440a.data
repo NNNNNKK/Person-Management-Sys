@@ -1,0 +1,275 @@
+{
+    "e60af078-3080-433b-b6bf-6faf067c440a": {
+        "actualWkT": "0.0",
+        "attendanceRatio": "0.00%",
+        "contractPsN": 30,
+        "contractWrH": 3120,
+        "count": 26,
+        "data": [
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260297",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "ef380dfce7f14e94bc3308f552240492",
+                "personName": "王建魁"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260053",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "ea2d3701dd684dfd90a0aa3e62fd95b1",
+                "personName": "张德宁"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260206",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "e3e2afaca6c2419cb28ecbfc80738bad",
+                "personName": "杨振森"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260213",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "d93a82fc819c44fea0a5fe6cf5221c7b",
+                "personName": "李春光"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260243",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "d8493bc66fee4c2b923459a83a5054fe",
+                "personName": "宋立强"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260412",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "cf74b804a4504dccbf3619bb1e9cbeae",
+                "personName": "吴宇宁"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260046",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "cd3e98c212a44562b1927d59ab8b6fc7",
+                "personName": "朱莎"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260173",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "b123e290eaba4f9a8f90687a20fe7298",
+                "personName": "李东辉"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260028",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "a2a37044208d41168105da26329f5edc",
+                "personName": "郭虎"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260138",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "8955ad3248c84ec1ae45114625fbee1a",
+                "personName": "张晓平"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "20037252",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "695b29387aba425299a5fabf401587dd",
+                "personName": "王利东"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260023",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "62140ccba0e44c6787832dc02028a05e",
+                "personName": "陈光红"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260268",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "59490f72402d4c93874549dd6a2093d6",
+                "personName": "王超"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260229",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "486ddc5737a44927862d06cb37743b26",
+                "personName": "祁军"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260025",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "46628a92f7f9401f95af102624ec6a3a",
+                "personName": "肖中图"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260249",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "3d28fcc5d78e4d7e94601c7fb382929f",
+                "personName": "贺礼勇"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260040",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "347b951dc5304ee5a8ae0e2000372c79",
+                "personName": "陈容"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260181",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "2d8c908b7c3343908d3258c5e1df39a4",
+                "personName": "贾兰"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260269",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "14fd1e169a8e471cb80a781cb14a392e",
+                "personName": "豆辉科"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260022",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "10a6a4046fa047f0b36f94347c0fb271",
+                "personName": "李发宁"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260132",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "0a271eee7ba24dca9c4afaaa50986a92",
+                "personName": "马斌"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260312",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "0283322c9d7b41ff9567e02d7b08781b",
+                "personName": "王晓强"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260045",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "01f23a691eb84f8dbfa476c967aa4570",
+                "personName": "张磊（生产）"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "333333",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "e1a3078c490f4e119edea5643ea7a1fe",
+                "personName": "谢丹"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "99909",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "ac5e14c0b65c4d7c8b977e8b616caf8a",
+                "personName": "李安贵"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "16260999",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "e60af078-3080-433b-b6bf-6faf067c440a",
+                "personId": "ef1b0868ece3495ebbdbe9704c4ed438",
+                "personName": "陈晓梅"
+            }
+        ],
+        "departId": "e60af078-3080-433b-b6bf-6faf067c440a",
+        "orgName": "生产技术部",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-08-20T22:36:15"
+    }
+}

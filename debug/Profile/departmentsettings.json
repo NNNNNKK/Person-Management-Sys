@@ -1,0 +1,401 @@
+[
+    {
+        "Departmentname": "西安锦天物业管理服务有限公司",
+        "ID": 48,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "来宾I",
+        "ID": 17,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "银川市宁东厚德工贸有限公司",
+        "ID": 49,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "家属卡",
+        "ID": 173,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "厦门市恒力机电设备运营有限公司",
+        "ID": 115,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "厂家来访人员",
+        "ID": 129,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "厦门恒力机电设备营运有限公司一期",
+        "ID": 145,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "中国能源建设集团浙江火电建设有限",
+        "ID": 123,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "北京腾疆电力工程有限公司",
+        "ID": 144,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "",
+        "ID": 0,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "北京腾疆脚手架项目",
+        "ID": 46,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "贵宾",
+        "ID": 21,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏兴富源环保科技有限公司1",
+        "ID": 157,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "中国能源建设集团山西电力建设第一",
+        "ID": 167,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏臻安消防安全技术服务有限公司",
+        "ID": 159,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "灵武市轩泰保安",
+        "ID": 96,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "天津市思内克科技发展有限公司",
+        "ID": 174,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "天门神火",
+        "ID": 134,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "灵武市轩泰消防",
+        "ID": 112,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "二期尾工",
+        "ID": 152,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "来宾II",
+        "ID": 18,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "深圳德赛富通",
+        "ID": 153,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏维尔康环境检测有限公司一期",
+        "ID": 149,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "贺丰电力",
+        "ID": 166,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏东盛杰工贸有限公司",
+        "ID": 179,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏维尔康环境检测有限公司",
+        "ID": 147,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "维护部",
+        "ID": 30,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "新检修卡",
+        "ID": 172,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "中浩威建设有限公司",
+        "ID": 178,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "3C检修卡",
+        "ID": 171,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏润源电力",
+        "ID": 161,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "工程技术部",
+        "ID": 31,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "检修承包商专用临时卡",
+        "ID": 150,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "国华宁东公司",
+        "ID": 23,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "实习单位",
+        "ID": 168,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "培训专用卡",
+        "ID": 165,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "河南省日立信股份有限公司",
+        "ID": 52,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "山东龙辉起重",
+        "ID": 155,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "生产技术部",
+        "ID": 27,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "运行部",
+        "ID": 29,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "经营财务部",
+        "ID": 26,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "行政人事部",
+        "ID": 24,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "默认部门",
+        "ID": 1,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "常州市天宁市政绿化工程有限公司",
+        "ID": 164,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "北京国电电科院",
+        "ID": 180,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏瑞胜源机电设备工程有限公司",
+        "ID": 60,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "安健环监察部",
+        "ID": 28,
+        "enable": false,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "山东电建三公司",
+        "ID": 160,
+        "enable": false,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "苏华建设集团有限责任公司",
+        "ID": 176,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "众信公司",
+        "ID": 34,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "中国电建集团山东电力建设第一工程",
+        "ID": 177,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏银川翔峰制冷",
+        "ID": 154,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "宁夏通庆达运销有限公司",
+        "ID": 162,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "灵武市吉泰商贸有限公司",
+        "ID": 54,
+        "enable": true,
+        "priority": 1,
+        "type": 0
+    },
+    {
+        "Departmentname": "生产准备部",
+        "ID": 33,
+        "enable": true,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "计划物资部",
+        "ID": 32,
+        "enable": true,
+        "priority": 1,
+        "type": 1
+    },
+    {
+        "Departmentname": "党建部",
+        "ID": 25,
+        "enable": true,
+        "priority": 1,
+        "type": 1
+    }
+]

@@ -1,0 +1,4025 @@
+{
+    "37607fc4-f769-487e-a4f3-28fabef053f4": {
+        "actualWkT": "1515.7",
+        "attendanceRatio": "46.78%",
+        "contractPsN": 27,
+        "contractWrH": 3240,
+        "count": 27,
+        "data": [
+            {
+                "attendenceHours": "188.79",
+                "cardNumber": "102631",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T07:04:24+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-01T07:08:54+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-01T11:35:50+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T11:35:50+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-01T13:19:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T13:23:02+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-01T18:03:47+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T18:04:52+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T18:58:48+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-01T18:58:58+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T21:54:20+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-01T22:28:53+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T07:07:33+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T07:07:35+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-02T07:08:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-02T11:35:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-02T11:36:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T13:21:12+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-02T13:21:13+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T18:39:33+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T18:39:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-03T07:06:30+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-03T07:06:35+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T11:39:32+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:21:44+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:03:16+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T18:56:12+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T23:32:10+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T07:10:33+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T11:35:23+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:22:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T17:04:53+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T18:58:50+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T18:59:45+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T05:25:17+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T07:08:48+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-06T11:40:54+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T13:21:54+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T13:21:55+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-06T17:56:31+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T18:34:11+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-06T20:17:05+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-06T20:17:11+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T07:09:02+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T11:33:06+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T13:21:56+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T15:55:41+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T19:00:43+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T22:22:58+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T07:11:10+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-08T11:34:44+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T15:07:16+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-08T15:14:08+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T11:31:53+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-09T13:22:30+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T18:05:10+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T07:10:21+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T07:10:24+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T11:32:10+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T13:22:39+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T18:01:51+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-11T07:11:19+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T11:33:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-11T13:23:19+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T18:04:49+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T07:10:11+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T11:33:07+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:11+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T18:03:16+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T18:59:07+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T21:30:34+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T07:11:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T11:13:34+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T13:22:05+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T18:01:47+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T18:01:49+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T18:58:43+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T18:58:46+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T21:02:44+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T07:13:03+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T11:33:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T13:24:29+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T18:02:56+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T19:04:18+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T20:24:53+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T07:07:06+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T11:33:40+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T13:23:58+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T15:54:04+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T15:54:07+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:08:53+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T11:31:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:21:32+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T17:59:47+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:36+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:42+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T11:34:47+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T13:22:32+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T18:03:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T06:58:00+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T11:32:36+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T11:32:37+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T11:32:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:21:57+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T18:04:02+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T06:58:38+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:33:33+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T13:21:02+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:05:24+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T07:01:59+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T11:34:14+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:19:56+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T18:03:11+08:00",
+                        "personName": "马少银"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-21T07:11:50+08:00",
+                        "personName": "马少银"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "8fc3d9d1e485446d805e559d4e48dda8",
+                "personName": "马少银"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "101914",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "fbebc9ee36b749849503e725023450c9",
+                "personName": "白汉伏"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "181432",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "d809928c0e45407c810e52e3156a08a8",
+                "personName": "张小成"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "093419",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "d1eb31956c164c0794d6412d1fa44c75",
+                "personName": "王磊"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "092914",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "b65d917bfd3f46c58dd622fb276f0c7e",
+                "personName": "王鹏"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "291118",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "a9622a17e68e457d876aa06224c37613",
+                "personName": "马铁军"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "251518",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "8ee2eb4522654a5492603570fe2bb5f5",
+                "personName": "马红宾"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "011914",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "8d835476b7c44f3ca61a144f48aabf9a",
+                "personName": "马建军"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "101954",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "7987c3a1b5f445c496029b82bb48ef7e",
+                "personName": "马超"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "150337",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "75f1672e9cad4919b215dbdf8eb64d1e",
+                "personName": "王宝才"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "101930",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "48f123f983334c53ad02c2620a8daf0a",
+                "personName": "马明云"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "211158",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "3e1416547576404b9864b27b80002c82",
+                "personName": "李生宝"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "252933",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "32023611c799415b957a737901f2398a",
+                "personName": "纪锋"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "240214",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "fd6425da3d2f409a9a7d32370abe0ff2",
+                "personName": "李白"
+            },
+            {
+                "attendenceHours": "46.54",
+                "cardNumber": "102619",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T07:04:33+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T11:35:56+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T14:36:03+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-01T18:05:24+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:05:27+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T19:04:24+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T20:29:35+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T07:07:44+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T11:35:16+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T13:21:24+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T18:50:11+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:50:15+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:50:19+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-03T01:39:40+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T13:21:37+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:04:49+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T19:00:00+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T23:28:54+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T07:10:23+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-04T10:32:52+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T10:32:58+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:22:43+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T18:05:37+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T19:01:04+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T21:54:18+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T07:26:32+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T07:36:33+08:00",
+                        "personName": ""
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "e8ee157c739a404c8a64ccf5857cf965",
+                "personName": "李龙"
+            },
+            {
+                "attendenceHours": "165.09",
+                "cardNumber": "041018",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T14:40:44+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:05:32+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T19:04:27+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T22:46:53+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T07:07:41+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T11:35:07+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T13:14:06+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T18:56:21+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T20:56:51+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T23:05:08+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T23:05:55+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T23:05:59+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T13:21:39+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:10:53+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:10:54+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T19:04:30+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T20:15:56+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T20:22:33+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T23:23:56+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T07:10:26+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T11:37:45+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:22:35+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T18:05:35+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T19:01:06+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T21:54:17+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T07:12:10+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T07:12:17+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T11:34:21+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T07:09:34+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-07T10:56:23+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T13:21:59+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T18:02:57+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T07:11:19+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-08T11:34:52+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T07:05:33+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-09T13:22:33+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T18:04:56+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T07:10:24+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T11:32:31+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T11:32:37+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T13:22:41+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-10T18:02:33+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T11:33:27+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T18:05:38+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:18+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T15:59:00+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T16:06:30+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T18:03:22+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T19:00:37+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T21:30:31+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T07:50:52+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T11:12:32+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T11:12:35+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T13:22:09+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T18:02:32+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T07:07:03+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T13:24:00+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T18:02:16+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:09:26+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-16T11:31:55+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-16T11:31:57+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:21:29+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T17:59:43+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-17T07:12:35+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-17T11:34:43+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-17T13:22:30+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-17T18:03:39+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-18T07:09:06+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T11:32:38+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-18T13:22:03+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T18:04:05+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T07:10:54+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:33:40+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T13:21:11+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T18:06:01+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T18:59:20+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T21:51:23+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T07:11:15+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T11:34:55+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-20T13:21:00+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T18:03:14+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-20T19:01:02+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T20:29:51+08:00",
+                        "personName": "马玉"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-21T07:12:04+08:00",
+                        "personName": "马玉"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "c2c9ab05d2614d0789ebc5650f4fe5bc",
+                "personName": "马玉"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "242614",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "bd19f033e1ea4163b3193d11e41e48eb",
+                "personName": "李丰红"
+            },
+            {
+                "attendenceHours": "251.60",
+                "cardNumber": "141039",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T07:04:13+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T11:38:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T13:23:00+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:05:19+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T18:59:09+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T21:50:27+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T07:07:36+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T11:42:58+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T13:21:38+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-02T18:39:30+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T20:56:45+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-03T07:06:42+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T11:39:40+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:21:41+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T07:06:24+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-05T11:34:16+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T13:23:51+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-05T18:03:35+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T19:00:32+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T21:42:41+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T07:09:00+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-06T13:21:55+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-06T18:03:54+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T18:58:25+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-06T22:51:25+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T07:09:29+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T11:33:16+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T13:22:07+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-07T18:02:31+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-08T07:12:40+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-08T11:34:52+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T07:05:22+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T13:22:34+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T18:05:17+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T19:21:04+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T20:56:39+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-10T07:10:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T11:34:10+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T13:22:33+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T18:05:04+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-11T07:11:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T11:33:14+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T11:33:20+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-11T13:23:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T07:11:06+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:06+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T19:56:56+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T07:11:33+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T11:12:30+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T13:22:07+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T18:02:30+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T19:02:45+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T21:23:43+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T07:13:01+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T11:33:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T13:24:44+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T18:02:53+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T19:06:22+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T20:25:28+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T07:11:30+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T11:35:56+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T13:26:32+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T15:54:00+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:09:30+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T11:31:58+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:21:27+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T17:59:41+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:33+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T11:34:37+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T13:23:24+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-17T18:03:41+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-18T07:09:09+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T11:32:41+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-18T13:22:00+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T18:04:01+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T07:10:48+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:31:23+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T13:23:20+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-20T07:11:10+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T11:35:13+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:20:00+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T18:03:21+08:00",
+                        "personName": "王小明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-21T07:11:37+08:00",
+                        "personName": "王小明"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "aa751abff2cb4454ab8c1a20c419a5c7",
+                "personName": "王小明"
+            },
+            {
+                "attendenceHours": "163.09",
+                "cardNumber": "242419",
+                "detail": [
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-01T07:08:41+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T14:40:41+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:03:51+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T18:58:57+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T22:28:54+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T07:08:14+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T11:34:30+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T13:21:19+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:46:29+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-02T22:08:54+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T07:06:43+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T11:39:38+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:22:01+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:22:05+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:22:11+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T18:03:21+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T07:08:59+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T11:34:47+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T11:34:51+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T13:23:03+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T17:59:32+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T18:59:45+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T23:59:27+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T07:10:21+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T11:34:16+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T19:04:22+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T21:54:11+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T07:09:25+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-06T13:20:38+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-06T17:56:37+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-06T17:56:47+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T17:56:48+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T18:48:12+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-06T20:17:06+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T07:07:18+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-07T10:56:15+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T13:22:46+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T15:55:46+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T15:55:51+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T19:02:38+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T21:33:45+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T07:08:28+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-08T11:34:56+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T07:12:09+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T13:22:15+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T17:57:37+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T19:04:23+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T22:35:02+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:10:37+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T11:31:40+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:19:34+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T17:59:45+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:25+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T11:34:35+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T13:20:51+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T18:03:34+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T18:03:38+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-18T07:08:15+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T11:32:35+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:21:51+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T18:04:00+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T07:10:52+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:31:19+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T13:21:05+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:05:20+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T18:57:00+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T21:57:56+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T07:11:13+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T11:34:17+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:19:54+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T18:03:18+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T19:00:58+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T21:45:05+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-21T07:11:49+08:00",
+                        "personName": "李静"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-21T07:11:55+08:00",
+                        "personName": "李静"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "a6e00e65a6b94f4d95deada0048d8b01",
+                "personName": "李静"
+            },
+            {
+                "attendenceHours": "58.01",
+                "cardNumber": "122618",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T07:04:31+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T11:35:51+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-01T14:36:02+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-01T18:05:27+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T19:04:25+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T22:46:52+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T07:07:45+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T11:33:47+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T13:21:26+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:56:20+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-02T20:36:17+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T20:48:07+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T00:55:46+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:21:38+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:11:01+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T07:10:23+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-04T11:35:21+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:22:40+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T18:05:37+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T19:02:30+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T19:02:34+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T21:45:05+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T21:45:14+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T07:12:25+08:00",
+                        "personName": ""
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T11:34:19+08:00",
+                        "personName": ""
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "940c66d237fa4702be5efaded09ae898",
+                "personName": "田海洋"
+            },
+            {
+                "attendenceHours": "167.85",
+                "cardNumber": "062418",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T14:40:38+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:05:29+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T19:04:46+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-01T19:04:55+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T21:47:59+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T07:07:45+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T11:35:21+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T13:21:31+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:50:17+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T01:39:42+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-03T13:21:49+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-03T13:21:53+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T18:05:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T19:05:36+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T21:51:43+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T07:11:46+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T11:35:26+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T13:22:34+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T13:22:38+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T15:41:22+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T15:41:25+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T19:02:31+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T19:02:36+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T23:13:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T07:12:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T07:12:08+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T11:34:19+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T07:09:32+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T11:33:19+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T13:22:05+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T18:02:59+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-08T07:11:20+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-08T11:35:00+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-09T07:05:35+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-09T13:22:38+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-09T18:05:24+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T07:10:26+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T11:32:31+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-10T13:22:42+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T18:02:20+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-11T07:11:22+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T11:33:30+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-11T13:23:17+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-11T18:05:41+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T07:13:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T11:33:35+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:15+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T18:03:20+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T19:00:39+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T21:30:36+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T07:50:50+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T11:12:33+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T13:22:11+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T18:02:25+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T07:13:08+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T11:33:25+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T13:25:02+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T18:03:16+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T19:00:12+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T00:33:19+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:09:29+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T11:32:01+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:21:25+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T17:59:38+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:37+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T11:34:43+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T13:22:30+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-17T18:03:43+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T07:09:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T11:32:42+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:22:04+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T18:04:07+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T07:10:56+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T07:10:57+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:33:42+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T11:33:42+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T13:21:06+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:06:00+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T18:59:18+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T18:59:19+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T21:51:26+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-20T07:11:13+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T11:34:55+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:21:01+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T18:03:16+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T18:03:20+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T19:01:02+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T20:29:53+08:00",
+                        "personName": "杨兵"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-21T07:12:01+08:00",
+                        "personName": "杨兵"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "4c762ebb461d4914966174432c24705e",
+                "personName": "杨兵"
+            },
+            {
+                "attendenceHours": "186.97",
+                "cardNumber": "152413",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T14:41:11+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T18:05:22+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-01T19:01:11+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T21:36:10+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T07:08:16+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T11:35:20+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T12:57:39+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T18:56:07+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-02T21:00:57+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-02T23:18:37+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T07:10:21+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T19:07:27+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T21:51:40+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T07:08:58+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T11:31:21+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T13:23:29+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T15:41:20+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T18:59:42+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-04T23:13:07+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T13:23:18+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T17:49:57+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T19:04:14+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T21:52:11+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T07:08:53+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-06T13:20:34+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-06T18:04:00+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T07:07:12+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T11:33:49+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T13:21:54+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-07T18:02:37+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T19:02:24+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-07T21:33:49+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T07:10:09+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-08T11:34:50+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-09T07:09:59+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T07:09:59+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T19:04:33+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-09T22:39:56+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-09T22:39:59+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T07:11:10+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T11:32:25+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T13:21:08+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T18:02:05+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-10T19:00:21+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T20:43:31+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-14T19:04:54+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T19:04:55+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T19:05:01+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T19:05:05+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T19:05:26+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T22:17:58+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T07:09:22+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T13:22:34+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T17:57:04+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-15T19:05:00+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T22:35:09+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T07:10:11+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T13:18:51+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-16T17:59:40+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:16+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-17T11:34:38+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T13:20:47+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:21:55+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-18T18:04:09+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T07:10:58+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T11:33:37+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-19T13:21:08+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T18:05:27+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T18:56:58+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:57:23+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:57:27+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-19T21:57:57+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T07:11:19+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T11:34:21+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:17:54+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-20T18:03:09+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T19:01:04+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T21:45:03+08:00",
+                        "personName": "马宝"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-21T07:13:20+08:00",
+                        "personName": "马宝"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "37f21b4e220947a881fe880c81c93321",
+                "personName": "马宝"
+            },
+            {
+                "attendenceHours": "133.41",
+                "cardNumber": "11241X",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T07:09:21+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-01T11:37:58+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-01T13:23:06+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-01T18:05:41+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-01T19:07:16+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-01T21:40:15+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T13:21:11+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T18:50:17+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T18:50:21+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-02T18:50:25+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-02T18:50:29+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T01:40:04+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T18:57:05+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T23:28:54+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T07:10:30+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T11:35:32+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:23:19+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-04T15:47:00+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T16:51:12+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T18:05:44+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-04T18:05:48+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-05T13:23:14+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-05T13:23:17+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-05T18:03:37+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-07T13:21:50+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T18:02:56+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T18:11:03+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T07:17:26+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-09T13:22:39+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-09T18:05:03+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T07:10:27+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T11:32:53+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-10T13:27:20+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T18:02:34+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:22+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T18:05:19+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T19:04:02+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-12T23:23:28+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T08:56:05+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-13T09:34:09+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T07:13:10+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T11:33:42+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T07:08:27+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T11:32:39+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:22:00+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T13:22:03+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T18:04:08+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T13:21:07+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T15:15:32+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T15:23:45+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T18:06:50+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T19:01:47+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T21:51:23+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-20T18:03:17+08:00",
+                        "personName": "杨佳明"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-21T07:11:54+08:00",
+                        "personName": "杨佳明"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "34878fb9ba174771b7edfcd044afd8bc",
+                "personName": "杨佳明"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "077318",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "795bbf83064d4e7b9abd7b632f809b14",
+                "personName": "朱孝恩"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "104255",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "6177dd2c3bd947c79973007d2a7eb418",
+                "personName": "马庆州"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "281811",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "b3dcadf2fa9a46c2a47b8bee84229e7d",
+                "personName": "王福志"
+            },
+            {
+                "attendenceHours": "154.39",
+                "cardNumber": "263014",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T13:22:34+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-03T17:57:18+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-03T18:43:52+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T23:35:39+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T07:09:53+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T07:10:55+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-04T07:11:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T11:36:37+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-04T13:23:56+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T18:06:20+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-04T18:35:29+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-04T22:28:24+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-05T07:11:18+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T07:11:24+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T09:46:26+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-05T09:55:04+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T11:30:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-05T13:23:57+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-05T18:05:24+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-05T18:56:56+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-05T20:38:59+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-06T07:09:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-06T11:36:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-06T13:22:10+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-06T17:58:11+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-06T18:59:40+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-06T20:50:22+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T07:04:57+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T08:53:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-07T09:10:20+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-07T11:00:00+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T13:23:47+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T18:05:04+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-07T18:45:48+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-07T19:53:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-08T07:10:38+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-08T11:30:04+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-08T13:21:58+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-08T18:03:30+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-09T07:10:31+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-09T11:34:30+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-09T13:22:45+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T18:06:21+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-09T18:43:03+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-09T21:17:35+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-10T07:10:54+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-10T07:11:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T07:11:48+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-10T07:12:39+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T07:12:42+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-10T11:41:45+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-10T13:22:24+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-10T18:10:59+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-11T13:23:26+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-11T17:07:09+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-12T07:02:31+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-12T11:44:53+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T13:23:30+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-12T16:30:49+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-12T16:41:56+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-12T18:05:46+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-12T18:50:48+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-12T20:33:44+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-13T07:10:00+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-13T07:35:44+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-13T07:48:06+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-13T11:53:42+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-13T13:22:18+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-13T18:06:51+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-14T07:13:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-14T11:35:47+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-14T13:23:28+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-14T14:53:32+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-14T15:10:35+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-14T18:03:58+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-14T18:55:47+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-14T20:46:22+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-15T07:12:16+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-15T08:20:52+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-15T09:42:10+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-15T10:35:46+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-15T13:24:06+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-15T14:48:40+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-15T17:03:49+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-15T18:02:44+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-16T07:11:17+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-16T11:49:46+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-16T13:23:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-16T15:07:04+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-16T15:17:52+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-16T18:02:09+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-16T18:42:00+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-16T21:12:35+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T07:12:56+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-17T10:48:21+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-17T13:22:13+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-17T15:47:13+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-17T16:21:10+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-17T17:28:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-18T07:00:33+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-18T10:29:15+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-18T13:22:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-18T14:00:40+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-18T15:31:21+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-18T18:06:10+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-19T07:14:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-19T09:47:10+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-19T13:21:14+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-19T15:27:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-20T07:11:27+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-20T09:32:14+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:20:07+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-20T13:20:14+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-20T14:42:14+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-21T07:11:50+08:00",
+                        "personName": "吴乡铭"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-21T09:53:36+08:00",
+                        "personName": "吴乡铭"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "37607fc4-f769-487e-a4f3-28fabef053f4",
+                "personId": "e3c45678c1ba4d489342cdf760e2a309",
+                "personName": "吴乡铭"
+            }
+        ],
+        "departId": "37607fc4-f769-487e-a4f3-28fabef053f4",
+        "orgName": "4C北京腾疆",
+        "turnoverRate": "0.00%",
+        "updatetime": "2020-06-21T11:06:21"
+    }
+}

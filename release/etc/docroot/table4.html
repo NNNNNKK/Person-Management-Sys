@@ -1,0 +1,243 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>当前电厂生产区承包商人数</title>
+    <meta name="description" content="Dashboard" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="assets/layui/css/layui.css">
+    <style>
+        * {
+            box-sizing:border-box;
+        }
+        html,body,.layui-row,.layui-fluid {
+            height:100%;
+            margin:0 ;
+            padding:0 ;
+        }
+        .clearfix:after {
+            display: block;
+            content:"";
+            height: 0;
+            clear:both;
+        }
+        .header {
+            height:0;
+            background:red;
+            position:relative;
+            padding:0 10px;
+        }
+        .card {
+            box-sizing:border-box;
+            float:left !important;
+            width:25%;
+            padding:10px 10px 0;
+        }
+        .card p {
+            height:40px;
+            line-height:30px;
+            padding:8px;
+            color:#fff;
+            font-size:30px;
+        }
+        .card span {
+            float:right;
+            line-height:30px;
+            font-size:20px;
+            font-weight:bold;
+            margin-right:30px;
+        }
+        .table {
+            padding:90px 10px 0px;
+            height:100%;
+        }
+        .layui-table-view {
+            margin:0;
+        }
+        .table1 .layui-table-body,
+        .table2 .layui-table-body,
+        .table3 .layui-table-body,
+        .table4 .layui-table-body  {
+            overflow-x:hidden;
+        }
+        .layui-elem-quote {
+            padding:0 15px;
+            height:40px;
+            line-height:40px;
+            margin:0;
+        }
+        .layui-elem-quote p {
+            font-size:14px;
+            font-weight:bold;
+        }
+        .layui-elem-quote .box {
+            float:right;
+            margin-top:5px;
+        }
+        .layui-input, .layui-select, .layui-textarea {
+            height:30px;
+            padding:0 15px;
+        }
+        .layui-btn-sm {
+            height:30px;
+            line-height:30px;
+        }
+        #edit .layui-form-label {
+            width:100px;
+
+        }
+        #edit input {
+            height:38px;
+            line-height:38px;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-fluid header">
+        <div class="layui-row layui-col-space10">
+            <div class="card"><p style="background:rgb(171, 13, 177)">部门名字<span id="orgName">0</span></p></div>
+            <div class="card"><p style="background:#1E9FFF">累计工作时间<span id="actualWkT">0</span></p></div>
+            <div class="card"><p style="background:#FFB800">出勤率<span id="attendanceRatio">0</span></p></div>
+            <div class="card"><p style="background:#009688">流转率<span id="turnoverRate">0</span></p></div>
+        </div>
+    </div>
+    <div class="layui-fluid">
+        <div class="layui-row layui-col-space10">
+            <div class="layui-col-xs12">
+                <div class="layui-card">
+                    <div class="layui-card-body"  style="padding-bottom: 0">
+                        
+                        <table class="layui-hide" id="table4" lay-filter="table4"></table>
+                        <script type="text/html" id="rowToolbar">
+                            <a class="layui-btn layui-btn-normal layui-btn-xs" lay-event="detail">详情</a>
+                        </script>
+                        <div class="layui-form-item" style="text-align:center;margin-top:20px">
+                            <button class="layui-btn layui-btn-execl" onclick="btnTableExport()">导出EXCEL</button>
+                            <button class="layui-btn layui-btn-colse">关闭</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="height:0;overflow:hidden">
+        <table id="first_tableHide" style="width: 1100px;height: 20px; border-collapse: collapse;box-sizing: border-box">
+            <thead>
+            <tr>
+                <th style="width:20%">部门名字</th>
+                <th style="width:20%">累计工作时间(小时)</th>
+                <th style="width:20%">出勤率</th>
+                <th style="width:20%">流转率</th>
+            </tr>
+            </thead>
+            <tbody class="tbody"></tbody>
+        </table>
+    </div>
+    <div style="height:0;overflow:hidden">
+        <table id="tableHide" style="width: 1100px;border-collapse: collapse;box-sizing: border-box">
+            <thead>
+            <tr>
+                <th style="width:20%">姓名</th>
+                <th style="width:20%">工号</th>
+                <th style="width:20%">累计工作时间</th>
+            </tr>
+            </thead>
+            <tbody class="tbody"></tbody>
+        </table>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/tableExport2.js"></script>
+    <script src="assets/laydate/laydate.js"></script>
+    <script src="assets/layer/layer.js"></script>
+    <script src="assets/layui/layui.js"></script>
+    <script src="assets/js/common.js"></script>
+    <script>
+        setTimeout(function(){
+            layer.msg(JSON.stringify(GetUrlParam()))
+        },1000);
+        //获取上页参数
+        function getQueryString(str) {
+                    var result = window.location.search.match(new RegExp("[\?\&]" + str + "=([^\&]+)", "i"));
+                    if (result == null || result.length < 1) {
+                    return "";
+                    }
+                    return result[1];
+                  };
+        layui.use('table', function(){
+            var table = layui.table;
+            var form = layui.form;
+            table.render({
+                method:'post',
+                url: '/HistoryDepartDetailData',       //数据接口
+                where:GetUrlParam(),         //接口参数
+                parseData:function(res){                     //返回结果
+                    //拼接导出数据
+                    $("#tableHide tbody").html("");
+                    for (key in res.data){
+                       
+                        $("#tableHide tbody").append('<tr>'+'<td>'+res.data[key].personName+'</td>'+'<td>'+
+                            res.data[key].cardNumber+'</td>'+'<td>'+res.data[key].attendenceHours+'</td>'+'</tr>')
+                    }
+                    AjaxPost("/HistoryDepartDetailData",{'deptid':getQueryString('deptid'), 'page':'1','limit':'1000','date':getQueryString('date'),'type':'ndetail'},
+            function(data){
+                $("#orgName").html(data.orgName);
+                $("#actualWkT").html(data.actualWkT+'小时');
+                $("#attendanceRatio").html(data.attendanceRatio);
+                $("#turnoverRate").html(data.turnoverRate);
+            },
+            function(){},
+        "json",true);
+
+                },
+                elem: '#table4',
+                height: 'full-100',
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 20,
+                limits: [20,40,60,100],
+                cols: [[
+                    {field: 'personName', title: '姓名',sort: true},
+                    {field: 'cardNumber', title: '工号',sort: true},
+                    {field: 'attendenceHours', title: '累计工作时长(小时)',sort: true},
+                    {width:100,align:"center", title:"操作",toolbar: '#rowToolbar'}
+                ]]
+            });
+            
+            $(".layui-btn-colse").click(function(){
+                var index = parent.layer.getFrameIndex(window.name);
+                parent.layer.close(index);
+            });
+           
+            //监听右侧工具条
+            table.on('tool(table4)', function(obj){
+                var data = obj.data;
+                var para=getQueryString("date");
+                if(obj.event === 'detail'){
+                    OpenLayer("table5.html?personid="+obj.data.personId+"&type=pdetail&deptid="+data.orgindex+'&date='+para,"员工姓名(打卡记录详情)","100%","100%");
+                }
+            });
+        });
+        function btnTableExport() {
+            $("#tableHide thead th").css({"border":".1px solid #000","text-align":"left","height":"40px","padding":"5px"});
+            $("#tableHide .tbody td").css({"border":".1px solid #000","text-align":"left","height":"min-content","padding":"5px"});
+            $('#tableHide').tableExport(
+                {
+                    fileName:'导出表格'+Format(ToDate()," yyyy年MM月dd日 周W"),
+                    type: 'excel',
+                    mso: {
+                        styles:['border-bottom-color', 'border-bottom-style', 'border-bottom-width',
+                            'border-top-color', 'border-top-style', 'border-top-width',
+                            'border-left-color', 'border-left-style', 'border-left-width',
+                            'border-right-color', 'border-right-style', 'border-right-width','text-align','height','width','padding'],
+                        excelPageOrientation: 'landscape'
+                    },
+                }
+            );
+        }
+    </script>
+</body>
+</html>

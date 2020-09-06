@@ -1,0 +1,35 @@
+{
+    "70dfccd1-233a-4760-8936-8b067cf88d53": {
+        "actualWkT": "0.0",
+        "attendanceRatio": "0.00%",
+        "contractPsN": 50,
+        "contractWrH": 3600,
+        "count": 2,
+        "data": [
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800015",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "70dfccd1-233a-4760-8936-8b067cf88d53",
+                "personId": "cb8a7f0404284c15b3fba2678583f22d",
+                "personName": "马伟"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800016",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "70dfccd1-233a-4760-8936-8b067cf88d53",
+                "personId": "9b2676e17c7d48ebba8ba9559c4575bb",
+                "personName": "韩森林"
+            }
+        ],
+        "departId": "70dfccd1-233a-4760-8936-8b067cf88d53",
+        "orgName": "天门神火",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-07-14T11:10:07"
+    }
+}

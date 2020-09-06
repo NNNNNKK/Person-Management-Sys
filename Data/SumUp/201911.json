@@ -1,0 +1,5883 @@
+[
+    {
+        "ActualPersonnUmber": 38,
+        "AttendanceRatio": "6.03%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "18.18",
+                "CardNumber": "0720703696",
+                "PersonName": "陈柄寰"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "590.51",
+                "CardNumber": "3497470826",
+                "PersonName": "朱志翔"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "0.28",
+                "CardNumber": "2027541777",
+                "PersonName": "柳味宝"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "360.22",
+                "CardNumber": "0720830368",
+                "PersonName": "薛晓燕"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.99",
+                "CardNumber": "0276284803",
+                "PersonName": "孙心怡"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "0.00",
+                "CardNumber": "2408025886",
+                "PersonName": "胡振亮"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "1.57",
+                "CardNumber": "0720242816",
+                "PersonName": "张宗现"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "1.38",
+                "CardNumber": "2955141844",
+                "PersonName": "郭鸿忠"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "0.00",
+                "CardNumber": "0106655863",
+                "PersonName": "田雄丽"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "385.05",
+                "CardNumber": "0720248304",
+                "PersonName": "雷学琴"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "13.59",
+                "CardNumber": "2408422750",
+                "PersonName": "李凤瑞"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "24.20",
+                "CardNumber": "1981238829",
+                "PersonName": "胡振亮"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "1.06",
+                "CardNumber": "0720178688",
+                "PersonName": "石彩霞"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "6.17",
+                "CardNumber": "0276630531",
+                "PersonName": "陈晓梅"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "95.26",
+                "CardNumber": "0720975152",
+                "PersonName": "陈小华"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "2.37",
+                "CardNumber": "2758464532",
+                "PersonName": "扈佐仁"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "2.88",
+                "CardNumber": "2752140516",
+                "PersonName": "鲜玉珍"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.46",
+                "CardNumber": "0720360592",
+                "PersonName": "胡金胜"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "0.21",
+                "CardNumber": "2408633806",
+                "PersonName": "石怀忠"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "2.26",
+                "CardNumber": "0276240979",
+                "PersonName": "马国庆"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "16.53",
+                "CardNumber": "0720711744",
+                "PersonName": "闫豆豆"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "11.47",
+                "CardNumber": "3194571037",
+                "PersonName": "温万喜"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "21.42",
+                "CardNumber": "0720213392",
+                "PersonName": "李文昊"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "462.80",
+                "CardNumber": "2408670110",
+                "PersonName": "王强"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.45",
+                "CardNumber": "3071333396",
+                "PersonName": "医务室2"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "27.04",
+                "CardNumber": "2407938798",
+                "PersonName": "宋荣华"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.28",
+                "CardNumber": "4010127858",
+                "PersonName": "郑冲"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "0.72",
+                "CardNumber": "2949008324",
+                "PersonName": "扈佐仁"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "5.93",
+                "CardNumber": "1981132413",
+                "PersonName": "张梁"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "0.91",
+                "CardNumber": "3071677444",
+                "PersonName": "王利"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "201.81",
+                "CardNumber": "2408609454",
+                "PersonName": "丛姗姗"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "27.62",
+                "CardNumber": "0720091184",
+                "PersonName": "李诗舜"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "3.88",
+                "CardNumber": "0275776323",
+                "PersonName": "马春"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "58.29",
+                "CardNumber": "0720185632",
+                "PersonName": "浦海燕"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.62",
+                "CardNumber": "3280536297",
+                "PersonName": "王军红"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "0.00",
+                "CardNumber": "0720646192",
+                "PersonName": "韩学清通勤车司机"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.01",
+                "CardNumber": "0720341792",
+                "PersonName": "刘淑英"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "193.54",
+                "CardNumber": "0105384599",
+                "PersonName": "杨宝山"
+            }
+        ],
+        "DepartID": 34,
+        "DepartName": "众信公司",
+        "TotalActualHours": 494,
+        "TotalHours": 43200,
+        "TotalTimes": 301,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 18,
+        "AttendanceRatio": "1.80%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.54",
+                "CardNumber": "0360143166",
+                "PersonName": "王甫军"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "2.33",
+                "CardNumber": "0721102766",
+                "PersonName": "唐陈亮"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.54",
+                "CardNumber": "0107474615",
+                "PersonName": "贾招兵"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "4.54",
+                "CardNumber": "2072780868",
+                "PersonName": "王国峰"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "4.54",
+                "CardNumber": "0360728350",
+                "PersonName": "王晓俊"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "4.73",
+                "CardNumber": "0351689630",
+                "PersonName": "程建华"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "4.84",
+                "CardNumber": "0360528430",
+                "PersonName": "李海涛1"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "4.54",
+                "CardNumber": "0361475550",
+                "PersonName": "罗高峰"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "0.55",
+                "CardNumber": "0720296910",
+                "PersonName": "王建学"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "4.53",
+                "CardNumber": "0720992766",
+                "PersonName": "杜现军"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "4.54",
+                "CardNumber": "0717457502",
+                "PersonName": "王雄"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "4.53",
+                "CardNumber": "0720914542",
+                "PersonName": "张亮"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "4.51",
+                "CardNumber": "0720884510",
+                "PersonName": "王胜彦"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "4.53",
+                "CardNumber": "0351506046",
+                "PersonName": "贾招领"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "4.60",
+                "CardNumber": "3495959722",
+                "PersonName": "陈水喜"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.23",
+                "CardNumber": "0715817790",
+                "PersonName": "李海宏"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.51",
+                "CardNumber": "0720324046",
+                "PersonName": "冀延刚"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "5.03",
+                "CardNumber": "0720369582",
+                "PersonName": "马国武"
+            }
+        ],
+        "DepartID": 46,
+        "DepartName": "北京腾疆脚手架项目",
+        "TotalActualHours": 70,
+        "TotalHours": 10800,
+        "TotalTimes": 65,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 88,
+        "AttendanceRatio": "5.19%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.51",
+                "CardNumber": "0107475783",
+                "PersonName": "马春霞"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "3.22",
+                "CardNumber": "1993345366",
+                "PersonName": "哈学云"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "2.66",
+                "CardNumber": "0359857470",
+                "PersonName": "马伟2"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "2.82",
+                "CardNumber": "3496387514",
+                "PersonName": "金海燕"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.48",
+                "CardNumber": "1994193814",
+                "PersonName": "罗娟"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.49",
+                "CardNumber": "3496893258",
+                "PersonName": "杨凤侠"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.47",
+                "CardNumber": "2071156436",
+                "PersonName": "杨保生"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.23",
+                "CardNumber": "0695973299",
+                "PersonName": "马兰花"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.51",
+                "CardNumber": "0100758471",
+                "PersonName": "余军"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.50",
+                "CardNumber": "3497231642",
+                "PersonName": "姚秀琴"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.49",
+                "CardNumber": "2072705220",
+                "PersonName": "丁学花"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.49",
+                "CardNumber": "1994752822",
+                "PersonName": "马金莲"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "2.49",
+                "CardNumber": "2788111050",
+                "PersonName": "薛多全"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "2.50",
+                "CardNumber": "0108331191",
+                "PersonName": "马小兰"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "2.50",
+                "CardNumber": "1993705254",
+                "PersonName": "王福梅"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.83",
+                "CardNumber": "0351446286",
+                "PersonName": "马长林"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "2.50",
+                "CardNumber": "0107953559",
+                "PersonName": "马兰"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.50",
+                "CardNumber": "3497236970",
+                "PersonName": "马驰"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.50",
+                "CardNumber": "3688481668",
+                "PersonName": "马刚"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.48",
+                "CardNumber": "0107426743",
+                "PersonName": "白花"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "2.49",
+                "CardNumber": "3496823050",
+                "PersonName": "白少花"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.52",
+                "CardNumber": "0100585543",
+                "PersonName": "王明锁"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "2.51",
+                "CardNumber": "3481461350",
+                "PersonName": "马少兰"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "4.65",
+                "CardNumber": "3662354282",
+                "PersonName": "周会平"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "2.52",
+                "CardNumber": "0351315758",
+                "PersonName": "杨春"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.48",
+                "CardNumber": "3688519108",
+                "PersonName": "周占孝"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "2.52",
+                "CardNumber": "3496135642",
+                "PersonName": "杨林东"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.49",
+                "CardNumber": "0696586339",
+                "PersonName": "李花"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "2.49",
+                "CardNumber": "3111513461",
+                "PersonName": "王振强"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.47",
+                "CardNumber": "0703815171",
+                "PersonName": "王佰斌"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.52",
+                "CardNumber": "0351200158",
+                "PersonName": "马菊花"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "0.85",
+                "CardNumber": "0360582222",
+                "PersonName": "畅立刚"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "6.13",
+                "CardNumber": "3497317914",
+                "PersonName": "杨红艳"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "14.84",
+                "CardNumber": "2641438676",
+                "PersonName": "陈学明"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "2.47",
+                "CardNumber": "3841310053",
+                "PersonName": "张桂香"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.53",
+                "CardNumber": "0697894419",
+                "PersonName": "温亚亚"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.52",
+                "CardNumber": "0359561614",
+                "PersonName": "马银花1"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "2.48",
+                "CardNumber": "0172676771",
+                "PersonName": "马丽娟"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "48.16",
+                "CardNumber": "0359716334",
+                "PersonName": "马平升"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.49",
+                "CardNumber": "1435957958",
+                "PersonName": "杨红梅"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "4.23",
+                "CardNumber": "0351177054",
+                "PersonName": "代淑萍"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "0.66",
+                "CardNumber": "3496944554",
+                "PersonName": "杨黎明"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "12.01",
+                "CardNumber": "3496781162",
+                "PersonName": "潘明"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.51",
+                "CardNumber": "3496451066",
+                "PersonName": "杨保生1"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.51",
+                "CardNumber": "2632032148",
+                "PersonName": "沙彦兰"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.50",
+                "CardNumber": "0439286951",
+                "PersonName": "锁忠兰"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "13.36",
+                "CardNumber": "3497324666",
+                "PersonName": "李小林"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "17.01",
+                "CardNumber": "0359929950",
+                "PersonName": "高瑞"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "2.49",
+                "CardNumber": "0173482787",
+                "PersonName": "李继强"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.51",
+                "CardNumber": "3247356534",
+                "PersonName": "王自芳"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.51",
+                "CardNumber": "0701146547",
+                "PersonName": "杨耀兰"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.50",
+                "CardNumber": "3495773850",
+                "PersonName": "马海龙"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "2.51",
+                "CardNumber": "0110804711",
+                "PersonName": "吴学成"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "1.13",
+                "CardNumber": "0351595998",
+                "PersonName": "王建峰"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "0.00",
+                "CardNumber": "0689188787",
+                "PersonName": "候尚军"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "2.50",
+                "CardNumber": "3497980970",
+                "PersonName": "马金花"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.83",
+                "CardNumber": "1994698966",
+                "PersonName": "周玉霞"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.50",
+                "CardNumber": "0351177742",
+                "PersonName": "王金才"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "2.48",
+                "CardNumber": "3652981936",
+                "PersonName": "锁拜拜"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.48",
+                "CardNumber": "1995399078",
+                "PersonName": "杨密乃"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "13.36",
+                "CardNumber": "3497978378",
+                "PersonName": "马银花"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "13.32",
+                "CardNumber": "3688579236",
+                "PersonName": "刘引弟"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.51",
+                "CardNumber": "3497538362",
+                "PersonName": "梁治家"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "2.48",
+                "CardNumber": "3662026410",
+                "PersonName": "曹宇峰"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.47",
+                "CardNumber": "0696741459",
+                "PersonName": "杨立新"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "6.04",
+                "CardNumber": "3688695076",
+                "PersonName": "梁凤霞"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "2.50",
+                "CardNumber": "1994865238",
+                "PersonName": "马步俊"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "13.28",
+                "CardNumber": "0105244087",
+                "PersonName": "马小武"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "11.61",
+                "CardNumber": "3495627818",
+                "PersonName": "候林成"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.49",
+                "CardNumber": "0351083502",
+                "PersonName": "马长军"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "5.98",
+                "CardNumber": "0107992055",
+                "PersonName": "金玉柱"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.52",
+                "CardNumber": "0351189038",
+                "PersonName": "王学才"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.50",
+                "CardNumber": "3495807754",
+                "PersonName": "杨桂萍"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.51",
+                "CardNumber": "3495736026",
+                "PersonName": "马永林"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "1.91",
+                "CardNumber": "0350948366",
+                "PersonName": "王江波"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.51",
+                "CardNumber": "3688637764",
+                "PersonName": "马金芬"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.51",
+                "CardNumber": "1993977494",
+                "PersonName": "白耀文"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "0.48",
+                "CardNumber": "0360463374",
+                "PersonName": "畅晓刚"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.52",
+                "CardNumber": "3496632490",
+                "PersonName": "杨占权"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.49",
+                "CardNumber": "0107720487",
+                "PersonName": "李维梅"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "2.39",
+                "CardNumber": "3722990214",
+                "PersonName": "马英俊"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.48",
+                "CardNumber": "3688235396",
+                "PersonName": "马少污"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "0.16",
+                "CardNumber": "0351685342",
+                "PersonName": "杨红艳"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "2.51",
+                "CardNumber": "3495791546",
+                "PersonName": "杨海军"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.51",
+                "CardNumber": "0100118999",
+                "PersonName": "马建明"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.49",
+                "CardNumber": "0359597470",
+                "PersonName": "马春香"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.49",
+                "CardNumber": "0360535550",
+                "PersonName": "王生学"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.67",
+                "CardNumber": "1995009030",
+                "PersonName": "苏彦霞"
+            }
+        ],
+        "DepartID": 48,
+        "DepartName": "西安锦天物业服务有限公司",
+        "TotalActualHours": 987,
+        "TotalHours": 25920,
+        "TotalTimes": 987,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 120
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "54.89%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "81.19",
+                "CardNumber": "3496231226",
+                "PersonName": "李新院"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "212.13",
+                "CardNumber": "3497067930",
+                "PersonName": "潘志录"
+            }
+        ],
+        "DepartID": 49,
+        "DepartName": "银川市宁东厚德工贸有限公司",
+        "TotalActualHours": 237,
+        "TotalHours": 43200,
+        "TotalTimes": 25,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 3,
+        "AttendanceRatio": "14.46%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "0.00",
+                "CardNumber": "0107475159",
+                "PersonName": "孙明满"
+            },
+            {
+                "AttendenceTimes": "51",
+                "Attendencehours": "2.36",
+                "CardNumber": "3282149737",
+                "PersonName": "李瑞斌"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "3.69",
+                "CardNumber": "0108203991",
+                "PersonName": "张锦来"
+            }
+        ],
+        "DepartID": 52,
+        "DepartName": "河南省日立信股份有限公司",
+        "TotalActualHours": 93,
+        "TotalHours": 10800,
+        "TotalTimes": 90,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 3,
+        "AttendanceRatio": "25.97%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "19.63",
+                "CardNumber": "3841658453",
+                "PersonName": "白伏虎"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "5.02",
+                "CardNumber": "3497296698",
+                "PersonName": "马士龙"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "149.27",
+                "CardNumber": "3497484010",
+                "PersonName": "张清"
+            }
+        ],
+        "DepartID": 54,
+        "DepartName": "灵武吉泰商贸有限公司",
+        "TotalActualHours": 168,
+        "TotalHours": 43200,
+        "TotalTimes": 19,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 5,
+        "AttendanceRatio": "53.92%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.31",
+                "CardNumber": "1628237981",
+                "PersonName": "胡小军"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "218.17",
+                "CardNumber": "3282588281",
+                "PersonName": "吴江"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.98",
+                "CardNumber": "1120107245",
+                "PersonName": "何玉梅"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.00",
+                "CardNumber": "0107171095",
+                "PersonName": "胡小军"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "574.35",
+                "CardNumber": "3278378025",
+                "PersonName": "丁泽文"
+            }
+        ],
+        "DepartID": 60,
+        "DepartName": "宁夏瑞胜源机电设备工程有限公司",
+        "TotalActualHours": 582,
+        "TotalHours": 10800,
+        "TotalTimes": 8,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 117,
+        "AttendanceRatio": "6.80%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "0.17",
+                "CardNumber": "3495938506",
+                "PersonName": "刘斐斐"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "23.73",
+                "CardNumber": "2072969108",
+                "PersonName": "王佳富"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "7.94",
+                "CardNumber": "2074531108",
+                "PersonName": "王君君"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "0.16",
+                "CardNumber": "3247088454",
+                "PersonName": "丁飞月"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "7.54",
+                "CardNumber": "3496306314",
+                "PersonName": "李小亮"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "0.10",
+                "CardNumber": "3497783754",
+                "PersonName": "吴震"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "0.16",
+                "CardNumber": "3840115749",
+                "PersonName": "余瑞文"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "0.14",
+                "CardNumber": "3246964118",
+                "PersonName": "马国成"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "6.64",
+                "CardNumber": "0359494622",
+                "PersonName": "黄科"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "9.55",
+                "CardNumber": "0432549959",
+                "PersonName": "杨佳鑫"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "89.80",
+                "CardNumber": "3496437498",
+                "PersonName": "蒋磊"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "0.00",
+                "CardNumber": "0703240723",
+                "PersonName": "丁金成"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "0.19",
+                "CardNumber": "3496730186",
+                "PersonName": "马谦"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "17.08",
+                "CardNumber": "3497376794",
+                "PersonName": "王刚厦门恒力"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "17.73",
+                "CardNumber": "3841646981",
+                "PersonName": "焦佞"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "1.63",
+                "CardNumber": "0721050350",
+                "PersonName": "包鑫祥"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "25.06",
+                "CardNumber": "3247164390",
+                "PersonName": "陈思忠"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "9.06",
+                "CardNumber": "3496844634",
+                "PersonName": "何瑜轩"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "1.41",
+                "CardNumber": "0717417598",
+                "PersonName": "马伟3"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "10.86",
+                "CardNumber": "0108232567",
+                "PersonName": "尹昊"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "17.89",
+                "CardNumber": "0091548983",
+                "PersonName": "张泽"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "13.66",
+                "CardNumber": "0705258531",
+                "PersonName": "周伟华"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "13.49",
+                "CardNumber": "3840746693",
+                "PersonName": "刘霞"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "83.28",
+                "CardNumber": "3497264970",
+                "PersonName": "杨立华"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "1.64",
+                "CardNumber": "3497527690",
+                "PersonName": "赵桃梅"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "13.68",
+                "CardNumber": "0360965342",
+                "PersonName": "王岩"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "26.51",
+                "CardNumber": "3841730517",
+                "PersonName": "靳宇超"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "0.15",
+                "CardNumber": "3247528278",
+                "PersonName": "候佳伟"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "0.16",
+                "CardNumber": "2662147716",
+                "PersonName": "马飞"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "41.90",
+                "CardNumber": "0108112199",
+                "PersonName": "王飞红"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "0.14",
+                "CardNumber": "0173585091",
+                "PersonName": "马骥"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "5.48",
+                "CardNumber": "2074573412",
+                "PersonName": "马多彦"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "2.13",
+                "CardNumber": "3497387914",
+                "PersonName": "崔辉"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "89.92",
+                "CardNumber": "2064604212",
+                "PersonName": "王浩"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "9.23",
+                "CardNumber": "0107280407",
+                "PersonName": "马玉柱"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "0.17",
+                "CardNumber": "3497773402",
+                "PersonName": "闫翔1"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "16.61",
+                "CardNumber": "3496294794",
+                "PersonName": "徐永双"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "10.80",
+                "CardNumber": "3496622618",
+                "PersonName": "马志发"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "47.38",
+                "CardNumber": "3247643478",
+                "PersonName": "马帅"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "9.21",
+                "CardNumber": "3841713381",
+                "PersonName": "杨明厦门"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "17.73",
+                "CardNumber": "0704224835",
+                "PersonName": "马永辉"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "15.90",
+                "CardNumber": "4228723398",
+                "PersonName": "马强1"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "111.40",
+                "CardNumber": "0696902131",
+                "PersonName": "王俊杰"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "17.72",
+                "CardNumber": "3497314362",
+                "PersonName": "徐云飞"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "23.79",
+                "CardNumber": "3687908244",
+                "PersonName": "孙玉祥"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "2.19",
+                "CardNumber": "1884613287",
+                "PersonName": "张海军"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "0.17",
+                "CardNumber": "3840443653",
+                "PersonName": "鄢虎成"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "47.31",
+                "CardNumber": "3495776090",
+                "PersonName": "冯思铭"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "12.79",
+                "CardNumber": "3495685786",
+                "PersonName": "杨飞飞"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "17.90",
+                "CardNumber": "0703517427",
+                "PersonName": "拉素玛"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "17.89",
+                "CardNumber": "3688775604",
+                "PersonName": "肖龙"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "4.46",
+                "CardNumber": "0107826295",
+                "PersonName": "王佳宇"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "13.66",
+                "CardNumber": "3247453894",
+                "PersonName": "苏静伟"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "11.14",
+                "CardNumber": "2064618420",
+                "PersonName": "金嘉仁"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "17.72",
+                "CardNumber": "2072436612",
+                "PersonName": "李旺旺"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "17.87",
+                "CardNumber": "3496893866",
+                "PersonName": "赵岩"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "28.03",
+                "CardNumber": "0108253703",
+                "PersonName": "马民"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "0.17",
+                "CardNumber": "3496644666",
+                "PersonName": "马海兵"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "6.59",
+                "CardNumber": "3497249722",
+                "PersonName": "鲁建荣"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "6.75",
+                "CardNumber": "0360659998",
+                "PersonName": "王兵兵"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "16.47",
+                "CardNumber": "3496078026",
+                "PersonName": "张宇亮"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "10.59",
+                "CardNumber": "3496509546",
+                "PersonName": "马东1"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "6.49",
+                "CardNumber": "3495989386",
+                "PersonName": "杨连朝"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "18.80",
+                "CardNumber": "3840750629",
+                "PersonName": "马宏林"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "0.18",
+                "CardNumber": "3840000501",
+                "PersonName": "马谦"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "11.20",
+                "CardNumber": "3497137370",
+                "PersonName": "赵金玉"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "22.31",
+                "CardNumber": "3483779014",
+                "PersonName": "毛骁"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "10.81",
+                "CardNumber": "0689102275",
+                "PersonName": "马虎"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "89.79",
+                "CardNumber": "3495688266",
+                "PersonName": "田鹏"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "17.60",
+                "CardNumber": "3688515620",
+                "PersonName": "马建军"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "7.49",
+                "CardNumber": "0351395230",
+                "PersonName": "罗涛"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "9.54",
+                "CardNumber": "3662804650",
+                "PersonName": "王龙"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "2.34",
+                "CardNumber": "3496349034",
+                "PersonName": "蒋玉"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "35.02",
+                "CardNumber": "0697294915",
+                "PersonName": "徐志聪"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "23.88",
+                "CardNumber": "0704935795",
+                "PersonName": "贺军"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "32.26",
+                "CardNumber": "3840418053",
+                "PersonName": "马鹏1"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "15.90",
+                "CardNumber": "3495858122",
+                "PersonName": "尹文飞"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "17.51",
+                "CardNumber": "2662871300",
+                "PersonName": "赵志明"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "23.89",
+                "CardNumber": "0717562478",
+                "PersonName": "杜兵"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "13.21",
+                "CardNumber": "0720242750",
+                "PersonName": "夏芙蓉"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "3.02",
+                "CardNumber": "3497579450",
+                "PersonName": "唐佳轩"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "0.17",
+                "CardNumber": "3688473636",
+                "PersonName": "傅佳慧"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "23.94",
+                "CardNumber": "2661158260",
+                "PersonName": "马建涛"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "10.86",
+                "CardNumber": "3840074709",
+                "PersonName": "薛儒"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "17.73",
+                "CardNumber": "3839867701",
+                "PersonName": "刘佳奇"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "11.19",
+                "CardNumber": "3497784810",
+                "PersonName": "肖英涛"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "10.86",
+                "CardNumber": "3496076042",
+                "PersonName": "耿华"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "0.19",
+                "CardNumber": "3688963156",
+                "PersonName": "杜文浩"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "23.94",
+                "CardNumber": "2787859242",
+                "PersonName": "杨建兵"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "6.41",
+                "CardNumber": "3496235834",
+                "PersonName": "马小刚"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "83.04",
+                "CardNumber": "2072306532",
+                "PersonName": "张永乐"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "0.19",
+                "CardNumber": "1890133828",
+                "PersonName": "刘乐"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "335.77",
+                "CardNumber": "3497836730",
+                "PersonName": "于献宇"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "18.15",
+                "CardNumber": "3247070054",
+                "PersonName": "马进军"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "17.07",
+                "CardNumber": "3661191946",
+                "PersonName": "段康佳"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "83.04",
+                "CardNumber": "0703298035",
+                "PersonName": "马阳"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "11.82",
+                "CardNumber": "3841179701",
+                "PersonName": "董昊"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "9.26",
+                "CardNumber": "0107518087",
+                "PersonName": "杨佳辉2"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "15.44",
+                "CardNumber": "2660828292",
+                "PersonName": "马泽平"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "10.81",
+                "CardNumber": "0698049459",
+                "PersonName": "丁杨"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "89.77",
+                "CardNumber": "3723257078",
+                "PersonName": "梁钰"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "0.11",
+                "CardNumber": "3496666234",
+                "PersonName": "吴继峰"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "17.73",
+                "CardNumber": "0720485630",
+                "PersonName": "马利铎"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "23.78",
+                "CardNumber": "3495988762",
+                "PersonName": "张志林"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "10.86",
+                "CardNumber": "3495792330",
+                "PersonName": "金乐"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "10.81",
+                "CardNumber": "3497324378",
+                "PersonName": "卢建洲"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "5.67",
+                "CardNumber": "0359980510",
+                "PersonName": "李力"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.11",
+                "CardNumber": "3496552970",
+                "PersonName": "周佳文"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "0.14",
+                "CardNumber": "3496802474",
+                "PersonName": "刘恩"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "115.68",
+                "CardNumber": "2786148410",
+                "PersonName": "杜飞"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "17.90",
+                "CardNumber": "3497803994",
+                "PersonName": "马鹏"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "15.95",
+                "CardNumber": "3688320292",
+                "PersonName": "张花花"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "10.87",
+                "CardNumber": "0351467614",
+                "PersonName": "李伟"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "11.96",
+                "CardNumber": "0091785383",
+                "PersonName": "高翔"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "13.47",
+                "CardNumber": "0716025038",
+                "PersonName": "邓晨雪"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "14.34",
+                "CardNumber": "3663110778",
+                "PersonName": "倪太彬"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.51",
+                "CardNumber": "3246999814",
+                "PersonName": "王鹏辉"
+            }
+        ],
+        "DepartID": 115,
+        "DepartName": "厦门市恒力机电设备运营有限公司",
+        "TotalActualHours": 1718,
+        "TotalHours": 43200,
+        "TotalTimes": 1718,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 43,
+        "AttendanceRatio": "9.21%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "10.40",
+                "CardNumber": "0697165235",
+                "PersonName": "郭五旦"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "13.26",
+                "CardNumber": "3496397066",
+                "PersonName": "任于停"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "9.49",
+                "CardNumber": "0675181156",
+                "PersonName": "吴玉龙"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "41.76",
+                "CardNumber": "3688679700",
+                "PersonName": "谢国强"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "11.76",
+                "CardNumber": "1993274614",
+                "PersonName": "许明杰"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "4.32",
+                "CardNumber": "0105607783",
+                "PersonName": "朱磊"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "2.23",
+                "CardNumber": "3495940506",
+                "PersonName": "唐才生"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "7.57",
+                "CardNumber": "0701413347",
+                "PersonName": "姜越伟"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "10.16",
+                "CardNumber": "2073311524",
+                "PersonName": "上官熔辉"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "2.32",
+                "CardNumber": "0106836151",
+                "PersonName": "丁文亮"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "86.06",
+                "CardNumber": "3496563082",
+                "PersonName": "郑喜军"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "10.41",
+                "CardNumber": "2070967732",
+                "PersonName": "王浩杰"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "36.81",
+                "CardNumber": "3246979414",
+                "PersonName": "王伟国"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "24.07",
+                "CardNumber": "3247173222",
+                "PersonName": "李忠领"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "33.70",
+                "CardNumber": "0703896339",
+                "PersonName": "王海龙"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "18.15",
+                "CardNumber": "3497671450",
+                "PersonName": "张贵龙"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "25.05",
+                "CardNumber": "3687987124",
+                "PersonName": "高永安"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.55",
+                "CardNumber": "3496230554",
+                "PersonName": "陈复根"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "3.92",
+                "CardNumber": "3497899050",
+                "PersonName": "徐强强"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "51.98",
+                "CardNumber": "3495836186",
+                "PersonName": "许凤阳"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "1.71",
+                "CardNumber": "3662657546",
+                "PersonName": "宋得荣"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "19.27",
+                "CardNumber": "3496341002",
+                "PersonName": "孙吉庆"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "5.90",
+                "CardNumber": "2072346228",
+                "PersonName": "赵世宏"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "47.95",
+                "CardNumber": "0091764439",
+                "PersonName": "张小强"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "1.84",
+                "CardNumber": "3840008517",
+                "PersonName": "张朝臣"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "69.85",
+                "CardNumber": "3495940762",
+                "PersonName": "张硕"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "24.86",
+                "CardNumber": "0703475459",
+                "PersonName": "张风涛"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "0.00",
+                "CardNumber": "3495940138",
+                "PersonName": "李广友"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "12.41",
+                "CardNumber": "3284267769",
+                "PersonName": "马骁"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "4.16",
+                "CardNumber": "3688781316",
+                "PersonName": "成星"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "13.63",
+                "CardNumber": "3284373369",
+                "PersonName": "李超"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "5.93",
+                "CardNumber": "0106846071",
+                "PersonName": "丁泽礼"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "81.46",
+                "CardNumber": "3661802266",
+                "PersonName": "侯金棒"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "1.30",
+                "CardNumber": "2632178692",
+                "PersonName": "张晓强"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "14.81",
+                "CardNumber": "3723810358",
+                "PersonName": "史海燕"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "4.10",
+                "CardNumber": "0108182119",
+                "PersonName": "刘洋"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "2.57",
+                "CardNumber": "3662488346",
+                "PersonName": "纵坤"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "10.16",
+                "CardNumber": "3495831850",
+                "PersonName": "唐亚志"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "6.20",
+                "CardNumber": "3246836198",
+                "PersonName": "苏兵"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "37.76",
+                "CardNumber": "2073938420",
+                "PersonName": "栗学枢"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "3.92",
+                "CardNumber": "0108082599",
+                "PersonName": "史海军"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "0.87",
+                "CardNumber": "2074389508",
+                "PersonName": "李生平"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "3.63",
+                "CardNumber": "3496789002",
+                "PersonName": "梁辉辉"
+            }
+        ],
+        "DepartID": 123,
+        "DepartName": "中国能源建设集团浙江火电建设有限",
+        "TotalActualHours": 855,
+        "TotalHours": 43200,
+        "TotalTimes": 852,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 14,
+        "AttendanceRatio": "4.99%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "411.33",
+                "CardNumber": "2787832522",
+                "PersonName": "04134"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "70.73",
+                "CardNumber": "3496127626",
+                "PersonName": "04170"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "7.19",
+                "CardNumber": "3497116986",
+                "PersonName": "04140"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "3.65",
+                "CardNumber": "3495899226",
+                "PersonName": "04155"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.09",
+                "CardNumber": "3497191450",
+                "PersonName": "04123"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "237.76",
+                "CardNumber": "3495729850",
+                "PersonName": "04089"
+            },
+            {
+                "AttendenceTimes": "43",
+                "Attendencehours": "3.75",
+                "CardNumber": "3496555786",
+                "PersonName": "04006"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "5.80",
+                "CardNumber": "2938346350",
+                "PersonName": "04061"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "265.18",
+                "CardNumber": "3497466314",
+                "PersonName": "04028"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "12.39",
+                "CardNumber": "3496591242",
+                "PersonName": "04110"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "4.48",
+                "CardNumber": "3496397402",
+                "PersonName": "04159"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "2.58",
+                "CardNumber": "3496658186",
+                "PersonName": "04075"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "7.99",
+                "CardNumber": "3660980890",
+                "PersonName": "04186"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "480.82",
+                "CardNumber": "3661334154",
+                "PersonName": "04094"
+            }
+        ],
+        "DepartID": 129,
+        "DepartName": "厂家来访人员",
+        "TotalActualHours": 151,
+        "TotalHours": 43200,
+        "TotalTimes": 151,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 6,
+        "AttendanceRatio": "7.82%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "7.37",
+                "CardNumber": "3497237786",
+                "PersonName": "马伟"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "37.33",
+                "CardNumber": "3688323028",
+                "PersonName": "马建军1"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "13.67",
+                "CardNumber": "3497559914",
+                "PersonName": "杨启荣"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "373.82",
+                "CardNumber": "2786394810",
+                "PersonName": "袁爱华"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "11.00",
+                "CardNumber": "3497159242",
+                "PersonName": "马利龙"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "24.30",
+                "CardNumber": "3497232394",
+                "PersonName": "杨学礼"
+            }
+        ],
+        "DepartID": 134,
+        "DepartName": "天门神火",
+        "TotalActualHours": 101,
+        "TotalHours": 43200,
+        "TotalTimes": 77,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 96,
+        "AttendanceRatio": "10.50%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.33",
+                "CardNumber": "3495895482",
+                "PersonName": "纪宏胜"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "13.73",
+                "CardNumber": "3496836362",
+                "PersonName": "高鸿飞"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "19.61",
+                "CardNumber": "0701417891",
+                "PersonName": "邓智慧"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "37.83",
+                "CardNumber": "3736509961",
+                "PersonName": "俞锋"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "11.67",
+                "CardNumber": "3497956810",
+                "PersonName": "陈建云"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "85.61",
+                "CardNumber": "3282603369",
+                "PersonName": "李瑞1"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "1.73",
+                "CardNumber": "0107185463",
+                "PersonName": "杨晓辉"
+            },
+            {
+                "AttendenceTimes": "46",
+                "Attendencehours": "1.19",
+                "CardNumber": "1626663101",
+                "PersonName": "李瑞"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "13.77",
+                "CardNumber": "3496781690",
+                "PersonName": "马小俊"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "13.36",
+                "CardNumber": "3247202070",
+                "PersonName": "张兴中"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "6.47",
+                "CardNumber": "3247043462",
+                "PersonName": "王纪辉"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "23.76",
+                "CardNumber": "0790436873",
+                "PersonName": "杨斌1"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "1.85",
+                "CardNumber": "0107422119",
+                "PersonName": "马晓付"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "31.55",
+                "CardNumber": "3281921881",
+                "PersonName": "杜军"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "1.62",
+                "CardNumber": "2074518180",
+                "PersonName": "易万真"
+            },
+            {
+                "AttendenceTimes": "44",
+                "Attendencehours": "0.72",
+                "CardNumber": "0107382327",
+                "PersonName": "刘国杰"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "4.79",
+                "CardNumber": "3496802538",
+                "PersonName": "葸天国"
+            },
+            {
+                "AttendenceTimes": "52",
+                "Attendencehours": "4.25",
+                "CardNumber": "3496851594",
+                "PersonName": "张世宴"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "14.17",
+                "CardNumber": "0107435015",
+                "PersonName": "纪凤杰"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "18.73",
+                "CardNumber": "3497670570",
+                "PersonName": "王刚2"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "21.58",
+                "CardNumber": "3246970054",
+                "PersonName": "孙波"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "85.82",
+                "CardNumber": "3497046042",
+                "PersonName": "张晓峰"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "18.22",
+                "CardNumber": "3010095782",
+                "PersonName": "魏琪鹏"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "1.47",
+                "CardNumber": "3688215188",
+                "PersonName": "王慈祥"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "4.65",
+                "CardNumber": "2842682160",
+                "PersonName": "马耀波"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "44.20",
+                "CardNumber": "3661808570",
+                "PersonName": "纪杨"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "11.93",
+                "CardNumber": "3497532842",
+                "PersonName": "杨文"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "19.78",
+                "CardNumber": "2071397332",
+                "PersonName": "孙德学"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "6.30",
+                "CardNumber": "3284908729",
+                "PersonName": "张宗胜"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "0.05",
+                "CardNumber": "3277251161",
+                "PersonName": "马玉泽"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "47.79",
+                "CardNumber": "0467616529",
+                "PersonName": "孙波1"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "16.37",
+                "CardNumber": "0426887369",
+                "PersonName": "张浩"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "12.26",
+                "CardNumber": "3497574666",
+                "PersonName": "陈天善"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "24.62",
+                "CardNumber": "2072513572",
+                "PersonName": "马彦军"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "4.58",
+                "CardNumber": "0107653191",
+                "PersonName": "田进龙1"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "6.73",
+                "CardNumber": "0107641111",
+                "PersonName": "路秀奎"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "5.82",
+                "CardNumber": "0582425483",
+                "PersonName": "马红军1"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "17.71",
+                "CardNumber": "3662926394",
+                "PersonName": "李振德"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "10.81",
+                "CardNumber": "0108169831",
+                "PersonName": "马占林"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "416.11",
+                "CardNumber": "1628349725",
+                "PersonName": "马大宝"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "13.24",
+                "CardNumber": "0792036761",
+                "PersonName": "王佳鑫"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "1.81",
+                "CardNumber": "1347508570",
+                "PersonName": "李琳"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "0.58",
+                "CardNumber": "3496281450",
+                "PersonName": "康世林"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "13.48",
+                "CardNumber": "0698350082",
+                "PersonName": "马震"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "4.50",
+                "CardNumber": "3285999833",
+                "PersonName": "郭永贵"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "17.52",
+                "CardNumber": "0106637511",
+                "PersonName": "吴全海"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "52.96",
+                "CardNumber": "3495873562",
+                "PersonName": "耿长征"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "52.77",
+                "CardNumber": "3496605978",
+                "PersonName": "任佳翔"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "0.25",
+                "CardNumber": "3497317898",
+                "PersonName": "侯振红"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "30.34",
+                "CardNumber": "3285051449",
+                "PersonName": "丁生礼"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "1.79",
+                "CardNumber": "3497386266",
+                "PersonName": "袁顺喜"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "505.45",
+                "CardNumber": "1695435717",
+                "PersonName": "高鸿博"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "10.60",
+                "CardNumber": "3731619753",
+                "PersonName": "马林"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "2.72",
+                "CardNumber": "1529171393",
+                "PersonName": "孙旺"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "20.30",
+                "CardNumber": "3497265562",
+                "PersonName": "王自学"
+            },
+            {
+                "AttendenceTimes": "41",
+                "Attendencehours": "43.67",
+                "CardNumber": "3497527818",
+                "PersonName": "王海林"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "18.56",
+                "CardNumber": "0107853607",
+                "PersonName": "马宝"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "9.22",
+                "CardNumber": "3688211860",
+                "PersonName": "李建臣"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "6.15",
+                "CardNumber": "3497985466",
+                "PersonName": "张永平"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "10.22",
+                "CardNumber": "0107433927",
+                "PersonName": "李贵海"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "17.39",
+                "CardNumber": "3496926938",
+                "PersonName": "李海涛"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "10.58",
+                "CardNumber": "3840467877",
+                "PersonName": "杨银宝"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "42.21",
+                "CardNumber": "3496900154",
+                "PersonName": "张国剑"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "4.69",
+                "CardNumber": "0701403219",
+                "PersonName": "吕瑞"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "6.33",
+                "CardNumber": "3496908618",
+                "PersonName": "卢连祥"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "0.41",
+                "CardNumber": "2408577566",
+                "PersonName": "苏建强"
+            },
+            {
+                "AttendenceTimes": "46",
+                "Attendencehours": "22.21",
+                "CardNumber": "2787873930",
+                "PersonName": "赵楠"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "4.63",
+                "CardNumber": "0967170716",
+                "PersonName": "马勇"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "1.79",
+                "CardNumber": "3496682314",
+                "PersonName": "葸九怀"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "60.23",
+                "CardNumber": "2072383380",
+                "PersonName": "周海东"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "13.36",
+                "CardNumber": "3745204537",
+                "PersonName": "田晓旭"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "3.79",
+                "CardNumber": "3285135545",
+                "PersonName": "宋丽萍"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "17.53",
+                "CardNumber": "3662248922",
+                "PersonName": "杨繁"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "18.00",
+                "CardNumber": "0595252273",
+                "PersonName": "曹振生"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "10.74",
+                "CardNumber": "0106805687",
+                "PersonName": "姬稳江"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "1.80",
+                "CardNumber": "3495942762",
+                "PersonName": "杨世军"
+            },
+            {
+                "AttendenceTimes": "38",
+                "Attendencehours": "19.24",
+                "CardNumber": "0107350519",
+                "PersonName": "马志成"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "1.79",
+                "CardNumber": "3282787417",
+                "PersonName": "闫腊成"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "3.46",
+                "CardNumber": "1631613453",
+                "PersonName": "田斌"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "37.80",
+                "CardNumber": "0105248743",
+                "PersonName": "田进龙"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "2.41",
+                "CardNumber": "3687905860",
+                "PersonName": "王自治"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "38.97",
+                "CardNumber": "3769032281",
+                "PersonName": "余小学"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "12.00",
+                "CardNumber": "3687834100",
+                "PersonName": "柳升龙"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "5.64",
+                "CardNumber": "3279082393",
+                "PersonName": "韩伯涛"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "257.73",
+                "CardNumber": "3496802714",
+                "PersonName": "王赛尔"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "24.63",
+                "CardNumber": "3688244788",
+                "PersonName": "郑权"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "6.44",
+                "CardNumber": "3281468937",
+                "PersonName": "闫战利"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "1.64",
+                "CardNumber": "1994218598",
+                "PersonName": "马国云"
+            },
+            {
+                "AttendenceTimes": "44",
+                "Attendencehours": "19.53",
+                "CardNumber": "3688763012",
+                "PersonName": "杨佳辉"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "0.60",
+                "CardNumber": "3281804153",
+                "PersonName": "祁春生"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "1.87",
+                "CardNumber": "0107988855",
+                "PersonName": "纳保军"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "65.43",
+                "CardNumber": "3497847610",
+                "PersonName": "杨飞"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "4.23",
+                "CardNumber": "2073534228",
+                "PersonName": "马博庆"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "0.01",
+                "CardNumber": "3497931754",
+                "PersonName": "宋旺旺"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "2.46",
+                "CardNumber": "3496617818",
+                "PersonName": "王尚尚"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.27",
+                "CardNumber": "3497487898",
+                "PersonName": "周金山"
+            }
+        ],
+        "DepartID": 144,
+        "DepartName": "北京腾疆电力工程有限公司",
+        "TotalActualHours": 2177,
+        "TotalHours": 43200,
+        "TotalTimes": 2175,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 72,
+        "AttendanceRatio": "8.64%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "5.67",
+                "CardNumber": "3246766150",
+                "PersonName": "范文涛"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "0.17",
+                "CardNumber": "0337680973",
+                "PersonName": "李东"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "41.64",
+                "CardNumber": "3497428730",
+                "PersonName": "王佳健"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "0.17",
+                "CardNumber": "3496915466",
+                "PersonName": "伏刚"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "12.69",
+                "CardNumber": "0091676743",
+                "PersonName": "马小龙"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "0.11",
+                "CardNumber": "0697767027",
+                "PersonName": "田建亭"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "16.52",
+                "CardNumber": "2073927396",
+                "PersonName": "赵海龙"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "23.73",
+                "CardNumber": "3496837290",
+                "PersonName": "李家奇"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "7.94",
+                "CardNumber": "3496247114",
+                "PersonName": "马春花1"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "13.66",
+                "CardNumber": "3663110778",
+                "PersonName": "王小刚厦门"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "8.67",
+                "CardNumber": "3495740442",
+                "PersonName": "顾宁"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "23.86",
+                "CardNumber": "3840348293",
+                "PersonName": "程树超"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "16.99",
+                "CardNumber": "3305059222",
+                "PersonName": "翟立东"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "9.52",
+                "CardNumber": "3496730186",
+                "PersonName": "马玉玺"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "0.17",
+                "CardNumber": "0458556839",
+                "PersonName": "马永祥"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "0.17",
+                "CardNumber": "3246995926",
+                "PersonName": "丁玉琪"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "19.63",
+                "CardNumber": "3496839466",
+                "PersonName": "刘玉兰"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "0.19",
+                "CardNumber": "4019261058",
+                "PersonName": "马俊"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "83.48",
+                "CardNumber": "2072789972",
+                "PersonName": "聂富宁"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "0.16",
+                "CardNumber": "1631559453",
+                "PersonName": "周健"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "23.97",
+                "CardNumber": "0172039955",
+                "PersonName": "杨群"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "6.80",
+                "CardNumber": "3247188022",
+                "PersonName": "王颖"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "0.11",
+                "CardNumber": "2787917898",
+                "PersonName": "马华"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "24.23",
+                "CardNumber": "3496914154",
+                "PersonName": "王学兵"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "16.61",
+                "CardNumber": "3496708842",
+                "PersonName": "孙志华厦门"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "35.01",
+                "CardNumber": "3687780836",
+                "PersonName": "陈银"
+            },
+            {
+                "AttendenceTimes": "44",
+                "Attendencehours": "3.43",
+                "CardNumber": "2408399966",
+                "PersonName": "杨智鑫"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "0.17",
+                "CardNumber": "3495985978",
+                "PersonName": "蔺瑶"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "16.94",
+                "CardNumber": "3247421830",
+                "PersonName": "王佳军"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "17.90",
+                "CardNumber": "3663015690",
+                "PersonName": "王平"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "83.04",
+                "CardNumber": "3661749594",
+                "PersonName": "杨阳"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "9.26",
+                "CardNumber": "2071310292",
+                "PersonName": "李晓琴11"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "97.10",
+                "CardNumber": "3496393738",
+                "PersonName": "余宝信"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "1.65",
+                "CardNumber": "2642703988",
+                "PersonName": "杨军"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "23.87",
+                "CardNumber": "3497401834",
+                "PersonName": "张兴华"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "0.19",
+                "CardNumber": "0100164199",
+                "PersonName": "王凯1"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "10.86",
+                "CardNumber": "3497373594",
+                "PersonName": "李东升"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "6.07",
+                "CardNumber": "3687772356",
+                "PersonName": "王小刚厦门"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "9.24",
+                "CardNumber": "3358949285",
+                "PersonName": "杨永锋"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "23.92",
+                "CardNumber": "2786278106",
+                "PersonName": "郝英龙"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "23.76",
+                "CardNumber": "3497267626",
+                "PersonName": "高克祥"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "89.70",
+                "CardNumber": "3662394826",
+                "PersonName": "周莉瑞"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "17.86",
+                "CardNumber": "2073592404",
+                "PersonName": "张金录"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "23.88",
+                "CardNumber": "3840063525",
+                "PersonName": "范俊满"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "23.78",
+                "CardNumber": "2107534272",
+                "PersonName": "马虎1"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "6.75",
+                "CardNumber": "3660907962",
+                "PersonName": "马吉祥"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "7.54",
+                "CardNumber": "3662954586",
+                "PersonName": "白鑫波"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "1.35",
+                "CardNumber": "3285964457",
+                "PersonName": "张辉"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "17.72",
+                "CardNumber": "3497477626",
+                "PersonName": "李甜甜"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "2.81",
+                "CardNumber": "3495596938",
+                "PersonName": "马静"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "16.96",
+                "CardNumber": "2787515834",
+                "PersonName": "邓芳芳"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "12.21",
+                "CardNumber": "3663101754",
+                "PersonName": "李万元"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "8.36",
+                "CardNumber": "3496657018",
+                "PersonName": "杨明"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "1.08",
+                "CardNumber": "3662522090",
+                "PersonName": "李嘉明"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "5.00",
+                "CardNumber": "2062858164",
+                "PersonName": "高永亮"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "17.72",
+                "CardNumber": "3497786314",
+                "PersonName": "邹海波"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "15.27",
+                "CardNumber": "3281816889",
+                "PersonName": "马洪玉"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "2.14",
+                "CardNumber": "2662443684",
+                "PersonName": "徐亮"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "2.17",
+                "CardNumber": "3497716234",
+                "PersonName": "武希林"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "7.94",
+                "CardNumber": "2662052724",
+                "PersonName": "韩鹏厦门"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "17.73",
+                "CardNumber": "3495739002",
+                "PersonName": "刘佳亮"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "30.59",
+                "CardNumber": "0107723527",
+                "PersonName": "祁海鹏"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "2.26",
+                "CardNumber": "2072218212",
+                "PersonName": "任同心"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "0.14",
+                "CardNumber": "2421370388",
+                "PersonName": "李杨"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "11.97",
+                "CardNumber": "2660748628",
+                "PersonName": "张娜"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "23.93",
+                "CardNumber": "0704564771",
+                "PersonName": "武力强"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "6.61",
+                "CardNumber": "3497540746",
+                "PersonName": "王峰"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "0.49",
+                "CardNumber": "2072878884",
+                "PersonName": "杨佳辉1"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "23.94",
+                "CardNumber": "3497385306",
+                "PersonName": "全文杰"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "23.78",
+                "CardNumber": "3497462186",
+                "PersonName": "刘彦超"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "11.41",
+                "CardNumber": "3840442757",
+                "PersonName": "樊文"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "6.45",
+                "CardNumber": "3497455386",
+                "PersonName": "田新"
+            }
+        ],
+        "DepartID": 145,
+        "DepartName": "厦门恒力机电设备营运有限公司一期",
+        "TotalActualHours": 1344,
+        "TotalHours": 74520,
+        "TotalTimes": 1338,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 345
+    },
+    {
+        "ActualPersonnUmber": 4,
+        "AttendanceRatio": "14.95%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "96.61",
+                "CardNumber": "3688407028",
+                "PersonName": "郝鹏"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.73",
+                "CardNumber": "2594988538",
+                "PersonName": "郝鹏"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "3.98",
+                "CardNumber": "2072702324",
+                "PersonName": "韩文彪"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "43.20",
+                "CardNumber": "3841951781",
+                "PersonName": "马波维尔康"
+            }
+        ],
+        "DepartID": 147,
+        "DepartName": "宁夏维尔康环境检测有限公司",
+        "TotalActualHours": 129,
+        "TotalHours": 43200,
+        "TotalTimes": 86,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "18.13%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "6.07",
+                "CardNumber": "3497651386",
+                "PersonName": "张家琦"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "10.31",
+                "CardNumber": "3305449734",
+                "PersonName": "刘全"
+            }
+        ],
+        "DepartID": 149,
+        "DepartName": "宁夏维尔康环境检测有限公司一期",
+        "TotalActualHours": 78,
+        "TotalHours": 43200,
+        "TotalTimes": 68,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 98,
+        "AttendanceRatio": "6.16%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "71.35",
+                "CardNumber": "3688096676",
+                "PersonName": "365"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.84",
+                "CardNumber": "3687856100",
+                "PersonName": "231"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "11.41",
+                "CardNumber": "1890574500",
+                "PersonName": "389"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "32.92",
+                "CardNumber": "3694540724",
+                "PersonName": "290"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "7.06",
+                "CardNumber": "3688430836",
+                "PersonName": "351"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "11.34",
+                "CardNumber": "3688673700",
+                "PersonName": "063"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "0.96",
+                "CardNumber": "3480001174",
+                "PersonName": "039"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "10.96",
+                "CardNumber": "0697308179",
+                "PersonName": "043"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "46.43",
+                "CardNumber": "0107930887",
+                "PersonName": "086"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "6.85",
+                "CardNumber": "0107794951",
+                "PersonName": "097"
+            },
+            {
+                "AttendenceTimes": "60",
+                "Attendencehours": "16.09",
+                "CardNumber": "0100347079",
+                "PersonName": "023"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "47.11",
+                "CardNumber": "3690862084",
+                "PersonName": "274"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "0.81",
+                "CardNumber": "3722956102",
+                "PersonName": "008"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "23.74",
+                "CardNumber": "2954593348",
+                "PersonName": "211"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "17.56",
+                "CardNumber": "3688414868",
+                "PersonName": "369"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "28.73",
+                "CardNumber": "3688041924",
+                "PersonName": "375"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "13.04",
+                "CardNumber": "2661807812",
+                "PersonName": "329"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "23.52",
+                "CardNumber": "3840697029",
+                "PersonName": "240"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "1.99",
+                "CardNumber": "3688494068",
+                "PersonName": "111"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "5.17",
+                "CardNumber": "3841180437",
+                "PersonName": "031"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "46.33",
+                "CardNumber": "3688198836",
+                "PersonName": "367"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "196.14",
+                "CardNumber": "3687923620",
+                "PersonName": "360"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "6.55",
+                "CardNumber": "3688273812",
+                "PersonName": "174"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "132.99",
+                "CardNumber": "3687885460",
+                "PersonName": "207"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "2.68",
+                "CardNumber": "0107995703",
+                "PersonName": "114"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "140.48",
+                "CardNumber": "2072708788",
+                "PersonName": "154"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "46.22",
+                "CardNumber": "2071024196",
+                "PersonName": "229"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "11.97",
+                "CardNumber": "3688041140",
+                "PersonName": "356"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "21.89",
+                "CardNumber": "0107305143",
+                "PersonName": "096"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "20.26",
+                "CardNumber": "0107989895",
+                "PersonName": "094"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "56.84",
+                "CardNumber": "3688214436",
+                "PersonName": "364"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "3.14",
+                "CardNumber": "3840492357",
+                "PersonName": "055"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "0.69",
+                "CardNumber": "3687805684",
+                "PersonName": "316"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "6.59",
+                "CardNumber": "2072953572",
+                "PersonName": "147"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "12.63",
+                "CardNumber": "0689140003",
+                "PersonName": "004"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "17.36",
+                "CardNumber": "3841148613",
+                "PersonName": "182"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "120.00",
+                "CardNumber": "3840793861",
+                "PersonName": "210"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "4.76",
+                "CardNumber": "0108269335",
+                "PersonName": "088"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "73.64",
+                "CardNumber": "3692254788",
+                "PersonName": "246"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "16.33",
+                "CardNumber": "3688642900",
+                "PersonName": "345"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "17.65",
+                "CardNumber": "0681957538",
+                "PersonName": "016"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "17.34",
+                "CardNumber": "0172277587",
+                "PersonName": "016"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "17.33",
+                "CardNumber": "2073752548",
+                "PersonName": "394"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "196.14",
+                "CardNumber": "3839957157",
+                "PersonName": "331"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "23.91",
+                "CardNumber": "0108301655",
+                "PersonName": "143"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "10.19",
+                "CardNumber": "1995439558",
+                "PersonName": "022"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "0.48",
+                "CardNumber": "3688580228",
+                "PersonName": "225"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "4.36",
+                "CardNumber": "2661960356",
+                "PersonName": "127"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "25.06",
+                "CardNumber": "3688774484",
+                "PersonName": "363"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "17.35",
+                "CardNumber": "3841743461",
+                "PersonName": "149"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "17.33",
+                "CardNumber": "3687951684",
+                "PersonName": "058"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "2.55",
+                "CardNumber": "3688771012",
+                "PersonName": "052"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "4.47",
+                "CardNumber": "3840733429",
+                "PersonName": "293"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "7.63",
+                "CardNumber": "3688381508",
+                "PersonName": "275"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "21.69",
+                "CardNumber": "0107390087",
+                "PersonName": "092"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "4.27",
+                "CardNumber": "2763600342",
+                "PersonName": "056"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "6.67",
+                "CardNumber": "2662150340",
+                "PersonName": "107"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "21.55",
+                "CardNumber": "3693031812",
+                "PersonName": "018"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "5.17",
+                "CardNumber": "3840721141",
+                "PersonName": "272"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "101.24",
+                "CardNumber": "3874260150",
+                "PersonName": "136"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "11.38",
+                "CardNumber": "3694677988",
+                "PersonName": "313"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "11.42",
+                "CardNumber": "3692483316",
+                "PersonName": "171"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "0.00",
+                "CardNumber": "2661083844",
+                "PersonName": "159"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "51.52",
+                "CardNumber": "2842712832",
+                "PersonName": "150"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "143.70",
+                "CardNumber": "3841617829",
+                "PersonName": "163"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "12.82",
+                "CardNumber": "3687862420",
+                "PersonName": "348"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "7.21",
+                "CardNumber": "3689389924",
+                "PersonName": "131"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "6.55",
+                "CardNumber": "0107545271",
+                "PersonName": "135"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "17.37",
+                "CardNumber": "2116096660",
+                "PersonName": "166"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "3.99",
+                "CardNumber": "2662849428",
+                "PersonName": "165"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "0.82",
+                "CardNumber": "3688426324",
+                "PersonName": "099"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "7.07",
+                "CardNumber": "0106768343",
+                "PersonName": "064"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "41.94",
+                "CardNumber": "3840365829",
+                "PersonName": "347"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.53",
+                "CardNumber": "3841691893",
+                "PersonName": "194"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "4.53",
+                "CardNumber": "0101134567",
+                "PersonName": "139"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "192.95",
+                "CardNumber": "2679480436",
+                "PersonName": "102"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "0.36",
+                "CardNumber": "2842067264",
+                "PersonName": "051"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "7.10",
+                "CardNumber": "0106836903",
+                "PersonName": "080"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "2.02",
+                "CardNumber": "3840843813",
+                "PersonName": "309"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "46.88",
+                "CardNumber": "3841929013",
+                "PersonName": "269"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "45.18",
+                "CardNumber": "3688680212",
+                "PersonName": "307"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "6.43",
+                "CardNumber": "3687968772",
+                "PersonName": "234"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "46.40",
+                "CardNumber": "3482732550",
+                "PersonName": "041"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "6.15",
+                "CardNumber": "3841237589",
+                "PersonName": "067"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "13.03",
+                "CardNumber": "1887067332",
+                "PersonName": "387"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "5.81",
+                "CardNumber": "3688347188",
+                "PersonName": "236"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "5.14",
+                "CardNumber": "3691455572",
+                "PersonName": "308"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "3.32",
+                "CardNumber": "3688234532",
+                "PersonName": "286"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "2.02",
+                "CardNumber": "3687818404",
+                "PersonName": "189"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "23.78",
+                "CardNumber": "0696053699",
+                "PersonName": "106"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "35.61",
+                "CardNumber": "3688205380",
+                "PersonName": "239"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "23.57",
+                "CardNumber": "0105380599",
+                "PersonName": "101"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "12.49",
+                "CardNumber": "0100158567",
+                "PersonName": "089"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "63.18",
+                "CardNumber": "0105426087",
+                "PersonName": "024"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "17.43",
+                "CardNumber": "0107537255",
+                "PersonName": "081"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "11.37",
+                "CardNumber": "3840803477",
+                "PersonName": "238"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "11.37",
+                "CardNumber": "0107877351",
+                "PersonName": "121"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.15",
+                "CardNumber": "2072831204",
+                "PersonName": "230"
+            }
+        ],
+        "DepartID": 150,
+        "DepartName": "检修承包商专用临时卡",
+        "TotalActualHours": 1304,
+        "TotalHours": 43200,
+        "TotalTimes": 1304,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "10.10%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "252.98",
+                "CardNumber": "2407902302",
+                "PersonName": "李亦武"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "41.65",
+                "CardNumber": "1142548265",
+                "PersonName": "段帅帅"
+            }
+        ],
+        "DepartID": 152,
+        "DepartName": "二期尾工",
+        "TotalActualHours": 43,
+        "TotalHours": 10800,
+        "TotalTimes": 2,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 4,
+        "AttendanceRatio": "23.13%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "0.70",
+                "CardNumber": "3688067572",
+                "PersonName": "李浩"
+            },
+            {
+                "AttendenceTimes": "39",
+                "Attendencehours": "0.32",
+                "CardNumber": "3840746597",
+                "PersonName": "隆天明"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "17.35",
+                "CardNumber": "2954519412",
+                "PersonName": "杜亮"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "68.82",
+                "CardNumber": "3497563034",
+                "PersonName": "李飞1"
+            }
+        ],
+        "DepartID": 153,
+        "DepartName": "深圳德赛富通",
+        "TotalActualHours": 199,
+        "TotalHours": 43200,
+        "TotalTimes": 131,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 3,
+        "AttendanceRatio": "12.24%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "17.49",
+                "CardNumber": "3497968442",
+                "PersonName": "韩富祥"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "4.07",
+                "CardNumber": "3247001766",
+                "PersonName": "宁长鹏"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "2.32",
+                "CardNumber": "3495989562",
+                "PersonName": "杨文波"
+            }
+        ],
+        "DepartID": 154,
+        "DepartName": "宁夏银川翔峰制冷",
+        "TotalActualHours": 79,
+        "TotalHours": 43200,
+        "TotalTimes": 77,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 3,
+        "AttendanceRatio": "15.89%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "2.69",
+                "CardNumber": "0236908379",
+                "PersonName": "买金熙"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "15.64",
+                "CardNumber": "0696646755",
+                "PersonName": "杨浩"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "24.00",
+                "CardNumber": "0703787923",
+                "PersonName": "吴宁"
+            }
+        ],
+        "DepartID": 155,
+        "DepartName": "山东龙辉起重",
+        "TotalActualHours": 102,
+        "TotalHours": 10800,
+        "TotalTimes": 79,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 5,
+        "AttendanceRatio": "8.12%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "208.60",
+                "CardNumber": "2642592308",
+                "PersonName": "马伟1"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "48.72",
+                "CardNumber": "3496616938",
+                "PersonName": "王洁"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "1.33",
+                "CardNumber": "3496352042",
+                "PersonName": "郭建路"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "0.00",
+                "CardNumber": "3496879258",
+                "PersonName": "梁杰"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "62.66",
+                "CardNumber": "3661324234",
+                "PersonName": "吴学荣"
+            }
+        ],
+        "DepartID": 157,
+        "DepartName": "宁夏兴富源环保科技有限公司1",
+        "TotalActualHours": 87,
+        "TotalHours": 10800,
+        "TotalTimes": 25,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 6,
+        "AttendanceRatio": "16.34%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "32.68",
+                "CardNumber": "3840106085",
+                "PersonName": "周永强"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "43.16",
+                "CardNumber": "3490771254",
+                "PersonName": "刘刚"
+            },
+            {
+                "AttendenceTimes": "42",
+                "Attendencehours": "1.89",
+                "CardNumber": "3496615882",
+                "PersonName": "马英"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "24.84",
+                "CardNumber": "3497073754",
+                "PersonName": "李海贤"
+            },
+            {
+                "AttendenceTimes": "62",
+                "Attendencehours": "15.03",
+                "CardNumber": "2788074650",
+                "PersonName": "马尔撒"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "0.77",
+                "CardNumber": "0698819986",
+                "PersonName": "王鹏洲"
+            }
+        ],
+        "DepartID": 159,
+        "DepartName": "宁夏臻安消防安全技术服务有限公司",
+        "TotalActualHours": 211,
+        "TotalHours": 43200,
+        "TotalTimes": 211,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 6,
+        "AttendanceRatio": "11.51%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "24.03",
+                "CardNumber": "2763354086",
+                "PersonName": "陶学金"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "4.10",
+                "CardNumber": "0704937907",
+                "PersonName": "王鹏1"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "181.67",
+                "CardNumber": "0703180051",
+                "PersonName": "李保伟"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "2.57",
+                "CardNumber": "3490844582",
+                "PersonName": "秦怀柱"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "3.91",
+                "CardNumber": "3875102550",
+                "PersonName": "汪国强"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "2.17",
+                "CardNumber": "3490769478",
+                "PersonName": "王旭龙"
+            }
+        ],
+        "DepartID": 161,
+        "DepartName": "宁夏润源电力",
+        "TotalActualHours": 149,
+        "TotalHours": 43200,
+        "TotalTimes": 147,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 7,
+        "AttendanceRatio": "6.58%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "0.15",
+                "CardNumber": "3688417684",
+                "PersonName": "马进元"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "23.45",
+                "CardNumber": "0105564983",
+                "PersonName": "马红军"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "98.25",
+                "CardNumber": "3496674106",
+                "PersonName": "王竟超"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "219.54",
+                "CardNumber": "3247112438",
+                "PersonName": "蔡龙通庆达"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "13.41",
+                "CardNumber": "0172530899",
+                "PersonName": "马国仁"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "63.90",
+                "CardNumber": "0161749703",
+                "PersonName": "虎登山"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "7.47",
+                "CardNumber": "1994489206",
+                "PersonName": "赵明"
+            }
+        ],
+        "DepartID": 162,
+        "DepartName": "宁夏通庆达运销有限公司",
+        "TotalActualHours": 99,
+        "TotalHours": 43200,
+        "TotalTimes": 92,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "11.19%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "0.02",
+                "CardNumber": "1991415318",
+                "PersonName": "丁国祥"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "3.33",
+                "CardNumber": "2765064838",
+                "PersonName": "卢国忠"
+            }
+        ],
+        "DepartID": 164,
+        "DepartName": "常州市天宁市政绿化工程有限公司",
+        "TotalActualHours": 48,
+        "TotalHours": 43200,
+        "TotalTimes": 45,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 17,
+        "AttendanceRatio": "2.46%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "3.41",
+                "CardNumber": "1435375622",
+                "PersonName": "培训040"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "121.34",
+                "CardNumber": "3246957014",
+                "PersonName": "培训035"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "19.51",
+                "CardNumber": "0105243127",
+                "PersonName": "培训025"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "2.83",
+                "CardNumber": "0703895667",
+                "PersonName": "培训030"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "25.34",
+                "CardNumber": "1435741350",
+                "PersonName": "培训021"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "2.83",
+                "CardNumber": "1436805110",
+                "PersonName": "培训029"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "8.48",
+                "CardNumber": "3247039974",
+                "PersonName": "培训033"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "6.96",
+                "CardNumber": "0700855795",
+                "PersonName": "培训018"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "1.82",
+                "CardNumber": "0172603923",
+                "PersonName": "培训032"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.15",
+                "CardNumber": "1847841824",
+                "PersonName": "培训027"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "23.76",
+                "CardNumber": "2999257990",
+                "PersonName": "培训044"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "18.35",
+                "CardNumber": "3010077798",
+                "PersonName": "培训031"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "102.99",
+                "CardNumber": "3246739222",
+                "PersonName": "培训043"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "1.82",
+                "CardNumber": "2841136768",
+                "PersonName": "培训008"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "5.29",
+                "CardNumber": "0700790979",
+                "PersonName": "培训026"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.68",
+                "CardNumber": "3247389654",
+                "PersonName": "培训024"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "0.21",
+                "CardNumber": "3009909686",
+                "PersonName": "培训028"
+            }
+        ],
+        "DepartID": 165,
+        "DepartName": "培训专用卡",
+        "TotalActualHours": 90,
+        "TotalHours": 10800,
+        "TotalTimes": 90,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "8.81%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "121.75",
+                "CardNumber": "1435375990",
+                "PersonName": "王慈云"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "4.07",
+                "CardNumber": "3483116518",
+                "PersonName": "杨新建"
+            }
+        ],
+        "DepartID": 166,
+        "DepartName": "贺丰电力",
+        "TotalActualHours": 38,
+        "TotalHours": 10800,
+        "TotalTimes": 34,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 69,
+        "AttendanceRatio": "13.91%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "0.18",
+                "CardNumber": "3247233302",
+                "PersonName": "马志超"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "12.68",
+                "CardNumber": "0107081895",
+                "PersonName": "杨盘龙"
+            },
+            {
+                "AttendenceTimes": "49",
+                "Attendencehours": "4.06",
+                "CardNumber": "0703206627",
+                "PersonName": "马永瑞"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "3.98",
+                "CardNumber": "1993932054",
+                "PersonName": "王新建"
+            },
+            {
+                "AttendenceTimes": "62",
+                "Attendencehours": "19.12",
+                "CardNumber": "2842080000",
+                "PersonName": "安振江"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "13.86",
+                "CardNumber": "0697328979",
+                "PersonName": "闫万星"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "13.25",
+                "CardNumber": "0703465603",
+                "PersonName": "刘卓成"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "15.44",
+                "CardNumber": "0107377143",
+                "PersonName": "胡为国"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "13.21",
+                "CardNumber": "0107669591",
+                "PersonName": "李香明"
+            },
+            {
+                "AttendenceTimes": "47",
+                "Attendencehours": "28.11",
+                "CardNumber": "3584255595",
+                "PersonName": "肖亚伟"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "7.92",
+                "CardNumber": "3247126678",
+                "PersonName": "张会会"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "1.88",
+                "CardNumber": "3496468906",
+                "PersonName": "丁宁"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "23.98",
+                "CardNumber": "0100523511",
+                "PersonName": "顾国雄"
+            },
+            {
+                "AttendenceTimes": "41",
+                "Attendencehours": "2.93",
+                "CardNumber": "0100546119",
+                "PersonName": "纪鑫"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "14.41",
+                "CardNumber": "0703681171",
+                "PersonName": "邓伟"
+            },
+            {
+                "AttendenceTimes": "39",
+                "Attendencehours": "3.62",
+                "CardNumber": "3306144502",
+                "PersonName": "崔林"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "11.62",
+                "CardNumber": "0696232435",
+                "PersonName": "李旺"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "4.24",
+                "CardNumber": "0107539975",
+                "PersonName": "孟莹"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "2.60",
+                "CardNumber": "3304694278",
+                "PersonName": "田勇"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "5.38",
+                "CardNumber": "2842937280",
+                "PersonName": "武二小"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "64.83",
+                "CardNumber": "3723316774",
+                "PersonName": "杨晓华"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "1.97",
+                "CardNumber": "0107442887",
+                "PersonName": "云腾"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "5.80",
+                "CardNumber": "1993483558",
+                "PersonName": "张振海"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "9.21",
+                "CardNumber": "0091810391",
+                "PersonName": "刘宝生"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "13.24",
+                "CardNumber": "3247487126",
+                "PersonName": "赵科强"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "1.82",
+                "CardNumber": "0277060179",
+                "PersonName": "李栋"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "11.61",
+                "CardNumber": "0172078147",
+                "PersonName": "武三小"
+            },
+            {
+                "AttendenceTimes": "49",
+                "Attendencehours": "13.66",
+                "CardNumber": "0107493415",
+                "PersonName": "王玉源"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.41",
+                "CardNumber": "0702522835",
+                "PersonName": "王鹏飞"
+            },
+            {
+                "AttendenceTimes": "45",
+                "Attendencehours": "1.85",
+                "CardNumber": "3483496486",
+                "PersonName": "郭晓明"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "12.67",
+                "CardNumber": "0107728375",
+                "PersonName": "王福"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "13.71",
+                "CardNumber": "0172551187",
+                "PersonName": "王旭"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "6.67",
+                "CardNumber": "3662579930",
+                "PersonName": "石喜堂"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "2.39",
+                "CardNumber": "3247422950",
+                "PersonName": "赵国梁"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "32.53",
+                "CardNumber": "3247107590",
+                "PersonName": "张文斌"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "4.22",
+                "CardNumber": "0107400599",
+                "PersonName": "李秘"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "5.33",
+                "CardNumber": "0100909783",
+                "PersonName": "雷瑞"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "11.47",
+                "CardNumber": "1990796758",
+                "PersonName": "冯进强"
+            },
+            {
+                "AttendenceTimes": "44",
+                "Attendencehours": "11.34",
+                "CardNumber": "0703894579",
+                "PersonName": "刘占新"
+            },
+            {
+                "AttendenceTimes": "46",
+                "Attendencehours": "1.08",
+                "CardNumber": "2764660166",
+                "PersonName": "李银"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "22.66",
+                "CardNumber": "0696054531",
+                "PersonName": "张晓龙"
+            },
+            {
+                "AttendenceTimes": "47",
+                "Attendencehours": "3.18",
+                "CardNumber": "0107920023",
+                "PersonName": "魏进武"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "1.90",
+                "CardNumber": "1626201012",
+                "PersonName": "戴文宇"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "0.84",
+                "CardNumber": "0107709015",
+                "PersonName": "张宝宝"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "22.09",
+                "CardNumber": "0107511415",
+                "PersonName": "孙万岁"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "19.23",
+                "CardNumber": "0172776963",
+                "PersonName": "魏述林"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "4.20",
+                "CardNumber": "0115436199",
+                "PersonName": "王巧玲"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "1.98",
+                "CardNumber": "1995081782",
+                "PersonName": "孔维鹏"
+            },
+            {
+                "AttendenceTimes": "48",
+                "Attendencehours": "4.12",
+                "CardNumber": "1847743056",
+                "PersonName": "马军涛"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "23.06",
+                "CardNumber": "3484303990",
+                "PersonName": "张进学"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "6.23",
+                "CardNumber": "3246710550",
+                "PersonName": "李福林"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.95",
+                "CardNumber": "1994712742",
+                "PersonName": "温欣"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "18.13",
+                "CardNumber": "0091944071",
+                "PersonName": "王勇"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "10.42",
+                "CardNumber": "1764503648",
+                "PersonName": "张永"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "0.44",
+                "CardNumber": "0703317779",
+                "PersonName": "李晓波"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "2.12",
+                "CardNumber": "4230168998",
+                "PersonName": "李玉锋"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "4.06",
+                "CardNumber": "3247468678",
+                "PersonName": "张蕴"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "5.33",
+                "CardNumber": "0703319843",
+                "PersonName": "赵铎"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "4.22",
+                "CardNumber": "0704241139",
+                "PersonName": "肖亚东"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "1.98",
+                "CardNumber": "0107903895",
+                "PersonName": "宋学瑞"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "1.19",
+                "CardNumber": "1994448758",
+                "PersonName": "李文君"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "4.13",
+                "CardNumber": "0172233811",
+                "PersonName": "庞明轩"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "9.64",
+                "CardNumber": "0107991031",
+                "PersonName": "张海建"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "2.65",
+                "CardNumber": "0172602339",
+                "PersonName": "张子义"
+            },
+            {
+                "AttendenceTimes": "33",
+                "Attendencehours": "4.08",
+                "CardNumber": "3246840006",
+                "PersonName": "王旭东"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "1.88",
+                "CardNumber": "3496975786",
+                "PersonName": "孙涛"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "17.81",
+                "CardNumber": "3247012166",
+                "PersonName": "李加锁"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "2.55",
+                "CardNumber": "0484114375",
+                "PersonName": "薛永亮"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "5.59",
+                "CardNumber": "2843218720",
+                "PersonName": "周建军"
+            }
+        ],
+        "DepartID": 167,
+        "DepartName": "中国能源建设集团山西电力建设第一",
+        "TotalActualHours": 2073,
+        "TotalHours": 93312,
+        "TotalTimes": 2068,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 432
+    },
+    {
+        "ActualPersonnUmber": 1,
+        "AttendanceRatio": "13.12%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "11.34",
+                "CardNumber": "0101132951",
+                "PersonName": "实习6"
+            }
+        ],
+        "DepartID": 168,
+        "DepartName": "实习单位",
+        "TotalActualHours": 28,
+        "TotalHours": 10800,
+        "TotalTimes": 17,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 5,
+        "AttendanceRatio": "1.12%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "144.14",
+                "CardNumber": "3840861525",
+                "PersonName": "22C"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "24.59",
+                "CardNumber": "0108086231",
+                "PersonName": "27C"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "48.68",
+                "CardNumber": "0107495223",
+                "PersonName": "23C"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "0.03",
+                "CardNumber": "2764450886",
+                "PersonName": "28C"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "1.11",
+                "CardNumber": "0108032919",
+                "PersonName": "29C"
+            }
+        ],
+        "DepartID": 171,
+        "DepartName": "3C检修卡",
+        "TotalActualHours": 12,
+        "TotalHours": 10800,
+        "TotalTimes": 11,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    },
+    {
+        "ActualPersonnUmber": 63,
+        "AttendanceRatio": "6.54%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "26.50",
+                "CardNumber": "3490181126",
+                "PersonName": "JX183"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "16.98",
+                "CardNumber": "3483037046",
+                "PersonName": "JX199"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "0.37",
+                "CardNumber": "3722998358",
+                "PersonName": "JX024"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "20.60",
+                "CardNumber": "3480212070",
+                "PersonName": "JX260"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "6.34",
+                "CardNumber": "0696848451",
+                "PersonName": "JX231"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.71",
+                "CardNumber": "3722612358",
+                "PersonName": "JX133"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "23.90",
+                "CardNumber": "3482019990",
+                "PersonName": "JX298"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "35.43",
+                "CardNumber": "0108265127",
+                "PersonName": "JX213"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "2.60",
+                "CardNumber": "0695951987",
+                "PersonName": "JX092"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "60.18",
+                "CardNumber": "3721753702",
+                "PersonName": "JX223"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "1.65",
+                "CardNumber": "3484396038",
+                "PersonName": "JX209"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "47.21",
+                "CardNumber": "0100527095",
+                "PersonName": "JX189"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "3.51",
+                "CardNumber": "1992983478",
+                "PersonName": "JX053"
+            },
+            {
+                "AttendenceTimes": "31",
+                "Attendencehours": "4.51",
+                "CardNumber": "3481231158",
+                "PersonName": "JX212"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "21.49",
+                "CardNumber": "0100695943",
+                "PersonName": "JX214"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "17.53",
+                "CardNumber": "1994318374",
+                "PersonName": "JX029"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "43.90",
+                "CardNumber": "0704366259",
+                "PersonName": "JX179"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "4.41",
+                "CardNumber": "0100616839",
+                "PersonName": "JX054"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "10.90",
+                "CardNumber": "1995108182",
+                "PersonName": "JX106"
+            },
+            {
+                "AttendenceTimes": "25",
+                "Attendencehours": "1.76",
+                "CardNumber": "1993769622",
+                "PersonName": "JX067"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "0.72",
+                "CardNumber": "0107649543",
+                "PersonName": "JX198"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "2.70",
+                "CardNumber": "3483912806",
+                "PersonName": "JX108"
+            },
+            {
+                "AttendenceTimes": "6",
+                "Attendencehours": "17.90",
+                "CardNumber": "0107553959",
+                "PersonName": "JX118"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "0.99",
+                "CardNumber": "0696138787",
+                "PersonName": "JX037"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "26.16",
+                "CardNumber": "1098329051",
+                "PersonName": "JX057"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "0.00",
+                "CardNumber": "0705421475",
+                "PersonName": "JX031"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "14.09",
+                "CardNumber": "3484592662",
+                "PersonName": "JX195"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "0.00",
+                "CardNumber": "1991562422",
+                "PersonName": "JX050"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "10.52",
+                "CardNumber": "0696286931",
+                "PersonName": "JX263"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "23.36",
+                "CardNumber": "3482583078",
+                "PersonName": "JX109"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "70.33",
+                "CardNumber": "2763933782",
+                "PersonName": "JX081"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.00",
+                "CardNumber": "1992695958",
+                "PersonName": "JX058"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "2.94",
+                "CardNumber": "0106653671",
+                "PersonName": "JX191"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "52.76",
+                "CardNumber": "0703286659",
+                "PersonName": "JX170"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.12",
+                "CardNumber": "0106646967",
+                "PersonName": "JX049"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.01",
+                "CardNumber": "0687885379",
+                "PersonName": "JX204"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "13.67",
+                "CardNumber": "0101005047",
+                "PersonName": "JX193"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "57.40",
+                "CardNumber": "3723306406",
+                "PersonName": "JX134"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "27.23",
+                "CardNumber": "0703144499",
+                "PersonName": "JX178"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "16.21",
+                "CardNumber": "1993874854",
+                "PersonName": "JX101"
+            },
+            {
+                "AttendenceTimes": "40",
+                "Attendencehours": "5.49",
+                "CardNumber": "3722394342",
+                "PersonName": "JX180"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "5.34",
+                "CardNumber": "3481614214",
+                "PersonName": "JX194"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "24.08",
+                "CardNumber": "0703232595",
+                "PersonName": "JX075"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "102.75",
+                "CardNumber": "2764673238",
+                "PersonName": "JX184"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "3.43",
+                "CardNumber": "0107439975",
+                "PersonName": "JX192"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "10.19",
+                "CardNumber": "2765189126",
+                "PersonName": "JX196"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "1.53",
+                "CardNumber": "1993485846",
+                "PersonName": "JX059"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.57",
+                "CardNumber": "1995201830",
+                "PersonName": "JX206"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "10.43",
+                "CardNumber": "3010909046",
+                "PersonName": "JX103"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "4.53",
+                "CardNumber": "0696189043",
+                "PersonName": "JX197"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "17.91",
+                "CardNumber": "3723557430",
+                "PersonName": "JX023"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "59.40",
+                "CardNumber": "0704878355",
+                "PersonName": "JX020"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "26.54",
+                "CardNumber": "0703373827",
+                "PersonName": "JX185"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "7.47",
+                "CardNumber": "0107428263",
+                "PersonName": "JX215"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "23.83",
+                "CardNumber": "2763850054",
+                "PersonName": "JX173"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "28.39",
+                "CardNumber": "0100356711",
+                "PersonName": "JX181"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "0.60",
+                "CardNumber": "0696383443",
+                "PersonName": "JX188"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "34.29",
+                "CardNumber": "1994562534",
+                "PersonName": "JX202"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "0.23",
+                "CardNumber": "2763982790",
+                "PersonName": "JX019"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "23.91",
+                "CardNumber": "3874674966",
+                "PersonName": "JX203"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "1.91",
+                "CardNumber": "3479895910",
+                "PersonName": "JX254"
+            },
+            {
+                "AttendenceTimes": "3",
+                "Attendencehours": "3.67",
+                "CardNumber": "0107385351",
+                "PersonName": "JX187"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "0.00",
+                "CardNumber": "3482716822",
+                "PersonName": "JX110"
+            }
+        ],
+        "DepartID": 172,
+        "DepartName": "新检修卡",
+        "TotalActualHours": 890,
+        "TotalHours": 43200,
+        "TotalTimes": 890,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 2,
+        "AttendanceRatio": "20.21%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "43",
+                "Attendencehours": "28.05",
+                "CardNumber": "3662830074",
+                "PersonName": "王章平"
+            },
+            {
+                "AttendenceTimes": "38",
+                "Attendencehours": "6.31",
+                "CardNumber": "3497100426",
+                "PersonName": "莫林生"
+            }
+        ],
+        "DepartID": 174,
+        "DepartName": "天津市思内克科技发展有限公司",
+        "TotalActualHours": 87,
+        "TotalHours": 43200,
+        "TotalTimes": 81,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 32,
+        "AttendanceRatio": "12.82%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "132.50",
+                "CardNumber": "0100472215",
+                "PersonName": "唐国全"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "4.55",
+                "CardNumber": "0107351927",
+                "PersonName": "杜宏伟"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "12.26",
+                "CardNumber": "3247401350",
+                "PersonName": "刘启林"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "0.50",
+                "CardNumber": "1137607453",
+                "PersonName": "安磊"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "2.02",
+                "CardNumber": "0847663685",
+                "PersonName": "姚军伟"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "2.10",
+                "CardNumber": "0107655703",
+                "PersonName": "白明"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "14.79",
+                "CardNumber": "1157382349",
+                "PersonName": "王利东1"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "12.55",
+                "CardNumber": "0709731618",
+                "PersonName": "何昱臻"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "6.27",
+                "CardNumber": "3739859593",
+                "PersonName": "沈奕呈"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "6.51",
+                "CardNumber": "3285088985",
+                "PersonName": "吴广荣"
+            },
+            {
+                "AttendenceTimes": "41",
+                "Attendencehours": "1.34",
+                "CardNumber": "1436164134",
+                "PersonName": "刘旺"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "28.77",
+                "CardNumber": "0107172423",
+                "PersonName": "周佳盛"
+            },
+            {
+                "AttendenceTimes": "21",
+                "Attendencehours": "44.01",
+                "CardNumber": "0107883527",
+                "PersonName": "田文星"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "9.33",
+                "CardNumber": "3283840569",
+                "PersonName": "魏斌弟"
+            },
+            {
+                "AttendenceTimes": "39",
+                "Attendencehours": "5.28",
+                "CardNumber": "0106602791",
+                "PersonName": "吕鹏"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "17.29",
+                "CardNumber": "3495981882",
+                "PersonName": "童佳伟"
+            },
+            {
+                "AttendenceTimes": "47",
+                "Attendencehours": "3.60",
+                "CardNumber": "3496221194",
+                "PersonName": "赵薛礼"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "1.46",
+                "CardNumber": "3481592550",
+                "PersonName": "周子龙"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "6.56",
+                "CardNumber": "0701482723",
+                "PersonName": "丁春涛"
+            },
+            {
+                "AttendenceTimes": "48",
+                "Attendencehours": "10.92",
+                "CardNumber": "3495873370",
+                "PersonName": "高亮"
+            },
+            {
+                "AttendenceTimes": "44",
+                "Attendencehours": "2.97",
+                "CardNumber": "3282894057",
+                "PersonName": "吕欢胜"
+            },
+            {
+                "AttendenceTimes": "36",
+                "Attendencehours": "4.15",
+                "CardNumber": "1154230125",
+                "PersonName": "张亮弟"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "2.02",
+                "CardNumber": "0100172407",
+                "PersonName": "朱振涛"
+            },
+            {
+                "AttendenceTimes": "34",
+                "Attendencehours": "10.80",
+                "CardNumber": "3247110710",
+                "PersonName": "刘亚军"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "4.55",
+                "CardNumber": "3497487802",
+                "PersonName": "何昱臻"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "12.78",
+                "CardNumber": "2135329286",
+                "PersonName": "张沛"
+            },
+            {
+                "AttendenceTimes": "23",
+                "Attendencehours": "145.97",
+                "CardNumber": "1993706022",
+                "PersonName": "陈佳龙"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "11.03",
+                "CardNumber": "3496453706",
+                "PersonName": "禹海军"
+            },
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "2.88",
+                "CardNumber": "0107846999",
+                "PersonName": "纳永春"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "2.02",
+                "CardNumber": "0337304045",
+                "PersonName": "袁涛"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "4.22",
+                "CardNumber": "0172657251",
+                "PersonName": "刘文飞"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "2.12",
+                "CardNumber": "3246872518",
+                "PersonName": "张兆贵"
+            }
+        ],
+        "DepartID": 176,
+        "DepartName": "苏华建设",
+        "TotalActualHours": 886,
+        "TotalHours": 43200,
+        "TotalTimes": 884,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 39,
+        "AttendanceRatio": "9.72%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "35",
+                "Attendencehours": "12.61",
+                "CardNumber": "3497927978",
+                "PersonName": "郑灿"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "11.93",
+                "CardNumber": "1153494253",
+                "PersonName": "张小涛"
+            },
+            {
+                "AttendenceTimes": "19",
+                "Attendencehours": "2.12",
+                "CardNumber": "1157782957",
+                "PersonName": "马龙1"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.12",
+                "CardNumber": "1157743821",
+                "PersonName": "付军辉"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "11.87",
+                "CardNumber": "3662736266",
+                "PersonName": "巩忠成"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "2.12",
+                "CardNumber": "3282692649",
+                "PersonName": "张文科"
+            },
+            {
+                "AttendenceTimes": "10",
+                "Attendencehours": "2.10",
+                "CardNumber": "3284364937",
+                "PersonName": "段艳利"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "1.32",
+                "CardNumber": "3282089769",
+                "PersonName": "刘文涛"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "1.32",
+                "CardNumber": "2661579108",
+                "PersonName": "侯续冰"
+            },
+            {
+                "AttendenceTimes": "30",
+                "Attendencehours": "2.12",
+                "CardNumber": "1154230813",
+                "PersonName": "吴红民"
+            },
+            {
+                "AttendenceTimes": "32",
+                "Attendencehours": "1.09",
+                "CardNumber": "2071682804",
+                "PersonName": "吕学勤"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "1.95",
+                "CardNumber": "3662299722",
+                "PersonName": "陈建国"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "4.12",
+                "CardNumber": "0701344115",
+                "PersonName": "赵大鹏"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "2.12",
+                "CardNumber": "1153596477",
+                "PersonName": "张海军1"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "2.12",
+                "CardNumber": "1139161437",
+                "PersonName": "董光"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "1.32",
+                "CardNumber": "2661363412",
+                "PersonName": "侯琦"
+            },
+            {
+                "AttendenceTimes": "52",
+                "Attendencehours": "22.40",
+                "CardNumber": "1157778765",
+                "PersonName": "李刚1"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "2.12",
+                "CardNumber": "1157748253",
+                "PersonName": "王国红"
+            },
+            {
+                "AttendenceTimes": "16",
+                "Attendencehours": "1.84",
+                "CardNumber": "3496543546",
+                "PersonName": "李兵"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "17.76",
+                "CardNumber": "2072031092",
+                "PersonName": "石考"
+            },
+            {
+                "AttendenceTimes": "37",
+                "Attendencehours": "14.13",
+                "CardNumber": "3283028729",
+                "PersonName": "王珂鑫"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "21.60",
+                "CardNumber": "3661641546",
+                "PersonName": "杨凯"
+            },
+            {
+                "AttendenceTimes": "27",
+                "Attendencehours": "1.09",
+                "CardNumber": "2788200874",
+                "PersonName": "刘爱明"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "1.32",
+                "CardNumber": "3496496074",
+                "PersonName": "任啟磊"
+            },
+            {
+                "AttendenceTimes": "20",
+                "Attendencehours": "2.12",
+                "CardNumber": "1157038125",
+                "PersonName": "吴利平"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "4.37",
+                "CardNumber": "3662248922",
+                "PersonName": "王彦福"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "2.12",
+                "CardNumber": "0107357863",
+                "PersonName": "过嘉豪"
+            },
+            {
+                "AttendenceTimes": "43",
+                "Attendencehours": "15.26",
+                "CardNumber": "3497262506",
+                "PersonName": "尚现伟"
+            },
+            {
+                "AttendenceTimes": "26",
+                "Attendencehours": "1.17",
+                "CardNumber": "3496981018",
+                "PersonName": "张洪建"
+            },
+            {
+                "AttendenceTimes": "29",
+                "Attendencehours": "1.09",
+                "CardNumber": "0107708455",
+                "PersonName": "唐佳浩"
+            },
+            {
+                "AttendenceTimes": "28",
+                "Attendencehours": "1.95",
+                "CardNumber": "3497878026",
+                "PersonName": "赵生余"
+            },
+            {
+                "AttendenceTimes": "17",
+                "Attendencehours": "11.86",
+                "CardNumber": "3495895498",
+                "PersonName": "王建明"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "13.88",
+                "CardNumber": "3496802714",
+                "PersonName": "刘贤"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "19.01",
+                "CardNumber": "3661066394",
+                "PersonName": "朱美强"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "2.46",
+                "CardNumber": "1154009965",
+                "PersonName": "刘桂超"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "11.87",
+                "CardNumber": "2670070100",
+                "PersonName": "陆书立"
+            },
+            {
+                "AttendenceTimes": "22",
+                "Attendencehours": "2.12",
+                "CardNumber": "3496324650",
+                "PersonName": "陈辉"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "12.94",
+                "CardNumber": "3496989674",
+                "PersonName": "马福侦"
+            },
+            {
+                "AttendenceTimes": "24",
+                "Attendencehours": "1.59",
+                "CardNumber": "1154659885",
+                "PersonName": "崔成成"
+            }
+        ],
+        "DepartID": 177,
+        "DepartName": "中国电建集团山东电力建设第一工程",
+        "TotalActualHours": 819,
+        "TotalHours": 43200,
+        "TotalTimes": 819,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 15,
+        "AttendanceRatio": "5.92%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "3.09",
+                "CardNumber": "3280882617",
+                "PersonName": "张国栋"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "2.32",
+                "CardNumber": "1626493629",
+                "PersonName": "裴云"
+            },
+            {
+                "AttendenceTimes": "14",
+                "Attendencehours": "35.81",
+                "CardNumber": "3281513433",
+                "PersonName": "裴永刚"
+            },
+            {
+                "AttendenceTimes": "9",
+                "Attendencehours": "51.11",
+                "CardNumber": "3282935369",
+                "PersonName": "王慈雄"
+            },
+            {
+                "AttendenceTimes": "7",
+                "Attendencehours": "47.79",
+                "CardNumber": "0720893006",
+                "PersonName": "张云"
+            },
+            {
+                "AttendenceTimes": "8",
+                "Attendencehours": "11.97",
+                "CardNumber": "0339250909",
+                "PersonName": "杨永来"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "23.55",
+                "CardNumber": "3277445673",
+                "PersonName": "马英邦"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "23.67",
+                "CardNumber": "0721081134",
+                "PersonName": "赵征东"
+            },
+            {
+                "AttendenceTimes": "13",
+                "Attendencehours": "0.73",
+                "CardNumber": "3281673097",
+                "PersonName": "杨占升"
+            },
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "11.85",
+                "CardNumber": "3281403577",
+                "PersonName": "包和平"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "122.05",
+                "CardNumber": "0361757934",
+                "PersonName": "周晓琴"
+            },
+            {
+                "AttendenceTimes": "18",
+                "Attendencehours": "3.97",
+                "CardNumber": "3757354825",
+                "PersonName": "黎江"
+            },
+            {
+                "AttendenceTimes": "11",
+                "Attendencehours": "53.92",
+                "CardNumber": "3280426441",
+                "PersonName": "马淑银"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "0.72",
+                "CardNumber": "0720505518",
+                "PersonName": "何龙"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "50.79",
+                "CardNumber": "0720827678",
+                "PersonName": "郭兴"
+            }
+        ],
+        "DepartID": 178,
+        "DepartName": "中浩威建设有限公司",
+        "TotalActualHours": 191,
+        "TotalHours": 43200,
+        "TotalTimes": 141,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 5,
+        "AttendanceRatio": "3.39%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "15",
+                "Attendencehours": "12.94",
+                "CardNumber": "2661279572",
+                "PersonName": "王彦荣"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "66.02",
+                "CardNumber": "3495604058",
+                "PersonName": "张建鑫"
+            },
+            {
+                "AttendenceTimes": "12",
+                "Attendencehours": "51.12",
+                "CardNumber": "1993524870",
+                "PersonName": "王金才1"
+            },
+            {
+                "AttendenceTimes": "5",
+                "Attendencehours": "19.62",
+                "CardNumber": "2787192954",
+                "PersonName": "乔学河"
+            },
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.66",
+                "CardNumber": "3687842116",
+                "PersonName": "段宏兵"
+            }
+        ],
+        "DepartID": 179,
+        "DepartName": "宁夏东盛杰工贸有限公司",
+        "TotalActualHours": 36,
+        "TotalHours": 43200,
+        "TotalTimes": 34,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 200
+    },
+    {
+        "ActualPersonnUmber": 3,
+        "AttendanceRatio": "1.08%",
+        "AttendenceMessage": [
+            {
+                "AttendenceTimes": "1",
+                "Attendencehours": "2.62",
+                "CardNumber": "0720889134",
+                "PersonName": "崔占涛"
+            },
+            {
+                "AttendenceTimes": "2",
+                "Attendencehours": "71.57",
+                "CardNumber": "0717433438",
+                "PersonName": "靖雷"
+            },
+            {
+                "AttendenceTimes": "4",
+                "Attendencehours": "0.00",
+                "CardNumber": "0717549150",
+                "PersonName": "吴海龙"
+            }
+        ],
+        "DepartID": 180,
+        "DepartName": "北京国电电科院",
+        "TotalActualHours": 7,
+        "TotalHours": 10800,
+        "TotalTimes": 7,
+        "Turnoverrate": "0.00",
+        "contractorPersonNumber": 50
+    }
+]

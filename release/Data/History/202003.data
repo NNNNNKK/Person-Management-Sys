@@ -1,0 +1,942 @@
+{
+    "DepartHistotyInformation": [
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "root000000",
+            "departName": "国华宁东电厂",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 9,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "e44b0666-d2d8-4496-99be-fafaef55ab9f",
+            "departName": "安健环监察部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 26,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "333d2521-e821-4b3f-ae0b-cdcb7f8bb073",
+            "departName": "办公室",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 11,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "1dedce51-1c94-426f-9649-845809b8d2be",
+            "departName": "财务产权部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 9,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "5ac886f3-5d87-485b-8821-59f4ce1d21df",
+            "departName": "党建部(工会办公室)",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "d3933394-99b7-43ee-af15-15168c65db56",
+            "departName": "计划物资部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 20,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "e7436595-a539-45ac-8e56-40732bc0e9a1",
+            "departName": "经营管理部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 5,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "6fb77cc3-c79b-4747-8c60-14546a087aad",
+            "departName": "人力资源部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 26,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "e60af078-3080-433b-b6bf-6faf067c440a",
+            "departName": "生产技术部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 115,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "30eea682-67c1-43db-9c86-069fa4123127",
+            "departName": "维护部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "-100.00%"
+        },
+        {
+            "actualPersonNumber": 139,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "5087aa41-1655-4a33-8065-30604d0831b9",
+            "departName": "运行部",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "-100.00%"
+        },
+        {
+            "actualPersonNumber": 95,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "c9d9e4d5-8468-4311-ac4d-1c1477d191f6",
+            "departName": "西安锦天",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 12,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "7c194b34-8062-449e-aed0-4ae9d158e873",
+            "departName": "北京腾疆",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "a4c03031-bcc6-472b-8c34-e26f5f2b76b8",
+            "departName": "德赛富通",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "cca71853-82f7-4ebd-b86c-cbb7f039c877",
+            "departName": "宁夏富润",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 52,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "ba25180c-85c2-46e8-924d-5524d9535a86",
+            "departName": "山东电建",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 75,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "9f186b7c-42a0-4e6b-b164-e1cc3feef307",
+            "departName": "山西电建",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 57,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "8f9b8b8e-6d76-4b58-8d34-185d00c07de5",
+            "departName": "苏华建设",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 6,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "dc8bf53f-d24b-4fb6-ad3c-eafa53ce15a3",
+            "departName": "特殊消防",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 10,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "9282b5dd-e5c0-48ad-8c1f-ba6d515d8ad6",
+            "departName": "天门神火",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 3,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "fc8aebd8-ef82-4256-8bf5-516d6a2ed402",
+            "departName": "翔峰制冷",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "ac0cd03d-c432-47d5-8585-60e1fd896ca3",
+            "departName": "在线仪表",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 58,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "c1ba0eb6-fc08-4322-88c6-1900cce9a1eb",
+            "departName": "浙江火电",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "8ec6cbd7-8641-4a09-b082-9881f803d855",
+            "departName": "维尔康",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "c1e4c3b4-7cf7-42a2-bf83-78775a377f17",
+            "departName": "宁夏润源",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 4,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "581d3555-6dd1-49ea-8ba4-5d70a1847c48",
+            "departName": "山东龙辉",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 5,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "2c364923-99a1-4f6b-b7d9-929f58f23896",
+            "departName": "东盛杰",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 14,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "109343e9-b319-4f7a-894c-437829a5844d",
+            "departName": "光大清洁",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 203,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "de744cdb-edda-484d-8db6-608a6abc496b",
+            "departName": "厦门恒力",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "-300.00%"
+        },
+        {
+            "actualPersonNumber": 1,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "69cf52ac-a1ce-4d39-9853-c0ee005cad32",
+            "departName": "宏天翔",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 7,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "29ccda3c-105e-4211-8772-95b3f79309b4",
+            "departName": "吉泰",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 10,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "da9f2af4-b631-4580-9360-060c335625df",
+            "departName": "明源",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 9,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "9139ce9f-2904-4243-81a7-aa44a4ca2fc0",
+            "departName": "宁夏众成",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 15,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "e790bd80-f1b4-4679-9bb5-89cd0ef73a07",
+            "departName": "中浩威",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 88,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "d612f742-aea1-40c1-8a52-90d61e6bd54c",
+            "departName": "众信",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "0.00%"
+        },
+        {
+            "actualPersonNumber": 11,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "ddfbf489-3671-4e05-a8ff-9dbf8a680d41",
+            "departName": "消防",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 46,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "8a164565-8eb5-4e1e-a928-45fd9386de04",
+            "departName": "安保",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 700,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "40e48ee6-8737-4c03-8a5f-1408bda122d3",
+            "departName": "临时",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "-1300.00%"
+        },
+        {
+            "actualPersonNumber": 40,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "6f920d9c-a759-4e50-bb97-e80750b47598",
+            "departName": "临时工",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 13,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "f9b72451-1c12-438b-ad33-90ce7702d4bb",
+            "departName": "临时",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "d9cbf664-5560-450c-b339-40e636f13233",
+            "departName": "2A",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 15,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "73da3da9-2fc3-4642-a3fd-ba93514770b8",
+            "departName": "中豫远通",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "e152496e-63eb-47ed-8b72-848193d5271e",
+            "departName": "天津金利源",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "cd97d898-8ac6-45a4-95f9-ad677c8578f0",
+            "departName": "苏州热工研究院",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "df061357-d57c-4679-b22e-746e87be9c95",
+            "departName": "郑州力通",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+            "departName": "辽宁坤达",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "9d08197f-e5a3-4902-a833-f66e734725b8",
+            "departName": "河南龙利",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "7c6030c4-a6a3-4e14-bf44-00037d882709",
+            "departName": "德清金烨",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "50304230-f248-419b-b2ac-89c2a7f534c7",
+            "departName": "山东恒祥",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "706aa5fb-ae37-4444-a773-2e4c7bcecfbe",
+            "departName": "宜兴瑞泰",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "6e9d7116-4f29-413d-91ca-fc84fba8914d",
+            "departName": "江苏新方圆",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "56ef3097-cf87-43f3-8083-a244a261230d",
+            "departName": "烟台龙源",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "6f909f62-10d5-44fd-8b98-40d679f859c3",
+            "departName": "山东龙源",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 38,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "55d7e514-41a2-49d0-ac90-9ae9fa11d51d",
+            "departName": "吴忠中创",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "a5a29c2d-4983-4630-a35e-be39fddcfc74",
+            "departName": "北京福瑞乐利",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "9f22e75e-d620-44f7-8a15-d07462f5bf62",
+            "departName": "哈尔滨汽轮机厂",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "3938d5b9-3b1e-40fc-b8a2-181e24c25933",
+            "departName": "上海韦凯苏",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "ddce2dc7-954e-4489-b8a6-e30c6fc79e2d",
+            "departName": "石家庄康宏",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "4ae73eae-8ab1-45f2-902f-50b93cb58d21",
+            "departName": "河北弘祥",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "fb4ec679-9fb4-4cb9-aba2-df69c663b942",
+            "departName": "北京腾疆",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "8c245250-5400-4f97-a939-f023cff771bb",
+            "departName": "北京国电电科院",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "a6a8c406-bd25-4b22-b78d-46e3dcf09ae3",
+            "departName": "苏州维赛克",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "870a5bbc-923d-46f7-a458-f861cb96fcae",
+            "departName": "辽宁导博",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "254c3150-9982-4579-8172-5c25675aeada",
+            "departName": "上海发电设备成套设计研究院",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "040f09af-604f-45a2-b635-eeb0943f10ec",
+            "departName": "深圳中昌科技",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "7126180e-e380-4d87-9883-9d8aea7cd838",
+            "departName": "杭州和利时",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        },
+        {
+            "actualPersonNumber": 0,
+            "actulWorktime": 0,
+            "attendanceRatio": "0.00",
+            "contractorPersonNumber": 50,
+            "count": 0,
+            "data": [
+            ],
+            "departId": "a0b9e282-6075-4353-ba09-17e49c0aedea",
+            "departName": "北京东辰",
+            "islocal": true,
+            "totalHours": 8800,
+            "turnoverRate": "100.00%"
+        }
+    ]
+}

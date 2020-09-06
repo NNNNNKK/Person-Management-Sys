@@ -1,0 +1,3070 @@
+{
+    "DepartRealTimeInformation": [
+        {
+            "DepartName": "来宾I",
+            "DepartmentID": 17,
+            "TotalPerson": 3,
+            "entermessage": [
+                {
+                    "CardNumber": "1993475670",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:04:57",
+                    "Name": "028"
+                },
+                {
+                    "CardNumber": "2073938420",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:47:57",
+                    "Name": "栗学枢"
+                },
+                {
+                    "CardNumber": "3247107590",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:15",
+                    "Name": "张文斌"
+                }
+            ]
+        },
+        {
+            "DepartName": "来宾II",
+            "DepartmentID": 18,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "0106836903",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:24:14",
+                    "Name": "080"
+                }
+            ]
+        },
+        {
+            "DepartName": "贵宾",
+            "DepartmentID": 21,
+            "TotalPerson": 6,
+            "entermessage": [
+                {
+                    "CardNumber": "0351703966",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "09:34:58",
+                    "Name": "马晴晴"
+                },
+                {
+                    "CardNumber": "0360535550",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:58:04",
+                    "Name": "王生学"
+                },
+                {
+                    "CardNumber": "0360582222",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:58:06",
+                    "Name": "畅立刚"
+                },
+                {
+                    "CardNumber": "0697767027",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:35:13",
+                    "Name": "田建亭"
+                },
+                {
+                    "CardNumber": "0701309747",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:52:56",
+                    "Name": "魏晋鹏"
+                },
+                {
+                    "CardNumber": "3496552970",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:08:17",
+                    "Name": "周佳文"
+                }
+            ]
+        },
+        {
+            "DepartName": "众信公司",
+            "DepartmentID": 34,
+            "TotalPerson": 11,
+            "entermessage": [
+                {
+                    "CardNumber": "0106655863",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "07:24:09",
+                    "Name": "田雄丽"
+                },
+                {
+                    "CardNumber": "0106836151",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:24:12",
+                    "Name": "丁文亮"
+                },
+                {
+                    "CardNumber": "0595252273",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "10:11:47",
+                    "Name": "曹振生"
+                },
+                {
+                    "CardNumber": "0681957538",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "10:17:16",
+                    "Name": "016"
+                },
+                {
+                    "CardNumber": "0720830368",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "14:59:03",
+                    "Name": "薛晓燕"
+                },
+                {
+                    "CardNumber": "2073927396",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:44:59",
+                    "Name": "赵海龙"
+                },
+                {
+                    "CardNumber": "2661960356",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:26:56",
+                    "Name": "127"
+                },
+                {
+                    "CardNumber": "2662052724",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:26:59",
+                    "Name": "韩鹏厦门"
+                },
+                {
+                    "CardNumber": "2662871300",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:30:02",
+                    "Name": "赵志明"
+                },
+                {
+                    "CardNumber": "3497836730",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:56:46",
+                    "Name": "于献宇"
+                },
+                {
+                    "CardNumber": "3663101754",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:18:52",
+                    "Name": "李万元"
+                }
+            ]
+        },
+        {
+            "DepartName": "西安锦天物业管理服务有限公司",
+            "DepartmentID": 48,
+            "TotalPerson": 72,
+            "entermessage": [
+                {
+                    "CardNumber": "0100695943",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:04:28",
+                    "Name": "JX214"
+                },
+                {
+                    "CardNumber": "0689140003",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "10:59:55",
+                    "Name": "004"
+                },
+                {
+                    "CardNumber": "0689188787",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:01:09",
+                    "Name": "候尚军"
+                },
+                {
+                    "CardNumber": "0696053699",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:01:20",
+                    "Name": "106"
+                },
+                {
+                    "CardNumber": "1994752822",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:28:44",
+                    "Name": "马金莲"
+                },
+                {
+                    "CardNumber": "1994865238",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:28:54",
+                    "Name": "马步俊"
+                },
+                {
+                    "CardNumber": "1994881542",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "16:30:07",
+                    "Name": "彭伟"
+                },
+                {
+                    "CardNumber": "1995201830",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:09",
+                    "Name": "JX206"
+                },
+                {
+                    "CardNumber": "1995439558",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:13",
+                    "Name": "022"
+                },
+                {
+                    "CardNumber": "2062858164",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:30:21",
+                    "Name": "高永亮"
+                },
+                {
+                    "CardNumber": "2064604212",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:22",
+                    "Name": "王浩"
+                },
+                {
+                    "CardNumber": "2070967732",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:26",
+                    "Name": "王浩杰"
+                },
+                {
+                    "CardNumber": "2071156436",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:28",
+                    "Name": "杨保生"
+                },
+                {
+                    "CardNumber": "2071310292",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:30:31",
+                    "Name": "李晓琴11"
+                },
+                {
+                    "CardNumber": "2071397332",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "16:30:32",
+                    "Name": "孙德学"
+                },
+                {
+                    "CardNumber": "2071682804",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:35",
+                    "Name": "吕学勤"
+                },
+                {
+                    "CardNumber": "2072218212",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:39",
+                    "Name": "任同心"
+                },
+                {
+                    "CardNumber": "2072306532",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:43",
+                    "Name": "张永乐"
+                },
+                {
+                    "CardNumber": "2072383380",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:44",
+                    "Name": "周海东"
+                },
+                {
+                    "CardNumber": "2072436612",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:46",
+                    "Name": "李旺旺"
+                },
+                {
+                    "CardNumber": "2072513572",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:48",
+                    "Name": "马彦军"
+                },
+                {
+                    "CardNumber": "2072702324",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:51",
+                    "Name": "韩文彪"
+                },
+                {
+                    "CardNumber": "2072789972",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:33:12",
+                    "Name": "聂富宁"
+                },
+                {
+                    "CardNumber": "2660828292",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:25:46",
+                    "Name": "马泽平"
+                },
+                {
+                    "CardNumber": "2787859242",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:29",
+                    "Name": "杨建兵"
+                },
+                {
+                    "CardNumber": "2787917898",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:32:30",
+                    "Name": "马华"
+                },
+                {
+                    "CardNumber": "2788111050",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:32",
+                    "Name": "薛多全"
+                },
+                {
+                    "CardNumber": "2788200874",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:32:33",
+                    "Name": "刘爱明"
+                },
+                {
+                    "CardNumber": "2842067264",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:34",
+                    "Name": "051"
+                },
+                {
+                    "CardNumber": "2842080000",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:39",
+                    "Name": "安振江"
+                },
+                {
+                    "CardNumber": "2842517184",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:40",
+                    "Name": "申红庭"
+                },
+                {
+                    "CardNumber": "2843218720",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:43",
+                    "Name": "周建军"
+                },
+                {
+                    "CardNumber": "2949008324",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:45",
+                    "Name": "安文政"
+                },
+                {
+                    "CardNumber": "2954593348",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:32:49",
+                    "Name": "211"
+                },
+                {
+                    "CardNumber": "3010095782",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:51",
+                    "Name": "魏琪鹏"
+                },
+                {
+                    "CardNumber": "3111513461",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:53",
+                    "Name": "王振强"
+                },
+                {
+                    "CardNumber": "3194571037",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:54",
+                    "Name": "温万喜"
+                },
+                {
+                    "CardNumber": "3246710550",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:57",
+                    "Name": "李福林"
+                },
+                {
+                    "CardNumber": "3246766150",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:00",
+                    "Name": "范文涛"
+                },
+                {
+                    "CardNumber": "3246836198",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:01",
+                    "Name": "苏兵"
+                },
+                {
+                    "CardNumber": "3246872518",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:02",
+                    "Name": "张兆贵"
+                },
+                {
+                    "CardNumber": "3246881558",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:03",
+                    "Name": "邓弟文"
+                },
+                {
+                    "CardNumber": "3246995926",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:05",
+                    "Name": "丁玉琪"
+                },
+                {
+                    "CardNumber": "3247001766",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:07",
+                    "Name": "宁长鹏"
+                },
+                {
+                    "CardNumber": "3247012166",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:08",
+                    "Name": "李加锁"
+                },
+                {
+                    "CardNumber": "3247046966",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:10",
+                    "Name": "杨金保"
+                },
+                {
+                    "CardNumber": "3247070054",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:11",
+                    "Name": "马进军"
+                },
+                {
+                    "CardNumber": "3247088454",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:13",
+                    "Name": "丁飞月"
+                },
+                {
+                    "CardNumber": "3247173222",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:16",
+                    "Name": "李忠领"
+                },
+                {
+                    "CardNumber": "3247188022",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:17",
+                    "Name": "王颖"
+                },
+                {
+                    "CardNumber": "3247233302",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:21",
+                    "Name": "马志超"
+                },
+                {
+                    "CardNumber": "3247356534",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:23",
+                    "Name": "王自芳"
+                },
+                {
+                    "CardNumber": "3247395062",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "17:33:26",
+                    "Name": "杜红梅"
+                },
+                {
+                    "CardNumber": "3247411478",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:27",
+                    "Name": "张自立"
+                },
+                {
+                    "CardNumber": "3247421830",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:28",
+                    "Name": "王佳军"
+                },
+                {
+                    "CardNumber": "3247453894",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:30",
+                    "Name": "苏静伟"
+                },
+                {
+                    "CardNumber": "3247643478",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:31",
+                    "Name": "马帅"
+                },
+                {
+                    "CardNumber": "3281403577",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:34",
+                    "Name": "包和平"
+                },
+                {
+                    "CardNumber": "3281816889",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:36",
+                    "Name": "马洪玉"
+                },
+                {
+                    "CardNumber": "3282089769",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:37",
+                    "Name": "刘文涛"
+                },
+                {
+                    "CardNumber": "3282603369",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:39",
+                    "Name": "李瑞1"
+                },
+                {
+                    "CardNumber": "3282692649",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:43",
+                    "Name": "张文科"
+                },
+                {
+                    "CardNumber": "3282787417",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:44",
+                    "Name": "闫腊成"
+                },
+                {
+                    "CardNumber": "3283028729",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:46",
+                    "Name": "王珂鑫"
+                },
+                {
+                    "CardNumber": "3284267769",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:47",
+                    "Name": "马骁"
+                },
+                {
+                    "CardNumber": "3284373369",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:34:03",
+                    "Name": "李超"
+                },
+                {
+                    "CardNumber": "3285088985",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:34:33",
+                    "Name": "吴广荣"
+                },
+                {
+                    "CardNumber": "3495791546",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:50:00",
+                    "Name": "杨海军"
+                },
+                {
+                    "CardNumber": "3496397402",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:03:27",
+                    "Name": "04159"
+                },
+                {
+                    "CardNumber": "3496437498",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:03:29",
+                    "Name": "蒋磊"
+                },
+                {
+                    "CardNumber": "3496658186",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:41:03",
+                    "Name": "04075"
+                },
+                {
+                    "CardNumber": "3496995626",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "18:57:49",
+                    "Name": "06087"
+                }
+            ]
+        },
+        {
+            "DepartName": "银川市宁东厚德工贸有限公司",
+            "DepartmentID": 49,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "2632032148",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:23:32",
+                    "Name": "沙彦兰"
+                }
+            ]
+        },
+        {
+            "DepartName": "灵武市吉泰商贸有限公司",
+            "DepartmentID": 54,
+            "TotalPerson": 2,
+            "entermessage": [
+                {
+                    "CardNumber": "0106653671",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:23:57",
+                    "Name": "JX191"
+                },
+                {
+                    "CardNumber": "3688041924",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:14:23",
+                    "Name": "375"
+                }
+            ]
+        },
+        {
+            "DepartName": "灵武市轩泰保安",
+            "DepartmentID": 96,
+            "TotalPerson": 5,
+            "entermessage": [
+                {
+                    "CardNumber": "0351467614",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:29:57",
+                    "Name": "李伟"
+                },
+                {
+                    "CardNumber": "0720293534",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "14:40:33",
+                    "Name": "李成"
+                },
+                {
+                    "CardNumber": "1157382349",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:43:06",
+                    "Name": "王利东1"
+                },
+                {
+                    "CardNumber": "3497159242",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:10:51",
+                    "Name": "马利龙"
+                },
+                {
+                    "CardNumber": "3687968772",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:05:54",
+                    "Name": "234"
+                }
+            ]
+        },
+        {
+            "DepartName": "灵武市轩泰消防",
+            "DepartmentID": 112,
+            "TotalPerson": 8,
+            "entermessage": [
+                {
+                    "CardNumber": "0351189038",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:09:16",
+                    "Name": "王学才"
+                },
+                {
+                    "CardNumber": "0351446286",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:23:43",
+                    "Name": "马长林"
+                },
+                {
+                    "CardNumber": "0351595998",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:31:11",
+                    "Name": "王建峰"
+                },
+                {
+                    "CardNumber": "0697308179",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "11:22:57",
+                    "Name": "043"
+                },
+                {
+                    "CardNumber": "0717417598",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "14:19:37",
+                    "Name": "马伟3"
+                },
+                {
+                    "CardNumber": "0720178688",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "14:32:38",
+                    "Name": "石彩霞"
+                },
+                {
+                    "CardNumber": "3688041140",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:13:54",
+                    "Name": "356"
+                },
+                {
+                    "CardNumber": "3722990214",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "23:00:38",
+                    "Name": "马英俊"
+                }
+            ]
+        },
+        {
+            "DepartName": "厦门市恒力机电设备运营有限公司",
+            "DepartmentID": 115,
+            "TotalPerson": 80,
+            "entermessage": [
+                {
+                    "CardNumber": "0091548983",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "00:05:41",
+                    "Name": "张泽"
+                },
+                {
+                    "CardNumber": "0091676743",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "00:32:16",
+                    "Name": "马小龙"
+                },
+                {
+                    "CardNumber": "0100616839",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:02:49",
+                    "Name": "JX054"
+                },
+                {
+                    "CardNumber": "0107426743",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "07:58:33",
+                    "Name": "白花"
+                },
+                {
+                    "CardNumber": "0107504871",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:59:27",
+                    "Name": "JX287"
+                },
+                {
+                    "CardNumber": "0107511415",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "08:03:46",
+                    "Name": "孙万岁"
+                },
+                {
+                    "CardNumber": "0107518087",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:03:48",
+                    "Name": "杨佳辉2"
+                },
+                {
+                    "CardNumber": "0107653191",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "08:03:55",
+                    "Name": "田进龙1"
+                },
+                {
+                    "CardNumber": "0107708455",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:04:00",
+                    "Name": "唐佳浩"
+                },
+                {
+                    "CardNumber": "0107920023",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:04:05",
+                    "Name": "魏进武"
+                },
+                {
+                    "CardNumber": "0107953559",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:04:08",
+                    "Name": "马兰"
+                },
+                {
+                    "CardNumber": "0107988855",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:04:09",
+                    "Name": "纳保军"
+                },
+                {
+                    "CardNumber": "0108082599",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "08:06:57",
+                    "Name": "史海军"
+                },
+                {
+                    "CardNumber": "0108169831",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:07:00",
+                    "Name": "马占林"
+                },
+                {
+                    "CardNumber": "0108301655",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:07:11",
+                    "Name": "143"
+                },
+                {
+                    "CardNumber": "0115436199",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:07:16",
+                    "Name": "王巧玲"
+                },
+                {
+                    "CardNumber": "0161749703",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "08:07:18",
+                    "Name": "虎登山"
+                },
+                {
+                    "CardNumber": "0172551187",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:09:02",
+                    "Name": "王旭"
+                },
+                {
+                    "CardNumber": "0172602339",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:09:03",
+                    "Name": "张子义"
+                },
+                {
+                    "CardNumber": "0172657251",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:10:58",
+                    "Name": "刘文飞"
+                },
+                {
+                    "CardNumber": "0172676771",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:11:01",
+                    "Name": "马丽娟"
+                },
+                {
+                    "CardNumber": "0350948366",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:42:53",
+                    "Name": "王江波"
+                },
+                {
+                    "CardNumber": "0359857470",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:53:08",
+                    "Name": "马伟2"
+                },
+                {
+                    "CardNumber": "0696054531",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:04:21",
+                    "Name": "张晓龙"
+                },
+                {
+                    "CardNumber": "0697294915",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "11:22:15",
+                    "Name": "徐志聪"
+                },
+                {
+                    "CardNumber": "0697894419",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:36:58",
+                    "Name": "温亚亚"
+                },
+                {
+                    "CardNumber": "0698049459",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:37:40",
+                    "Name": "丁杨"
+                },
+                {
+                    "CardNumber": "0703206627",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "12:01:44",
+                    "Name": "马永瑞"
+                },
+                {
+                    "CardNumber": "1098329051",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:14:58",
+                    "Name": "JX057"
+                },
+                {
+                    "CardNumber": "1139161437",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:15:00",
+                    "Name": "董光"
+                },
+                {
+                    "CardNumber": "1153494253",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:16:23",
+                    "Name": "张小涛"
+                },
+                {
+                    "CardNumber": "1154230813",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:41:11",
+                    "Name": "吴红民"
+                },
+                {
+                    "CardNumber": "1157778765",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:49:25",
+                    "Name": "李刚1"
+                },
+                {
+                    "CardNumber": "1529171393",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:37",
+                    "Name": "孙旺"
+                },
+                {
+                    "CardNumber": "1631613453",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:39",
+                    "Name": "田斌"
+                },
+                {
+                    "CardNumber": "1704772554",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "15:58:41",
+                    "Name": "06091"
+                },
+                {
+                    "CardNumber": "1890133828",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:58:45",
+                    "Name": "刘乐"
+                },
+                {
+                    "CardNumber": "1990796758",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:49",
+                    "Name": "冯进强"
+                },
+                {
+                    "CardNumber": "1991415318",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:58:50",
+                    "Name": "丁国祥"
+                },
+                {
+                    "CardNumber": "1992983478",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:53",
+                    "Name": "JX053"
+                },
+                {
+                    "CardNumber": "1993274614",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:54",
+                    "Name": "许明杰"
+                },
+                {
+                    "CardNumber": "1993705254",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:07:02",
+                    "Name": "王福梅"
+                },
+                {
+                    "CardNumber": "1993719094",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:07:04",
+                    "Name": "马佳磊"
+                },
+                {
+                    "CardNumber": "1993932054",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:07:05",
+                    "Name": "王新建"
+                },
+                {
+                    "CardNumber": "1994193814",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:07:09",
+                    "Name": "罗娟"
+                },
+                {
+                    "CardNumber": "2763982790",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:18",
+                    "Name": "JX019"
+                },
+                {
+                    "CardNumber": "2786148410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:30:49",
+                    "Name": "杜飞"
+                },
+                {
+                    "CardNumber": "3495807754",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:51:02",
+                    "Name": "杨桂萍"
+                },
+                {
+                    "CardNumber": "3496076042",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:53:21",
+                    "Name": "耿华"
+                },
+                {
+                    "CardNumber": "3496247114",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:57:46",
+                    "Name": "马春花1"
+                },
+                {
+                    "CardNumber": "3496682314",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:43:29",
+                    "Name": "葸九怀"
+                },
+                {
+                    "CardNumber": "3497100426",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:00:21",
+                    "Name": "莫林生"
+                },
+                {
+                    "CardNumber": "3497231642",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:17:48",
+                    "Name": "姚秀琴"
+                },
+                {
+                    "CardNumber": "3497262506",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:17:55",
+                    "Name": "尚现伟"
+                },
+                {
+                    "CardNumber": "3497314362",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:19:30",
+                    "Name": "徐云飞"
+                },
+                {
+                    "CardNumber": "3497376794",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:22:03",
+                    "Name": "王刚厦门恒力"
+                },
+                {
+                    "CardNumber": "3497401834",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "19:22:13",
+                    "Name": "张兴华"
+                },
+                {
+                    "CardNumber": "3497421114",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:22:16",
+                    "Name": "来宾II卡013"
+                },
+                {
+                    "CardNumber": "3497428730",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:22:18",
+                    "Name": "王佳健"
+                },
+                {
+                    "CardNumber": "3497455386",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:22:20",
+                    "Name": "田新"
+                },
+                {
+                    "CardNumber": "3497477626",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:22:22",
+                    "Name": "李甜甜"
+                },
+                {
+                    "CardNumber": "3497484010",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "19:22:24",
+                    "Name": "张清"
+                },
+                {
+                    "CardNumber": "3497527818",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:23:27",
+                    "Name": "王海林"
+                },
+                {
+                    "CardNumber": "3497532842",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "19:23:30",
+                    "Name": "杨文"
+                },
+                {
+                    "CardNumber": "3497927978",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:57:56",
+                    "Name": "郑灿"
+                },
+                {
+                    "CardNumber": "3497931754",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:00:13",
+                    "Name": "宋旺旺"
+                },
+                {
+                    "CardNumber": "3497968442",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:32",
+                    "Name": "韩富祥"
+                },
+                {
+                    "CardNumber": "3497978378",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "20:06:40",
+                    "Name": "马银花"
+                },
+                {
+                    "CardNumber": "3497980970",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "20:06:42",
+                    "Name": "马金花"
+                },
+                {
+                    "CardNumber": "3497985466",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:45",
+                    "Name": "张永平"
+                },
+                {
+                    "CardNumber": "3584255595",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:46",
+                    "Name": "肖亚伟"
+                },
+                {
+                    "CardNumber": "3652981936",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:06:47",
+                    "Name": "锁拜拜"
+                },
+                {
+                    "CardNumber": "3660907962",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:06:50",
+                    "Name": "马吉祥"
+                },
+                {
+                    "CardNumber": "3661066394",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:54",
+                    "Name": "朱美强"
+                },
+                {
+                    "CardNumber": "3661250170",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:57",
+                    "Name": "04193"
+                },
+                {
+                    "CardNumber": "3661641546",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:58",
+                    "Name": "杨凯"
+                },
+                {
+                    "CardNumber": "3661802266",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:07:00",
+                    "Name": "侯金棒"
+                },
+                {
+                    "CardNumber": "3662299722",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:04",
+                    "Name": "陈建国"
+                },
+                {
+                    "CardNumber": "3662736266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:06",
+                    "Name": "巩忠成"
+                },
+                {
+                    "CardNumber": "3688273812",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:33:37",
+                    "Name": "174"
+                }
+            ]
+        },
+        {
+            "DepartName": "中国能源建设集团浙江火电建设有限",
+            "DepartmentID": 123,
+            "TotalPerson": 16,
+            "entermessage": [
+                {
+                    "CardNumber": "0106893831",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:38:36",
+                    "Name": "JX035"
+                },
+                {
+                    "CardNumber": "0107280407",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "07:49:31",
+                    "Name": "马玉柱"
+                },
+                {
+                    "CardNumber": "0173482787",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:13:29",
+                    "Name": "李继强"
+                },
+                {
+                    "CardNumber": "2408422750",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:14:30",
+                    "Name": "李凤瑞"
+                },
+                {
+                    "CardNumber": "2633783012",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:23:59",
+                    "Name": "155"
+                },
+                {
+                    "CardNumber": "2661158260",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:26:42",
+                    "Name": "马建涛"
+                },
+                {
+                    "CardNumber": "2662150340",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:28:28",
+                    "Name": "107"
+                },
+                {
+                    "CardNumber": "3490844582",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:39:40",
+                    "Name": "秦怀柱"
+                },
+                {
+                    "CardNumber": "3495596938",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:39:44",
+                    "Name": "马静"
+                },
+                {
+                    "CardNumber": "3496451066",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:04:05",
+                    "Name": "杨保生1"
+                },
+                {
+                    "CardNumber": "3496657018",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:38:39",
+                    "Name": "杨明"
+                },
+                {
+                    "CardNumber": "3496900154",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:51:50",
+                    "Name": "张国剑"
+                },
+                {
+                    "CardNumber": "3497046042",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:58:53",
+                    "Name": "张晓峰"
+                },
+                {
+                    "CardNumber": "3497487802",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:22:29",
+                    "Name": "何昱臻"
+                },
+                {
+                    "CardNumber": "3497716234",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:41:17",
+                    "Name": "武希林"
+                },
+                {
+                    "CardNumber": "3688214436",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:19:42",
+                    "Name": "364"
+                }
+            ]
+        },
+        {
+            "DepartName": "厂家来访人员",
+            "DepartmentID": 129,
+            "TotalPerson": 4,
+            "entermessage": [
+                {
+                    "CardNumber": "0696902131",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "11:15:55",
+                    "Name": "王俊杰"
+                },
+                {
+                    "CardNumber": "2072705220",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:32:38",
+                    "Name": "丁学花"
+                },
+                {
+                    "CardNumber": "2660748628",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:25:22",
+                    "Name": "张娜"
+                },
+                {
+                    "CardNumber": "3497324666",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:21:41",
+                    "Name": "李小林"
+                }
+            ]
+        },
+        {
+            "DepartName": "天门神火",
+            "DepartmentID": 134,
+            "TotalPerson": 2,
+            "entermessage": [
+                {
+                    "CardNumber": "3496989674",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:54:46",
+                    "Name": "马福侦"
+                },
+                {
+                    "CardNumber": "3497462186",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:22:21",
+                    "Name": "刘彦超"
+                }
+            ]
+        },
+        {
+            "DepartName": "北京腾疆电力工程有限公司",
+            "DepartmentID": 144,
+            "TotalPerson": 42,
+            "entermessage": [
+                {
+                    "CardNumber": "0100758471",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "07:13:07",
+                    "Name": "余军"
+                },
+                {
+                    "CardNumber": "0100909783",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:17:29",
+                    "Name": "雷瑞"
+                },
+                {
+                    "CardNumber": "0105248743",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:22:07",
+                    "Name": "田进龙"
+                },
+                {
+                    "CardNumber": "0351315758",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:11:52",
+                    "Name": "杨春"
+                },
+                {
+                    "CardNumber": "0359561614",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:40:04",
+                    "Name": "马银花1"
+                },
+                {
+                    "CardNumber": "0703317779",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "12:12:44",
+                    "Name": "李晓波"
+                },
+                {
+                    "CardNumber": "0703517427",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "13:42:11",
+                    "Name": "拉素玛"
+                },
+                {
+                    "CardNumber": "0703815171",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "13:43:26",
+                    "Name": "王佰斌"
+                },
+                {
+                    "CardNumber": "1153596477",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:35:17",
+                    "Name": "张海军1"
+                },
+                {
+                    "CardNumber": "1993345366",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:04:19",
+                    "Name": "哈学云"
+                },
+                {
+                    "CardNumber": "1994448758",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:16:27",
+                    "Name": "李文君"
+                },
+                {
+                    "CardNumber": "2107534272",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:11:26",
+                    "Name": "马虎1"
+                },
+                {
+                    "CardNumber": "2135329286",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:13:36",
+                    "Name": "张沛"
+                },
+                {
+                    "CardNumber": "2662849428",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "17:29:39",
+                    "Name": "165"
+                },
+                {
+                    "CardNumber": "3247202070",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:19",
+                    "Name": "张兴中"
+                },
+                {
+                    "CardNumber": "3306144502",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:36:21",
+                    "Name": "崔林"
+                },
+                {
+                    "CardNumber": "3495776090",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:49:50",
+                    "Name": "冯思铭"
+                },
+                {
+                    "CardNumber": "3495938506",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:52:37",
+                    "Name": "刘斐斐"
+                },
+                {
+                    "CardNumber": "3495985978",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:52:38",
+                    "Name": "蔺瑶"
+                },
+                {
+                    "CardNumber": "3495988762",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:52:40",
+                    "Name": "张志林"
+                },
+                {
+                    "CardNumber": "3495989386",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:52:45",
+                    "Name": "杨连朝"
+                },
+                {
+                    "CardNumber": "3496281450",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:58:46",
+                    "Name": "康世林"
+                },
+                {
+                    "CardNumber": "3496306314",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:59:06",
+                    "Name": "李小亮"
+                },
+                {
+                    "CardNumber": "3496324650",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:59:30",
+                    "Name": "陈辉"
+                },
+                {
+                    "CardNumber": "3496387514",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:02:09",
+                    "Name": "金海燕"
+                },
+                {
+                    "CardNumber": "3496396378",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:02:11",
+                    "Name": "来宾I卡025"
+                },
+                {
+                    "CardNumber": "3496397066",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:03:20",
+                    "Name": "任于停"
+                },
+                {
+                    "CardNumber": "3496893258",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:51:07",
+                    "Name": "杨凤侠"
+                },
+                {
+                    "CardNumber": "3497202970",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:17:39",
+                    "Name": "张振"
+                },
+                {
+                    "CardNumber": "3497267626",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "19:18:56",
+                    "Name": "高克祥"
+                },
+                {
+                    "CardNumber": "3497540746",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:34:07",
+                    "Name": "王峰"
+                },
+                {
+                    "CardNumber": "3497563034",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:34:11",
+                    "Name": "李飞1"
+                },
+                {
+                    "CardNumber": "3497692858",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:41:06",
+                    "Name": "来宾I卡049"
+                },
+                {
+                    "CardNumber": "3497773402",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:46:31",
+                    "Name": "闫翔1"
+                },
+                {
+                    "CardNumber": "3687834100",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:45:42",
+                    "Name": "柳升龙"
+                },
+                {
+                    "CardNumber": "3687905860",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:57:00",
+                    "Name": "王自治"
+                },
+                {
+                    "CardNumber": "3687923620",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:01:07",
+                    "Name": "360"
+                },
+                {
+                    "CardNumber": "3688323028",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:34:45",
+                    "Name": "马建军1"
+                },
+                {
+                    "CardNumber": "3688637764",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "21:43:16",
+                    "Name": "马金芬"
+                },
+                {
+                    "CardNumber": "3688673700",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:45:17",
+                    "Name": "063"
+                },
+                {
+                    "CardNumber": "3688781316",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "22:08:49",
+                    "Name": "成星"
+                },
+                {
+                    "CardNumber": "3688963156",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "22:10:42",
+                    "Name": "杜文浩"
+                }
+            ]
+        },
+        {
+            "DepartName": "厦门恒力机电设备营运有限公司一期",
+            "DepartmentID": 145,
+            "TotalPerson": 53,
+            "entermessage": [
+                {
+                    "CardNumber": "0091810391",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "02:10:54",
+                    "Name": "刘宝生"
+                },
+                {
+                    "CardNumber": "0107428263",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:59:23",
+                    "Name": "JX215"
+                },
+                {
+                    "CardNumber": "0107475783",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "07:59:24",
+                    "Name": "马春霞"
+                },
+                {
+                    "CardNumber": "0107493415",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:59:25",
+                    "Name": "王玉源"
+                },
+                {
+                    "CardNumber": "0107539975",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:03:53",
+                    "Name": "孟莹"
+                },
+                {
+                    "CardNumber": "0107655703",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:03:56",
+                    "Name": "白明"
+                },
+                {
+                    "CardNumber": "0107678695",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:03:59",
+                    "Name": "李文平"
+                },
+                {
+                    "CardNumber": "0107720487",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:04:02",
+                    "Name": "李维梅"
+                },
+                {
+                    "CardNumber": "0107903895",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:04:04",
+                    "Name": "宋学瑞"
+                },
+                {
+                    "CardNumber": "0107991031",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "08:06:02",
+                    "Name": "张海建"
+                },
+                {
+                    "CardNumber": "0107995703",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:06:17",
+                    "Name": "114"
+                },
+                {
+                    "CardNumber": "0108232567",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:07:05",
+                    "Name": "尹昊"
+                },
+                {
+                    "CardNumber": "0108253703",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:07:08",
+                    "Name": "马民"
+                },
+                {
+                    "CardNumber": "0108269335",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:07:09",
+                    "Name": "088"
+                },
+                {
+                    "CardNumber": "0108331191",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:07:13",
+                    "Name": "马小兰"
+                },
+                {
+                    "CardNumber": "0110804711",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:07:15",
+                    "Name": "吴学成"
+                },
+                {
+                    "CardNumber": "0172233811",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:07:22",
+                    "Name": "庞明轩"
+                },
+                {
+                    "CardNumber": "0276240979",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:16:55",
+                    "Name": "马国庆"
+                },
+                {
+                    "CardNumber": "0701146547",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "11:40:21",
+                    "Name": "杨耀兰"
+                },
+                {
+                    "CardNumber": "0704564771",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "13:59:11",
+                    "Name": "武力强"
+                },
+                {
+                    "CardNumber": "0705258531",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "14:10:55",
+                    "Name": "周伟华"
+                },
+                {
+                    "CardNumber": "1157782957",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:54:39",
+                    "Name": "马龙1"
+                },
+                {
+                    "CardNumber": "1435957958",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:58:35",
+                    "Name": "杨红梅"
+                },
+                {
+                    "CardNumber": "1695435717",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:40",
+                    "Name": "高鸿博"
+                },
+                {
+                    "CardNumber": "1884613287",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:58:43",
+                    "Name": "张海军"
+                },
+                {
+                    "CardNumber": "1981132413",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "15:58:48",
+                    "Name": "张梁"
+                },
+                {
+                    "CardNumber": "1992695958",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "15:58:52",
+                    "Name": "JX058"
+                },
+                {
+                    "CardNumber": "1993485846",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:06:33",
+                    "Name": "JX059"
+                },
+                {
+                    "CardNumber": "1993977494",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:07:07",
+                    "Name": "白耀文"
+                },
+                {
+                    "CardNumber": "2662443684",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:29:36",
+                    "Name": "徐亮"
+                },
+                {
+                    "CardNumber": "2786278106",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:31:37",
+                    "Name": "郝英龙"
+                },
+                {
+                    "CardNumber": "3304694278",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:35:23",
+                    "Name": "田勇"
+                },
+                {
+                    "CardNumber": "3305059222",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:35:26",
+                    "Name": "翟立东"
+                },
+                {
+                    "CardNumber": "3496078026",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:54:40",
+                    "Name": "张宇亮"
+                },
+                {
+                    "CardNumber": "3496893866",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:51:17",
+                    "Name": "赵岩"
+                },
+                {
+                    "CardNumber": "3497236970",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:17:50",
+                    "Name": "马驰"
+                },
+                {
+                    "CardNumber": "3497249722",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:17:53",
+                    "Name": "鲁建荣"
+                },
+                {
+                    "CardNumber": "3497324378",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:20:19",
+                    "Name": "卢建洲"
+                },
+                {
+                    "CardNumber": "3497373594",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:21:46",
+                    "Name": "李东升"
+                },
+                {
+                    "CardNumber": "3497385306",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:22:05",
+                    "Name": "全文杰"
+                },
+                {
+                    "CardNumber": "3497386266",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:22:08",
+                    "Name": "袁顺喜"
+                },
+                {
+                    "CardNumber": "3497387914",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:22:11",
+                    "Name": "崔辉"
+                },
+                {
+                    "CardNumber": "3497538362",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:29:34",
+                    "Name": "梁治家"
+                },
+                {
+                    "CardNumber": "3497539530",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "19:33:03",
+                    "Name": "张雪源"
+                },
+                {
+                    "CardNumber": "3497956810",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:31",
+                    "Name": "陈建云"
+                },
+                {
+                    "CardNumber": "3660947338",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "20:06:52",
+                    "Name": "06094"
+                },
+                {
+                    "CardNumber": "3661191946",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:06:55",
+                    "Name": "段康佳"
+                },
+                {
+                    "CardNumber": "3661999946",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:07:01",
+                    "Name": "06095"
+                },
+                {
+                    "CardNumber": "3662026410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:02",
+                    "Name": "曹宇峰"
+                },
+                {
+                    "CardNumber": "3662394826",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:05",
+                    "Name": "周莉瑞"
+                },
+                {
+                    "CardNumber": "3662954586",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:11:04",
+                    "Name": "白鑫波"
+                },
+                {
+                    "CardNumber": "3663015690",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:14:24",
+                    "Name": "王平"
+                },
+                {
+                    "CardNumber": "3688096676",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:15:29",
+                    "Name": "365"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏维尔康环境检测有限公司",
+            "DepartmentID": 147,
+            "TotalPerson": 3,
+            "entermessage": [
+                {
+                    "CardNumber": "2641438676",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:24:48",
+                    "Name": "陈学明"
+                },
+                {
+                    "CardNumber": "3495685786",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:41:39",
+                    "Name": "杨飞飞"
+                },
+                {
+                    "CardNumber": "3688695076",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "21:46:12",
+                    "Name": "梁凤霞"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏维尔康环境检测有限公司一期",
+            "DepartmentID": 149,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "3723257078",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "23:14:00",
+                    "Name": "梁钰"
+                }
+            ]
+        },
+        {
+            "DepartName": "检修承包商专用临时卡",
+            "DepartmentID": 150,
+            "TotalPerson": 48,
+            "entermessage": [
+                {
+                    "CardNumber": "0091785383",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "01:24:32",
+                    "Name": "高翔"
+                },
+                {
+                    "CardNumber": "0100118999",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "06:49:12",
+                    "Name": "马建明"
+                },
+                {
+                    "CardNumber": "0100172407",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "06:55:29",
+                    "Name": "朱振涛"
+                },
+                {
+                    "CardNumber": "0100585543",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "06:55:44",
+                    "Name": "王明锁"
+                },
+                {
+                    "CardNumber": "0105244087",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "07:19:31",
+                    "Name": "马小武"
+                },
+                {
+                    "CardNumber": "0105607783",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:23:23",
+                    "Name": "朱磊"
+                },
+                {
+                    "CardNumber": "0107081895",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:45:23",
+                    "Name": "杨盘龙"
+                },
+                {
+                    "CardNumber": "0107172423",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:45:26",
+                    "Name": "周佳盛"
+                },
+                {
+                    "CardNumber": "0107357863",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "07:56:34",
+                    "Name": "过嘉豪"
+                },
+                {
+                    "CardNumber": "0107382327",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:56:36",
+                    "Name": "刘国杰"
+                },
+                {
+                    "CardNumber": "0107422119",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:58:01",
+                    "Name": "马晓付"
+                },
+                {
+                    "CardNumber": "0276630531",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:32:34",
+                    "Name": "陈晓梅"
+                },
+                {
+                    "CardNumber": "0277060179",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "08:32:37",
+                    "Name": "李栋"
+                },
+                {
+                    "CardNumber": "0351083502",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "08:45:39",
+                    "Name": "马长军"
+                },
+                {
+                    "CardNumber": "0351177742",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:05:35",
+                    "Name": "王金才"
+                },
+                {
+                    "CardNumber": "0351200158",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:11:48",
+                    "Name": "马菊花"
+                },
+                {
+                    "CardNumber": "0360463374",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:54:15",
+                    "Name": "畅晓刚"
+                },
+                {
+                    "CardNumber": "0582425483",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "10:02:07",
+                    "Name": "马红军1"
+                },
+                {
+                    "CardNumber": "0696586339",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:06:25",
+                    "Name": "李花"
+                },
+                {
+                    "CardNumber": "0697337299",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "11:34:56",
+                    "Name": "李国良"
+                },
+                {
+                    "CardNumber": "0701344115",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:57:28",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "CardNumber": "0703456755",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "13:28:44",
+                    "Name": "JX077"
+                },
+                {
+                    "CardNumber": "0704935795",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "14:00:44",
+                    "Name": "贺军"
+                },
+                {
+                    "CardNumber": "0717562478",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "14:22:40",
+                    "Name": "杜兵"
+                },
+                {
+                    "CardNumber": "0721050350",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:09:29",
+                    "Name": "包鑫祥"
+                },
+                {
+                    "CardNumber": "1994218598",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:14:31",
+                    "Name": "马国云"
+                },
+                {
+                    "CardNumber": "2074531108",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:09:44",
+                    "Name": "王君君"
+                },
+                {
+                    "CardNumber": "2074573412",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:09:47",
+                    "Name": "马多彦"
+                },
+                {
+                    "CardNumber": "2842937280",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:41",
+                    "Name": "武二小"
+                },
+                {
+                    "CardNumber": "3495627818",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:40:26",
+                    "Name": "候林成"
+                },
+                {
+                    "CardNumber": "3495792330",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:50:48",
+                    "Name": "金乐"
+                },
+                {
+                    "CardNumber": "3495858122",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:51:43",
+                    "Name": "尹文飞"
+                },
+                {
+                    "CardNumber": "3496294794",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:58:54",
+                    "Name": "徐永双"
+                },
+                {
+                    "CardNumber": "3496666234",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:41:45",
+                    "Name": "吴继峰"
+                },
+                {
+                    "CardNumber": "3496730186",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:46:13",
+                    "Name": "马谦"
+                },
+                {
+                    "CardNumber": "3496802538",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:46:16",
+                    "Name": "葸天国"
+                },
+                {
+                    "CardNumber": "3496823050",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:46:18",
+                    "Name": "白少花"
+                },
+                {
+                    "CardNumber": "3496837290",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:46:20",
+                    "Name": "李家奇"
+                },
+                {
+                    "CardNumber": "3496839466",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:46:22",
+                    "Name": "刘玉兰"
+                },
+                {
+                    "CardNumber": "3496844634",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:46:25",
+                    "Name": "何瑜轩"
+                },
+                {
+                    "CardNumber": "3496944554",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:54:40",
+                    "Name": "杨黎明"
+                },
+                {
+                    "CardNumber": "3496975786",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:54:42",
+                    "Name": "孙涛"
+                },
+                {
+                    "CardNumber": "3497116986",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "19:02:16",
+                    "Name": "04140"
+                },
+                {
+                    "CardNumber": "3497137370",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:02:18",
+                    "Name": "赵金玉"
+                },
+                {
+                    "CardNumber": "3687908244",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "21:00:08",
+                    "Name": "孙玉祥"
+                },
+                {
+                    "CardNumber": "3688346740",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:35:02",
+                    "Name": "296"
+                },
+                {
+                    "CardNumber": "3688473636",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "21:35:05",
+                    "Name": "傅佳慧"
+                },
+                {
+                    "CardNumber": "3723316774",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "23:42:30",
+                    "Name": "杨晓华"
+                }
+            ]
+        },
+        {
+            "DepartName": "深圳德赛富通",
+            "DepartmentID": 153,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "0107350519",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:49:47",
+                    "Name": "马志成"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏银川翔峰制冷",
+            "DepartmentID": 154,
+            "TotalPerson": 2,
+            "entermessage": [
+                {
+                    "CardNumber": "2073879476",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:43:08",
+                    "Name": "148"
+                },
+                {
+                    "CardNumber": "2074159396",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:59:16",
+                    "Name": "180"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏臻安消防安全技术服务有限公司",
+            "DepartmentID": 159,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "3688580228",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:42:53",
+                    "Name": "225"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏润源电力",
+            "DepartmentID": 161,
+            "TotalPerson": 2,
+            "entermessage": [
+                {
+                    "CardNumber": "3495604058",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:40:14",
+                    "Name": "张建鑫"
+                },
+                {
+                    "CardNumber": "3496632490",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:35:26",
+                    "Name": "杨占权"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏通庆达运销有限公司",
+            "DepartmentID": 162,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "0704224835",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "13:50:59",
+                    "Name": "马永辉"
+                }
+            ]
+        },
+        {
+            "DepartName": "常州市天宁市政绿化工程有限公司",
+            "DepartmentID": 164,
+            "TotalPerson": 3,
+            "entermessage": [
+                {
+                    "CardNumber": "0703319843",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "12:46:18",
+                    "Name": "赵铎"
+                },
+                {
+                    "CardNumber": "1154009965",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:36:57",
+                    "Name": "刘桂超"
+                },
+                {
+                    "CardNumber": "3496453706",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:04:26",
+                    "Name": "禹海军"
+                }
+            ]
+        },
+        {
+            "DepartName": "中国能源建设集团山西电力建设第一",
+            "DepartmentID": 167,
+            "TotalPerson": 37,
+            "entermessage": [
+                {
+                    "CardNumber": "0091944071",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "03:51:44",
+                    "Name": "王勇"
+                },
+                {
+                    "CardNumber": "0105380599",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:23:15",
+                    "Name": "101"
+                },
+                {
+                    "CardNumber": "0106846071",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:36:05",
+                    "Name": "丁泽礼"
+                },
+                {
+                    "CardNumber": "0107265335",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:46:23",
+                    "Name": "146"
+                },
+                {
+                    "CardNumber": "0359494622",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:36:24",
+                    "Name": "黄科"
+                },
+                {
+                    "CardNumber": "0720360592",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "14:44:32",
+                    "Name": "胡金胜"
+                },
+                {
+                    "CardNumber": "1157038125",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "15:41:15",
+                    "Name": "吴利平"
+                },
+                {
+                    "CardNumber": "2594988538",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:19:58",
+                    "Name": "郝鹏"
+                },
+                {
+                    "CardNumber": "2661363412",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:26:48",
+                    "Name": "侯琦"
+                },
+                {
+                    "CardNumber": "2787192954",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:31:58",
+                    "Name": "乔学河"
+                },
+                {
+                    "CardNumber": "2787515834",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:00",
+                    "Name": "邓芳芳"
+                },
+                {
+                    "CardNumber": "3284364937",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:51",
+                    "Name": "段艳利"
+                },
+                {
+                    "CardNumber": "3285964457",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:35:02",
+                    "Name": "张辉"
+                },
+                {
+                    "CardNumber": "3305449734",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:35:36",
+                    "Name": "刘全"
+                },
+                {
+                    "CardNumber": "3495740442",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:47:27",
+                    "Name": "顾宁"
+                },
+                {
+                    "CardNumber": "3495773850",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:47:30",
+                    "Name": "马海龙"
+                },
+                {
+                    "CardNumber": "3496615882",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:26:09",
+                    "Name": "马英"
+                },
+                {
+                    "CardNumber": "3496644666",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:36:05",
+                    "Name": "马海兵"
+                },
+                {
+                    "CardNumber": "3496914154",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:53:54",
+                    "Name": "王学兵"
+                },
+                {
+                    "CardNumber": "3497317914",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:19:35",
+                    "Name": "杨红艳"
+                },
+                {
+                    "CardNumber": "3497630826",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:37:02",
+                    "Name": "06085"
+                },
+                {
+                    "CardNumber": "3497670570",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:37:05",
+                    "Name": "王刚2"
+                },
+                {
+                    "CardNumber": "3497786314",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "19:53:40",
+                    "Name": "邹海波"
+                },
+                {
+                    "CardNumber": "3663110778",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:22:55",
+                    "Name": "王小刚厦门"
+                },
+                {
+                    "CardNumber": "3687780836",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:26:25",
+                    "Name": "陈银"
+                },
+                {
+                    "CardNumber": "3687818404",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:36:56",
+                    "Name": "189"
+                },
+                {
+                    "CardNumber": "3687856100",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:50:38",
+                    "Name": "231"
+                },
+                {
+                    "CardNumber": "3688215188",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:25:58",
+                    "Name": "王慈祥"
+                },
+                {
+                    "CardNumber": "3688217428",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:26:26",
+                    "Name": "杜瑞"
+                },
+                {
+                    "CardNumber": "3688235396",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "21:32:54",
+                    "Name": "马少污"
+                },
+                {
+                    "CardNumber": "3688481668",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "21:41:13",
+                    "Name": "马刚"
+                },
+                {
+                    "CardNumber": "3688515620",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "21:42:38",
+                    "Name": "马建军"
+                },
+                {
+                    "CardNumber": "3688579236",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "21:42:41",
+                    "Name": "刘引弟"
+                },
+                {
+                    "CardNumber": "3688661156",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "21:44:42",
+                    "Name": "王森"
+                },
+                {
+                    "CardNumber": "3688775604",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "22:08:25",
+                    "Name": "肖龙"
+                },
+                {
+                    "CardNumber": "3694677988",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "22:35:06",
+                    "Name": "313"
+                },
+                {
+                    "CardNumber": "3723810358",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "23:53:44",
+                    "Name": "史海燕"
+                }
+            ]
+        },
+        {
+            "DepartName": "新检修卡",
+            "DepartmentID": 172,
+            "TotalPerson": 20,
+            "entermessage": [
+                {
+                    "CardNumber": "0100158567",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "06:55:16",
+                    "Name": "089"
+                },
+                {
+                    "CardNumber": "0100164199",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "06:55:20",
+                    "Name": "王凯1"
+                },
+                {
+                    "CardNumber": "0100356711",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "06:55:31",
+                    "Name": "JX181"
+                },
+                {
+                    "CardNumber": "0351177054",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:04:24",
+                    "Name": "代淑萍"
+                },
+                {
+                    "CardNumber": "0351395230",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "09:13:08",
+                    "Name": "罗涛"
+                },
+                {
+                    "CardNumber": "0360659998",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "10:00:56",
+                    "Name": "王兵兵"
+                },
+                {
+                    "CardNumber": "0360965342",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "10:01:00",
+                    "Name": "王岩"
+                },
+                {
+                    "CardNumber": "0432549959",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "10:01:02",
+                    "Name": "杨佳鑫"
+                },
+                {
+                    "CardNumber": "0458556839",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "10:01:28",
+                    "Name": "马永祥"
+                },
+                {
+                    "CardNumber": "0689102275",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "10:28:31",
+                    "Name": "马虎"
+                },
+                {
+                    "CardNumber": "0696741459",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "11:13:27",
+                    "Name": "杨立新"
+                },
+                {
+                    "CardNumber": "0720242750",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "14:38:48",
+                    "Name": "夏芙蓉"
+                },
+                {
+                    "CardNumber": "0720485630",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "14:52:09",
+                    "Name": "马利铎"
+                },
+                {
+                    "CardNumber": "1157743821",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:45:16",
+                    "Name": "付军辉"
+                },
+                {
+                    "CardNumber": "1157748253",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:45:19",
+                    "Name": "王国红"
+                },
+                {
+                    "CardNumber": "2072969108",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:35:37",
+                    "Name": "王佳富"
+                },
+                {
+                    "CardNumber": "3496231226",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:56:21",
+                    "Name": "李新院"
+                },
+                {
+                    "CardNumber": "3496622618",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:28:35",
+                    "Name": "马志发"
+                },
+                {
+                    "CardNumber": "3497847610",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:57:24",
+                    "Name": "杨飞"
+                },
+                {
+                    "CardNumber": "3497878026",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:57:28",
+                    "Name": "赵生余"
+                }
+            ]
+        },
+        {
+            "DepartName": "天津市思内克科技发展有限公司",
+            "DepartmentID": 174,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "2408577566",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:19:34",
+                    "Name": "苏建强"
+                }
+            ]
+        },
+        {
+            "DepartName": "苏华建设集团有限责任公司",
+            "DepartmentID": 176,
+            "TotalPerson": 10,
+            "entermessage": [
+                {
+                    "CardNumber": "0697328979",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:25:29",
+                    "Name": "闫万星"
+                },
+                {
+                    "CardNumber": "2661579108",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:26:53",
+                    "Name": "侯续冰"
+                },
+                {
+                    "CardNumber": "3496468906",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:05:37",
+                    "Name": "丁宁"
+                },
+                {
+                    "CardNumber": "3496509546",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:05:38",
+                    "Name": "马东1"
+                },
+                {
+                    "CardNumber": "3496543546",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:05:41",
+                    "Name": "李兵"
+                },
+                {
+                    "CardNumber": "3496563082",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:08:53",
+                    "Name": "郑喜军"
+                },
+                {
+                    "CardNumber": "3496708842",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:45:43",
+                    "Name": "孙志华厦门"
+                },
+                {
+                    "CardNumber": "3497803994",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:54:03",
+                    "Name": "马鹏"
+                },
+                {
+                    "CardNumber": "3662804650",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:13",
+                    "Name": "王龙"
+                },
+                {
+                    "CardNumber": "3688763012",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:52:32",
+                    "Name": "杨佳辉"
+                }
+            ]
+        },
+        {
+            "DepartName": "中国电建集团山东电力建设第一工程",
+            "DepartmentID": 177,
+            "TotalPerson": 29,
+            "entermessage": [
+                {
+                    "CardNumber": "0101134567",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:17:31",
+                    "Name": "139"
+                },
+                {
+                    "CardNumber": "0337680973",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "08:35:15",
+                    "Name": "李东"
+                },
+                {
+                    "CardNumber": "0703298035",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "12:09:35",
+                    "Name": "马阳"
+                },
+                {
+                    "CardNumber": "1994698966",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:26:45",
+                    "Name": "周玉霞"
+                },
+                {
+                    "CardNumber": "2662147716",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:28:27",
+                    "Name": "马飞"
+                },
+                {
+                    "CardNumber": "2679480436",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:04",
+                    "Name": "102"
+                },
+                {
+                    "CardNumber": "2754439044",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:05",
+                    "Name": "王世珍"
+                },
+                {
+                    "CardNumber": "2763007942",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:06",
+                    "Name": "王建成"
+                },
+                {
+                    "CardNumber": "2763354086",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:08",
+                    "Name": "陶学金"
+                },
+                {
+                    "CardNumber": "2763600342",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:14",
+                    "Name": "056"
+                },
+                {
+                    "CardNumber": "2764673238",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:30:21",
+                    "Name": "JX184"
+                },
+                {
+                    "CardNumber": "2765064838",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:30:24",
+                    "Name": "卢国忠"
+                },
+                {
+                    "CardNumber": "3358949285",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:36:35",
+                    "Name": "杨永锋"
+                },
+                {
+                    "CardNumber": "3480001174",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:36:37",
+                    "Name": "039"
+                },
+                {
+                    "CardNumber": "3480212070",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:36:38",
+                    "Name": "JX260"
+                },
+                {
+                    "CardNumber": "3481461350",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:36:40",
+                    "Name": "马少兰"
+                },
+                {
+                    "CardNumber": "3482019990",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:36:41",
+                    "Name": "JX298"
+                },
+                {
+                    "CardNumber": "3483037046",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:36:45",
+                    "Name": "JX199"
+                },
+                {
+                    "CardNumber": "3483496486",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:36:49",
+                    "Name": "郭晓明"
+                },
+                {
+                    "CardNumber": "3483941078",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "17:37:36",
+                    "Name": "JX163"
+                },
+                {
+                    "CardNumber": "3484303990",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:37:51",
+                    "Name": "张进学"
+                },
+                {
+                    "CardNumber": "3484396038",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:38:58",
+                    "Name": "JX209"
+                },
+                {
+                    "CardNumber": "3495688266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:43:56",
+                    "Name": "田鹏"
+                },
+                {
+                    "CardNumber": "3495736026",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:43:57",
+                    "Name": "马永林"
+                },
+                {
+                    "CardNumber": "3495739002",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:46:37",
+                    "Name": "刘佳亮"
+                },
+                {
+                    "CardNumber": "3496341002",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:01:25",
+                    "Name": "孙吉庆"
+                },
+                {
+                    "CardNumber": "3496342618",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "18:01:28",
+                    "Name": "06088"
+                },
+                {
+                    "CardNumber": "3688198836",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "21:19:05",
+                    "Name": "367"
+                },
+                {
+                    "CardNumber": "3692424324",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "22:11:20",
+                    "Name": "169"
+                }
+            ]
+        },
+        {
+            "DepartName": "中浩威建设有限公司",
+            "DepartmentID": 178,
+            "TotalPerson": 1,
+            "entermessage": [
+                {
+                    "CardNumber": "3662927194",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:07:41",
+                    "Name": "来宾I卡062"
+                }
+            ]
+        },
+        {
+            "DepartName": "宁夏东盛杰工贸有限公司",
+            "DepartmentID": 179,
+            "TotalPerson": 2,
+            "entermessage": [
+                {
+                    "CardNumber": "0106637511",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:23:54",
+                    "Name": "吴全海"
+                },
+                {
+                    "CardNumber": "0359597470",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:52:56",
+                    "Name": "马春香"
+                }
+            ]
+        }
+    ],
+    "EveryDepartPersonNumber": {
+        "中国电建集团山东电力建设第一工程": 31,
+        "中国能源建设集团山西电力建设第一": 38,
+        "中国能源建设集团浙江火电建设有限": 17,
+        "中浩威建设有限公司": 1,
+        "众信公司": 11,
+        "北京腾疆电力工程有限公司": 42,
+        "厂家来访人员": 4,
+        "厦门市恒力机电设备运营有限公司": 93,
+        "厦门恒力机电设备营运有限公司一期": 57,
+        "天津市思内克科技发展有限公司": 1,
+        "天门神火": 2,
+        "宁夏东盛杰工贸有限公司": 2,
+        "宁夏润源电力": 2,
+        "宁夏维尔康环境检测有限公司": 3,
+        "宁夏维尔康环境检测有限公司一期": 1,
+        "宁夏臻安消防安全技术服务有限公司": 1,
+        "宁夏通庆达运销有限公司": 1,
+        "宁夏银川翔峰制冷": 2,
+        "常州市天宁市政绿化工程有限公司": 3,
+        "新检修卡": 20,
+        "来宾I": 3,
+        "来宾II": 1,
+        "检修承包商专用临时卡": 48,
+        "深圳德赛富通": 1,
+        "灵武市吉泰商贸有限公司": 2,
+        "灵武市轩泰保安": 5,
+        "灵武市轩泰消防": 8,
+        "苏华建设集团有限责任公司": 10,
+        "西安锦天物业管理服务有限公司": 78,
+        "贵宾": 6,
+        "银川市宁东厚德工贸有限公司": 1
+    },
+    "realTimePersonNumber": [
+        {
+            "contractor": 495
+        },
+        {
+            "local": 208
+        }
+    ]
+}

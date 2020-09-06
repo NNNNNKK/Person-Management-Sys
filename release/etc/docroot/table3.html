@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>当前电厂生产区承包商人数</title>
+    <meta name="description" content="Dashboard" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="assets/layui/css/layui.css">
+</head>
+<body>
+    <div class="layui-fluid">
+        <div class="layui-row layui-col-space10">
+            <div class="layui-col-xs12">
+                <div class="layui-card">
+                    <div class="layui-card-body" style="padding-bottom: 0">
+                        <table class="layui-hide" id="table3" lay-filter="table3"></table>
+                        <div class="layui-form-item" style="text-align:center;margin-top:20px">
+                            <button class="layui-btn layui-btn-execl" onclick="btnTableExport()">导出EXCEL</button>
+                            <button class="layui-btn layui-btn-colse">关闭</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="height:0;overflow:hidden">
+        <table id="tableHide" style="width: 1100px;border-collapse: collapse;box-sizing: border-box">
+            <thead>
+            <tr>
+                <th style="width:20%">姓名</th> 
+                <th style="width:20%">打卡时间</th>
+                <th style="width:20%">打卡地点</th>
+
+                
+
+               
+            </tr>
+            </thead>
+            <tbody class="tbody"></tbody>
+        </table>
+    </div>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/tableExport2.js"></script>
+    <script src="assets/laydate/laydate.js"></script>
+    <script src="assets/layer/layer.js"></script>
+    <script src="assets/layui/layui.js"></script>
+    <script src="assets/js/common.js"></script>
+    <script>
+        setTimeout(function(){
+            layer.msg(JSON.stringify(GetUrlParam()))
+        },1000);
+        layui.use('table', function(){
+            var table = layui.table;
+            var $ = layui.$;
+            table.render({
+                method:'post',
+                url: '/RealTimeDepartDetailData',       //数据接口
+                where: GetUrlParam(),                        //接口参数
+                parseData:function(res){                     //返回结果
+                    //拼接导出数据
+                    $("#tableHide tbody").html("");
+                    for (key in res.data){
+                        $("#tableHide tbody").append('<tr><td>'+res.data[key].personName+'</td>'+'<td>'+res.data[key].eventTime+'</td>'+'</td>'+'<td>'+res.data[key].eventPlace+'</td>'+'</tr>')
+                    }
+                },
+                elem: '#table3',
+                height: 'full-100',
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 20,
+                limits: [20,40,60,100],
+                cols: [[
+                    //{field: 'date', title: '日期', width:'20%'},
+                    //{field: 'orgName', title: '公司名称', width:'20%'},
+                    {field: 'personName', title: '姓名', width:'20%'},
+                    {field: 'eventTime', title: '打卡时间', sort: true, width:'40%'},
+                    {field: 'eventPlace', title: '打卡位置', sort: true, width:'40%'},
+                    //{field: 'attendenceHours', title: '累计工作时间',sort: true},
+                    //{width:100,align:"center", title:"详情",toolbar: '#rowToolbar'}
+                ]]
+            });
+            $(".layui-btn-colse").click(function(){
+                var index = parent.layer.getFrameIndex(window.name);
+                parent.layer.close(index);
+            });
+        });
+
+        function btnTableExport() {
+            $("#tableHide thead th").css({"border":".1px solid #000","text-align":"left","height":"40px","padding":"5px"});
+            $("#tableHide .tbody td").css({"border":".1px solid #000","text-align":"left","height":"min-content","padding":"5px"});
+            $('#tableHide').tableExport(
+                {
+                    fileName:'导出表格'+Format(ToDate()," yyyy年MM月dd日 周W"),
+                    type: 'excel',
+                    mso: {
+                        styles:['border-bottom-color', 'border-bottom-style', 'border-bottom-width',
+                            'border-top-color', 'border-top-style', 'border-top-width',
+                            'border-left-color', 'border-left-style', 'border-left-width',
+                            'border-right-color', 'border-right-style', 'border-right-width','text-align','height','width','padding'],
+                        excelPageOrientation: 'landscape'
+                    },
+                }
+            );
+        }
+    </script>
+</body>
+</html>

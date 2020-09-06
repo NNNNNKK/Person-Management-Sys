@@ -1,0 +1,7 @@
+Win32/Release/*
+.vs/*
+GeneratedFiles/*
+Win32/Debug/*
+*.txt
+*.pdb
+*.ilk

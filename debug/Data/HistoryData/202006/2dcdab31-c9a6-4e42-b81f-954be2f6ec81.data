@@ -1,0 +1,310 @@
+{
+    "2dcdab31-c9a6-4e42-b81f-954be2f6ec81": {
+        "actualWkT": "75.7",
+        "attendanceRatio": "1.26%",
+        "contractPsN": 50,
+        "contractWrH": 6000,
+        "count": 2,
+        "data": [
+            {
+                "attendenceHours": "27.00",
+                "cardNumber": "265000",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-14T08:28:04+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-14T08:29:44+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-14T11:16:34+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T14:02:08+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-14T17:24:02+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T20:00:13+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-14T22:10:29+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-15T09:14:22+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-15T11:31:31+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-15T14:29:17+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-15T17:04:15+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-16T08:15:51+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-16T10:06:03+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-16T14:18:08+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-16T18:08:14+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-17T08:45:47+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-17T09:59:44+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-17T16:34:37+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门1通道_门2",
+                        "eventTime": "2020-06-17T18:53:47+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-18T14:19:11+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-18T17:51:33+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-19T14:19:33+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-19T18:08:00+08:00",
+                        "personName": "孙恒"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-21T11:10:14+08:00",
+                        "personName": "孙恒"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "2dcdab31-c9a6-4e42-b81f-954be2f6ec81",
+                "personId": "ce522be9212743fe9f3a9046a110e1ba",
+                "personName": "孙恒"
+            },
+            {
+                "attendenceHours": "48.74",
+                "cardNumber": "22007X",
+                "detail": [
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T08:28:08+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-14T08:28:09+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T08:28:20+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T08:29:15+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T08:29:18+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-14T08:29:49+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-14T11:16:34+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-14T14:02:04+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-14T17:24:02+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-14T20:00:15+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-14T22:10:27+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-15T09:14:23+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-15T11:31:33+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-15T14:29:17+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-15T16:56:44+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-16T08:15:51+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-16T10:05:56+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-16T14:18:08+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-16T18:08:15+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-17T08:45:44+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-17T09:37:40+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-17T09:56:08+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-17T09:59:43+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-17T16:34:37+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-17T18:52:51+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门1通道_门1",
+                        "eventTime": "2020-06-17T18:53:19+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-18T14:19:12+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-18T17:51:26+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-19T14:19:40+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-19T18:07:57+08:00",
+                        "personName": "朱正珂"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-21T11:10:13+08:00",
+                        "personName": "朱正珂"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "2dcdab31-c9a6-4e42-b81f-954be2f6ec81",
+                "personId": "1f9c72ab7a2949c393984440ffab7e1d",
+                "personName": "朱正珂"
+            }
+        ],
+        "departId": "2dcdab31-c9a6-4e42-b81f-954be2f6ec81",
+        "orgName": "陕西能源检测",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-06-21T11:11:32"
+    }
+}

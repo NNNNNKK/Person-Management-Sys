@@ -1,0 +1,230 @@
+{
+    "1dedce51-1c94-426f-9649-845809b8d2be": {
+        "actualWkT": "131.7",
+        "attendanceRatio": "10.16%",
+        "contractPsN": 9,
+        "contractWrH": 1296,
+        "count": 11,
+        "data": [
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260037",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "f115f14ac25e4324a65e9adf876c84ab",
+                "personName": "李媛媛"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260293",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "b567bd5c651e4528a6917d231e3a39fa",
+                "personName": "段海燕"
+            },
+            {
+                "attendenceHours": "126.48",
+                "cardNumber": "16260318",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-03T15:44:13+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-03-05T14:09:04+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-03-05T15:58:41+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-03-12T14:06:49+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-17T14:06:54+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-03-17T15:16:57+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-18T10:37:14+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-18T11:26:54+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-24T10:07:47+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-24T11:18:43+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-26T08:58:28+08:00",
+                        "personName": "王咏泽"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-03-26T10:26:53+08:00",
+                        "personName": "王咏泽"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "95bf6522afbd4c5ab06c82a9812a162d",
+                "personName": "王咏泽"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260436",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-12T14:07:40+08:00",
+                        "personName": "孙志越"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "939c4a1222184bdf8118f041723ce71c",
+                "personName": "孙志越"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260414",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-05T15:57:50+08:00",
+                        "personName": "孙梦佳"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "8b649a71ea874e788b159c2877dcea59",
+                "personName": "孙梦佳"
+            },
+            {
+                "attendenceHours": "1.81",
+                "cardNumber": "16260379",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-03-05T14:09:07+08:00",
+                        "personName": "刘璇"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-05T15:57:46+08:00",
+                        "personName": "刘璇"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "656809f8ccf64eaea53e3a5fbbca5f9d",
+                "personName": "刘璇"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260426",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "5efbd934a9394f74b975b691193dbae4",
+                "personName": "张厦"
+            },
+            {
+                "attendenceHours": "1.57",
+                "cardNumber": "16260038",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-03-18T16:19:04+08:00",
+                        "personName": "方超"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-18T17:53:04+08:00",
+                        "personName": "方超"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "4b2882f9209a4fbfac30848690619d0c",
+                "personName": "方超"
+            },
+            {
+                "attendenceHours": "1.82",
+                "cardNumber": "16260039",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-03-05T14:08:56+08:00",
+                        "personName": "张剑君"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-03-05T15:57:52+08:00",
+                        "personName": "张剑君"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "48b0153e10e8453da69f7a7302bfc269",
+                "personName": "张剑君"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260421",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "207cf657c95e45ba80b44cc75b41ddc7",
+                "personName": "段长磊"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260191",
+                "detail": [
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-03-25T10:35:27+08:00",
+                        "personName": "马晓玲"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "1dedce51-1c94-426f-9649-845809b8d2be",
+                "personId": "0bbceca8cc07474e9206c7934df55b22",
+                "personName": "马晓玲"
+            }
+        ],
+        "departId": "1dedce51-1c94-426f-9649-845809b8d2be",
+        "orgName": "财务产权部",
+        "turnoverRate": "0.00%",
+        "updatetime": "2020-03-26T14:13:53"
+    }
+}

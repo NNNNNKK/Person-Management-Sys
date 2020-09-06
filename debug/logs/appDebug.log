@@ -1,0 +1,75 @@
+04.03.2020 19:00:27.327 0 DEBUG 16684 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 19:00:27.327 0 DEBUG 16684 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 19:00:27.328 0 DEBUG 16684 RequestMapper: created
+04.03.2020 19:00:27.366 0 DEBUG 16684 HttpListener: Listening on port 9080
+04.03.2020 19:00:27.366 1 WARNING 16684 Application has started
+04.03.2020 19:04:43.117 0 DEBUG 13616 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 19:04:43.117 0 DEBUG 13616 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 19:04:43.117 0 DEBUG 13616 RequestMapper: created
+04.03.2020 19:04:43.143 0 DEBUG 13616 HttpListener: Listening on port 9080
+04.03.2020 19:04:43.143 1 WARNING 13616 Application has started
+04.03.2020 20:17:58.700 0 DEBUG 22236 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:17:58.700 0 DEBUG 22236 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:17:58.700 0 DEBUG 22236 RequestMapper: created
+04.03.2020 20:17:58.732 0 DEBUG 22236 HttpListener: Listening on port 9080
+04.03.2020 20:17:58.732 1 WARNING 22236 Application has started
+04.03.2020 20:20:25.952 0 DEBUG 16684 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:20:25.952 0 DEBUG 16684 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:20:25.952 0 DEBUG 16684 RequestMapper: created
+04.03.2020 20:20:25.983 0 DEBUG 16684 HttpListener: Listening on port 9080
+04.03.2020 20:20:25.983 1 WARNING 16684 Application has started
+04.03.2020 20:38:43.870 0 DEBUG 18296 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:38:43.870 0 DEBUG 18296 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:38:43.870 0 DEBUG 18296 RequestMapper: created
+04.03.2020 20:38:43.895 0 DEBUG 18296 HttpListener: Listening on port 9080
+04.03.2020 20:38:43.895 1 WARNING 18296 Application has started
+04.03.2020 20:40:31.796 0 DEBUG 8480 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:40:31.796 0 DEBUG 8480 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:40:31.796 0 DEBUG 8480 RequestMapper: created
+04.03.2020 20:40:31.820 0 DEBUG 8480 HttpListener: Listening on port 9080
+04.03.2020 20:40:31.820 1 WARNING 8480 Application has started
+04.03.2020 20:40:53.472 0 DEBUG 22628 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:40:53.472 0 DEBUG 22628 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:40:53.472 0 DEBUG 22628 RequestMapper: created
+04.03.2020 20:40:53.503 0 DEBUG 22628 HttpListener: Listening on port 9080
+04.03.2020 20:40:53.503 1 WARNING 22628 Application has started
+04.03.2020 20:47:16.858 0 DEBUG 6796 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:47:16.858 0 DEBUG 6796 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:47:16.858 0 DEBUG 6796 RequestMapper: created
+04.03.2020 20:47:16.883 0 DEBUG 6796 HttpListener: Listening on port 9080
+04.03.2020 20:47:16.884 1 WARNING 6796 Application has started
+04.03.2020 20:53:36.456 0 DEBUG 18804 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:53:36.456 0 DEBUG 18804 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:53:36.456 0 DEBUG 18804 RequestMapper: created
+04.03.2020 20:53:36.487 0 DEBUG 18804 HttpListener: Listening on port 9080
+04.03.2020 20:53:36.487 1 WARNING 18804 Application has started
+04.03.2020 20:55:26.807 0 DEBUG 17616 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 20:55:26.807 0 DEBUG 17616 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 20:55:26.807 0 DEBUG 17616 RequestMapper: created
+04.03.2020 20:55:26.849 0 DEBUG 17616 HttpListener: Listening on port 9080
+04.03.2020 20:55:41.854 0 DEBUG 17616 eventService get suceess
+04.03.2020 20:55:41.854 1 WARNING 17616 Application has started
+04.03.2020 21:18:51.102 0 DEBUG 21952 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 21:18:51.102 0 DEBUG 21952 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 21:18:51.103 0 DEBUG 21952 RequestMapper: created
+04.03.2020 21:18:51.155 0 DEBUG 21952 HttpListener: Listening on port 9080
+04.03.2020 21:19:06.177 0 DEBUG 21952 eventService get suceess
+04.03.2020 21:19:06.177 1 WARNING 21952 Application has started
+04.03.2020 21:46:11.883 0 DEBUG 27524 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+04.03.2020 21:46:11.883 0 DEBUG 27524 StaticFileController: cache timeout=60000, size=1000000
+04.03.2020 21:46:11.883 0 DEBUG 27524 RequestMapper: created
+04.03.2020 21:46:11.931 0 DEBUG 27524 HttpListener: Listening on port 9080
+04.03.2020 21:46:26.937 0 DEBUG 27524 eventService get suceess
+04.03.2020 21:46:26.937 1 WARNING 27524 Application has started
+05.03.2020 15:51:17.571 0 DEBUG 26952 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+05.03.2020 15:51:17.571 0 DEBUG 26952 StaticFileController: cache timeout=60000, size=1000000
+05.03.2020 15:51:17.571 0 DEBUG 26952 RequestMapper: created
+05.03.2020 15:51:17.613 0 DEBUG 26952 HttpListener: Listening on port 9080
+05.03.2020 15:51:32.622 0 DEBUG 26952 eventService get suceess
+05.03.2020 15:51:32.622 1 WARNING 26952 Application has started
+05.03.2020 15:57:05.629 0 DEBUG 21344 StaticFileController: docroot=D:/QtProjects/PowerPlantHttp/HttpPowerPlant/HttpServer/debug/etc/docroot, encoding=UTF-8, maxAge=60000
+05.03.2020 15:57:05.629 0 DEBUG 21344 StaticFileController: cache timeout=60000, size=1000000
+05.03.2020 15:57:05.629 0 DEBUG 21344 RequestMapper: created
+05.03.2020 15:57:05.680 0 DEBUG 21344 HttpListener: Listening on port 9080
+05.03.2020 15:57:20.686 0 DEBUG 21344 eventService get suceess
+05.03.2020 15:57:20.686 1 WARNING 21344 Application has started

@@ -1,0 +1,140 @@
+{
+    "d3933394-99b7-43ee-af15-15168c65db56": {
+        "actualWkT": "296.4",
+        "attendanceRatio": "44.11%",
+        "contractPsN": 4,
+        "contractWrH": 672,
+        "count": 4,
+        "data": [
+            {
+                "attendenceHours": "294.55",
+                "cardNumber": "16260174",
+                "detail": [
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-02T15:32:42+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-02T16:20:23+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T11:04:12+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T11:18:56+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T14:33:15+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T14:53:41+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T15:34:43+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-03T15:48:33+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-03T15:56:03+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门3通道_门1",
+                        "eventTime": "2020-06-15T19:13:11+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门3通道_门2",
+                        "eventTime": "2020-06-15T19:25:09+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门1",
+                        "eventTime": "2020-06-16T08:11:44+08:00",
+                        "personName": "李海啸"
+                    },
+                    {
+                        "doorName": "二道门4通道_门2",
+                        "eventTime": "2020-06-16T09:39:06+08:00",
+                        "personName": "李海啸"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "d3933394-99b7-43ee-af15-15168c65db56",
+                "personId": "bf64d17d70da4104ab039ae6885ba9a6",
+                "personName": "李海啸"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260021",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "d3933394-99b7-43ee-af15-15168c65db56",
+                "personId": "9418905e18ff4f3fa8b0e1473974b207",
+                "personName": "王涛"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "16260007",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "d3933394-99b7-43ee-af15-15168c65db56",
+                "personId": "5f516f10aa5d4678bb081f0502e1d6dc",
+                "personName": "张宝量"
+            },
+            {
+                "attendenceHours": "1.87",
+                "cardNumber": "16260044",
+                "detail": [
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-23T16:23:53+08:00",
+                        "personName": "薛晓文"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-23T16:24:01+08:00",
+                        "personName": "薛晓文"
+                    },
+                    {
+                        "doorName": "二道门2通道_门1",
+                        "eventTime": "2020-06-23T16:24:10+08:00",
+                        "personName": "薛晓文"
+                    },
+                    {
+                        "doorName": "二道门2通道_门2",
+                        "eventTime": "2020-06-23T18:16:10+08:00",
+                        "personName": "薛晓文"
+                    }
+                ],
+                "orgName": null,
+                "orgindex": "d3933394-99b7-43ee-af15-15168c65db56",
+                "personId": "0f1748cc29284509beefd742c6a55b9b",
+                "personName": "薛晓文"
+            }
+        ],
+        "departId": "d3933394-99b7-43ee-af15-15168c65db56",
+        "orgName": "计划物资部",
+        "turnoverRate": "0.00%",
+        "updatetime": "2020-06-30T10:56:11"
+    }
+}

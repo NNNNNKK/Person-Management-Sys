@@ -1,0 +1,85 @@
+{
+    "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9": {
+        "actualWkT": 0,
+        "attendanceRatio": "0.00%",
+        "contractPsN": 56,
+        "contractWrH": 7616,
+        "count": 7,
+        "data": [
+            {
+                "attendenceHours": 0,
+                "cardNumber": "151052",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "ecfb6ff34c774091839c28d6c883f5b2",
+                "personName": "王慧明"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "111015",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "df6eb415a3274cbf880928432895ffde",
+                "personName": "李海"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "034210",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "816bb893e8df48b99c87241c9dd68acb",
+                "personName": "苏平"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "253635",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "4e522a382b27457b87de370f5dcc2c33",
+                "personName": "王忠帅"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "290412",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "4b5dc7a133e14b4c90cc7764495e1dcf",
+                "personName": "林福生"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "224218",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "108b10c81cbd44fdb5a047e155552769",
+                "personName": "冯雷"
+            },
+            {
+                "attendenceHours": 0,
+                "cardNumber": "300211",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+                "personId": "009f0c063dfc423498bb4b8ae7067581",
+                "personName": "韩时久"
+            }
+        ],
+        "departId": "028bb1e5-ac18-4ebe-a84d-fa55e9fcf3c9",
+        "orgName": "辽宁坤达",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-03-25T10:29:59"
+    }
+}

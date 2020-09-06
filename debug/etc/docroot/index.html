@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>当前电厂生产区本厂人数</title>
+    <meta name="description" content="Dashboard" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="assets/layui/css/layui.css">
+    <style>
+        * {
+            box-sizing:border-box;
+        }
+        html,body,.layui-row,.layui-fluid,.layui-col-sm6 {
+            height:100%;
+            margin:0 ;
+            padding:0 ;
+        }
+        .clearfix:after {
+            display: block;
+            content:"";
+            height: 0;
+            clear:both;
+        }
+        .header {
+            height:0;
+            background:red;
+            position:relative;
+            padding:0 10px;
+        }
+        .card {
+            box-sizing:border-box;
+            float:left !important;
+            width:50%;
+            padding:10px 10px 0;
+        }
+        .card p {
+            height:60px;
+            line-height:40px;
+            padding:10px;
+            color:#fff;
+            font-size:40px;
+        }
+        .card span {
+            float:right;
+            line-height:42px;
+            font-size:40px;
+            font-weight:bold;
+            margin-right:40px;
+        }
+        .table {
+            padding:140px 10px 0px;
+            height:100%;
+        }
+        .layui-table-view {
+            margin:0;
+        }
+        .table1 .layui-table-body,
+        .table2 .layui-table-body,
+        .table3 .layui-table-body,
+        .table4 .layui-table-body  {
+            overflow-x:hidden;
+        }
+        .layui-elem-quote {
+            padding:0 15px;
+            height:40px;
+            line-height:40px;
+            margin:0;
+        }
+        .layui-elem-quote p {
+            font-size:14px;
+            font-weight:bold;
+        }
+        .layui-elem-quote .box {
+            float:right;
+            margin-top:5px;
+        }
+        .layui-input, .layui-select, .layui-textarea {
+            height:30px;
+            padding:0 15px;
+        }
+        .layui-btn-sm {
+            height:30px;
+            line-height:30px;
+        }
+        #edit .layui-form-label {
+            width:100px;
+
+        }
+        #edit input {
+            height:38px;
+            line-height:38px;
+        }
+        .btn-cx {
+            margin-right:10px
+        }
+    </style>
+
+</head>
+<body>
+    <div class="layui-fluid header">
+        <div class="layui-row layui-col-space10">
+            <div class="card"><p style="background:#1E9FFF">生产区总人数<span id="totalNum">0</span></p></div>
+            <div class="card"><p style="background:#FFB800">生产区本厂人数<span id="localNum">0</span></p></div>
+            <div class="card"><p style="background:#FB7293">生产区承包商人数<span id="contractNum">0</span></p></div>
+            <div class="card"><p style="background:#009688">生产区承包商当日累计人数<span id="brNum">0</span></p></div>
+        </div>
+    </div>
+    <div class="layui-fluid table">
+        <div class="layui-row">
+            <div class="layui-col-sm6">
+                <div class="table1" style="float:left;height:50%;width:100%;padding:10px 10px">
+                    <blockquote class="layui-elem-quote">
+                        <p>本厂部门实时数据</p>
+                    </blockquote>
+                    <table class="layui-hide" id="table1" lay-filter="table1"></table>
+                </div>
+                <div class="table2" style="float:left;height:50%;width:100%;padding:10px;">
+                    <div class="layui-form">
+                        <blockquote class="layui-elem-quote">
+                            <div style="float:right;height:40px">
+                                <div class="layui-inline">查询日期:</div>
+                                <div class="layui-inline">
+                                    <input name="date" class="layui-input" id="bcdate" autocomplete="off" readonly placeholder="查询日期">
+                                </div>
+                                <div class="layui-inline" style="height: 30px;line-height: 24px;">
+                                    <button class="layui-btn layui-btn-sm" lay-submit="" lay-filter="bcbtn-search">查询</button>
+                                </div>
+                            </div>
+                            <p class="table-title">本厂部门历史数据</p>
+                        </blockquote>
+                    </div>
+                    <table class="layui-hide" id="table2" lay-filter="table2"></table>
+                </div>
+            </div>
+            <div class="layui-col-sm6">
+                <div class="table3" style="float:left;height:100%;width:100%;padding:10px;">
+                    <blockquote class="layui-elem-quote">
+                        <button class="box btn-pz layui-btn layui-btn-sm">配置</button>
+                        <button class="box btn-cx layui-btn layui-btn-sm">历史数据查询</button>
+                        <p>承包商实时数据</p>
+                    </blockquote>
+                    <table class="layui-hide" id="table3" lay-filter="table3"></table>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!--配置弹出-->
+    <div style="display:none" id="edit">
+        <form class="layui-form" action="/Set" lay-filter="example" style="padding-right:40px">
+            <div class="layui-form-item"  style="margin-top:20px">
+                <label class="layui-form-label">公司名称</label>
+                <div class="layui-input-block">
+                    <select name="gsname" lay-verify="required" ></select>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">设置人数</label>
+                <div class="layui-input-block">
+                    <input type="number" name="rs" lay-verify="un" autocomplete="off" min="0" placeholder="请输入合同人数" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label" >是否本厂</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="local" lay-verify="required"  class="layui-input" >
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">管理账号</label>
+                <div class="layui-input-block">
+                    <input type="text" name="un" lay-verify="required" placeholder="请输入管理账号" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">管理密码</label>
+                <div class="layui-input-block">
+                    <input type="password" name="pw" lay-verify="pd" placeholder="请输入管理密码" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item" style="text-align:center;margin-top:40px">
+                <button class="layui-btn" lay-submit="" lay-filter="submit">提交</button>
+                <button class="layui-btn layui-btn-colse">关闭</button>
+            </div>
+        </form>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/printThis.js"></script>
+    <script src="assets/laydate/laydate.js"></script>
+    <script src="assets/layer/layer.js"></script>
+    <script src="assets/layui/layui.js"></script>
+    <script src="assets/js/common.js"></script>
+    <script type="text/html" id="rowToolbar">
+        <a class="layui-btn layui-btn-normal layui-btn-xs" lay-event="detail">查询</a>
+    </script>
+    <script>
+        var timer=null;
+        //获取顶部数据
+        setInterval(function () {
+            AjaxPost("/RealTimeNumber",{},
+            function(data){
+                $("#totalNum").html(data.total);
+                $("#localNum").html(data.localNumber);
+                $("#contractNum").html(data.otherNumber);
+                $("#brNum").html(data.totalInToday);
+            },
+            function(){},
+        "json",true);
+        },2000);
+        //获取配置公司下拉
+        AjaxPost("/GetDepart",{},
+            function(data){
+                var optionHtml="<option value='' selected=''>请选择公司</option>";
+                for(var key in data.data){
+                    optionHtml+="<option value='"+data.data[key].id+"'>"+data.data[key].name+"</option>";
+                };
+                $("select[name='gsname']").html(optionHtml);
+            },
+            function(){},
+        "json",false);
+
+        layui.use(['form','table'], function(){
+            var table = layui.table;
+            var form = layui.form;
+            var $ = layui.$;
+            var Fmt='yyyyMM';
+            var cdate= laydate.render({
+                elem:'#bcdate',
+                format:Fmt,
+                type: 'month',
+                value:Format(ToDate(new Date()),Fmt),
+                max:Format(ToDate(),'yyyyMM'),
+                done:function(value,date){}
+            });
+            var cbsdate= laydate.render({
+                elem:'#cbsdate',
+                format:Fmt,
+                type: 'month',
+                value:Format(ToDate(new Date()),Fmt),
+                max:Format(ToDate(),'yyyyMM'),
+                done:function(value,date){
+
+                }
+            });
+            //渲染本厂实时数据表格
+            table.render({
+                method:'post',
+                url: '/RealTimeDepartData',       //数据接口
+                where: {islocal: 1},         //接口参数
+                parseData:function(res){
+                    //console.log(res)
+                },  //返回结果
+                elem: '#table1',
+                height: 0,
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 80,
+                limits: [20,80,140,200],
+                cols: [[
+                    {field: 'orgName', title: '公司名称',sort: true},
+                    {field: 'contractor', title: '合同人数', sort: true},
+                    {field: 'count', title: '出勤人数',sort: true},
+                    {field: 'attendanceratio', title: '出勤率',templet:'#templet',sort: true},
+                    {align:"center", title:"详情",toolbar: '#rowToolbar',width:200}
+                ]],
+                done:function(){
+                    $(".table1 .layui-table-view").css({"height":$(".table1 .layui-table-view").parent().height()-40});
+                    $(".table1 .layui-table-box").css({"height":$(".table1 .layui-table-box").parent().height()-40});
+                    $(".table1 .layui-table-body").css({"height":$(".table1 .layui-table-body").parent().height()-40})
+                }
+            });
+            //渲染承包商实时数据表格
+            table.render({
+                method:'post',
+                url: '/RealTimeDepartData',       //数据接口
+                where: {islocal: 0},         //接口参数
+                parseData:function(res){
+                    //console.log(res)
+                },  //返回结果
+                elem: '#table3',
+                height: 0,
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 80,
+                limits: [20,80,140,200],
+                cols: [[
+                    {field: 'orgName', title: '公司名称',sort: true},
+                    {field: 'contractor', title: '合同人数', sort: true},
+                    {field: 'count', title: '出勤人数',sort: true},
+                    {field: 'attendanceratio', title: '出勤率',templet:'#templet',sort: true},
+                    {align:"center", title:"详情",toolbar: '#rowToolbar',width:200}
+                ]],
+                done:function(){
+                    $(".table3 .layui-table-view").css({"height":$(".table3 .layui-table-view").parent().height()-40});
+                    $(".table3 .layui-table-box").css({"height":$(".table3 .layui-table-box").parent().height()-40});
+                    $(".table3 .layui-table-body").css({"height":$(".table3 .layui-table-body").parent().height()-40})
+                }
+            });
+            //渲染本厂历史数据表格
+            table.render({
+                method:'post',
+                url: '/HistoryDepartData',        //数据接口
+                where: {                                      //接口参数
+                    "islocal":1,             //接口参数
+                    "cdate":$("#cbsdate").val()
+                },
+                //parseData:function(res){console.log(res)},  //返回结果
+                elem: '#table2',
+                height: 0,
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 20,
+                loading:{},
+                limits: [20,40,60,100],
+                cols: [[
+                    {field: 'departName', title: '部门名字',width:115,sort: true},
+                    {field: 'contractorPersonNumber', title: '合同人数',sort: true},
+                    {field: 'attendanceNumber', title: '实际工作人数', sort: true},
+                    {field: 'totalHours', title: '合同工作时',sort: true},
+                    {align:"center", title:"查询",toolbar: '#rowToolbar',width:100}
+                ]],
+                done:function(){
+                    $(".table2 .layui-table-view").css({"height":$(".table2 .layui-table-view").parent().height()-40});
+                    $(".table2 .layui-table-box").css({"height":$(".table2 .layui-table-box").parent().height()-40});
+                    $(".table2 .layui-table-body").css({"height":$(".table2 .layui-table-body").parent().height()-40});
+                    clearInterval(timer);
+                    timer=null;
+                }
+            });
+
+            //监听本厂实时数据工具条
+            table.on('tool(table1)', function(obj){
+                var data = obj.data;
+                if(obj.event === 'detail'){
+                    OpenLayer('table3.html?depid='+obj.data.orgIndexCode,"本厂部门实时数据详情","60%","70%");
+                }
+            });
+            //监听承包商实时数据工具条
+            table.on('tool(table3)', function(obj){
+                var data = obj.data;
+                if(obj.event === 'detail'){
+                    OpenLayer('table3.html?depid='+obj.data.orgIndexCode,"承包商实时数据详情","60%","70%");
+                }
+            });
+            //监听本厂历史数据工具条
+            table.on('tool(table2)', function(obj){
+                var data = obj.data;
+                if(obj.event === 'detail'){
+                    OpenLayer('table4.html?deptid='+data.departId+"&date="+$("#bcdate").val()+'&type=odetail',"历史数据详情内容","60%","70%");
+                }
+            });
+
+            //监听本厂搜索
+            form.on('submit(bcbtn-search)', function(data){
+                var field = data.field;
+                timer=setInterval(function(){
+                    $(".layui-table-init i").html("数据加载中");
+                },10);
+                //执行重载
+                table.reload('table2',{
+                    page: {
+                        curr: 1 //重新从第1页开始
+                    },
+                    where:field
+                });
+            });
+            //监听承包商搜索
+            form.on('submit(cbsbtn-search)', function(data){
+                var field = data.field;
+                timer=setInterval(function(){
+                    $(".layui-table-init i").html("数据加载中");
+                },10);
+                //执行重载
+                table.reload('table4',{
+                    page: {
+                        curr: 1 //重新从第1页开始
+                    },
+                    where:field
+                });
+            });
+            //自定义验证规则
+            form.verify({
+                un: function(value){
+                    if(value.length <= 0||value<0){
+                        return '请输入合同人数,人数必须大于等于0';
+                    }
+                },
+                pd: [
+                    /^[\S]{1,12}$/
+                    ,'请输入管理密码'
+                ]
+            });
+            //配置按钮点击
+            $(".btn-pz").click(function(){
+                layer.open({
+                    title:'配置',
+                    type:1,
+                    content:$('#edit'),
+                    area:['500px','440px']
+                })
+            });
+            //配置按钮点击
+            $(".btn-cx").click(function(){
+                OpenLayer('table6.html',"承包商历史数据","60%","70%");
+            });
+            //配置提交点击
+            form.on('submit(submit)', function(data)
+            {
+                layer.msg(JSON.stringify(data.field));
+                form.val("example", {
+                    "gsname": "",
+                    "rs": "",
+                    "un": "ruigan",
+                    "pw": "ruigan8888",
+                    "local":""
+                });
+                AjaxPost("/Set",data.field,
+                    function(data){
+                        layer.msg(data.msg);
+                        //成功时清除表单
+                        if(data.code===0){
+                            form.val("example", {
+                                "gsname": "",
+                                "rs": "",
+                                "un": "",
+                                "pw": ""
+                            });
+                        }
+                    },
+                    function(){},
+                "json",false);
+                return false;
+            });
+            //关闭按钮
+            $(".layui-btn-colse").click(function(){
+                layer.closeAll();
+                return false;
+            });
+        });
+        window.onresize=function(){
+            $(".table1 .layui-table-view").css({"height":$(".table1 .layui-table-view").parent().height()-40});
+            $(".table1 .layui-table-box").css({"height":$(".table1 .layui-table-box").parent().height()-0});
+            $(".table1 .layui-table-body").css({"height":$(".table1 .layui-table-body").parent().height()-40});
+            $(".table2 .layui-table-view").css({"height":$(".table2 .layui-table-view").parent().height()-40});
+            $(".table2 .layui-table-box").css({"height":$(".table2 .layui-table-box").parent().height()-40});
+            $(".table2 .layui-table-body").css({"height":$(".table2 .layui-table-body").parent().height()-40});
+            $(".table3 .layui-table-view").css({"height":$(".table3 .layui-table-view").parent().height()-40});
+            $(".table3 .layui-table-box").css({"height":$(".table3 .layui-table-box").parent().height()-40});
+            $(".table3 .layui-table-body").css({"height":$(".table3 .layui-table-body").parent().height()-40});
+        };
+    </script>
+</body>
+</html>

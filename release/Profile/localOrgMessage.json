@@ -1,0 +1,61 @@
+{
+    "local":
+    [
+    {
+         "orgIndexCode":"6dea7aa8-5d34-4806-8ef6-0c2be1043da3",
+         "orgNo":"testorg1",
+         "orgName":"测试组织1",
+         "personMessage":
+         [{
+            "personId": "8ffb3b91-f823-42b6-8fca-137bff553857",
+            "personName": "xfj",
+            "gender": 1,
+            "orgIndexCode": "ac7114be-c23a-49a2-96bf-52e2f12311d5",
+            "phoneNo": "13915393345",
+            "jobNo": "111",
+            "certificateType": 111,
+            "certificateNo": "1211111111",
+            "createTime": "2019-06-20T14:34:02.346+08:00",
+            "updateTime": "2019-06-20T14:34:02.346+08:00",
+            "orgPath": "@root000000@",
+            "orgPathName": "@默认部门@",
+            "personPhoto":
+             {
+                "personPhotoIndexCode": "12574bdf-37f6-4b93-ac0c-e96b5d5b0626",
+                "picUri": "/pic?8dd285i5f-e*30645743c125m3ep=t=i1p*i=d1s*i=d2b*i7da0*6a06e524b-99a9a6--4211e82z2bfs=4i32=",
+                "serverIndexCode": "2b2e9841-b467-46ad-b2e5-fe71a350354a",
+                "personId": "485af5f2-89b2-4fe0-b2e8-f9388ee43fbc"
+            }
+        }]
+    }
+    ],
+    "other":[
+        {
+             "orgIndexCode":"6dea7aa8-5d34-4806-8ef6-0c2be1043da3",
+             "orgNo":"testorg1",
+             "orgName":"测试组织1",
+             "personMessage":
+             [{
+                "personId": "8ffb3b91-f823-42b6-8fca-137bff553857",
+                "personName": "xfj",
+                "gender": 1,
+                "orgIndexCode": "ac7114be-c23a-49a2-96bf-52e2f12311d5",
+                "phoneNo": "13915393345",
+                "jobNo": "111",
+                "certificateType": 111,
+                "certificateNo": "1211111111",
+                "createTime": "2019-06-20T14:34:02.346+08:00",
+                "updateTime": "2019-06-20T14:34:02.346+08:00",
+                "orgPath": "@root000000@",
+                "orgPathName": "@默认部门@",
+                "personPhoto":
+                 {
+                    "personPhotoIndexCode": "12574bdf-37f6-4b93-ac0c-e96b5d5b0626",
+                    "picUri": "/pic?8dd285i5f-e*30645743c125m3ep=t=i1p*i=d1s*i=d2b*i7da0*6a06e524b-99a9a6--4211e82z2bfs=4i32=",
+                    "serverIndexCode": "2b2e9841-b467-46ad-b2e5-fe71a350354a",
+                    "personId": "485af5f2-89b2-4fe0-b2e8-f9388ee43fbc"
+                }
+            }]
+        }
+        ]
+}

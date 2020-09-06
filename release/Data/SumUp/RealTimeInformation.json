@@ -1,0 +1,688 @@
+{
+    "DepartRealTimeInformation": [
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "测试组织1",
+            "attendanceratio": "34%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "测试组织1",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "测试组织1",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "测试组织1",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "测试组织1",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "测试组织1",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "测试组织1",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "测试组织1",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "测试组织1",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "测试组织1",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "6dea7aa8-5d34-4806-8ef6-0c2be1043da3"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "技术部",
+            "attendanceratio": "88%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "技术部",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "技术部",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "技术部",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "技术部",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "技术部",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "技术部",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "技术部",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "技术部",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "技术部",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+
+            ],
+            "islocal": 1,
+            "orgIndexCode": "6dea7aa8-5d34-4806"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "企划部",
+            "attendanceratio": "45.7%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "企划部",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "企划部",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "企划部",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "企划部",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "企划部",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "企划部",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "企划部",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "企划部",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "企划部",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "qiedfj123"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "党建部",
+            "attendanceratio": "56%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "党建部",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "党建部",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "党建部",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "党建部",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "党建部",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "党建部",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "党建部",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "党建部",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "党建部",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "ertt-dfr"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "中国电力集团",
+            "attendanceratio": "56%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "中国电力集团",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "wuihdkawdj"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "瑞干科技",
+            "attendanceratio": "56%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "瑞干科技",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "gsklkll"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "研发部",
+            "attendanceratio": "78%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "研发部",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "研发部",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "研发部",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "研发部",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "研发部",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "研发部",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "研发部",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "研发部",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "研发部",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "sgjlsjf"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "西安锦天物业",
+            "attendanceratio": "67%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "西安锦天物业",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "c2be1043da3"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "黄海能源",
+            "attendanceratio": "67.2%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "黄海能源",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "黄海能源",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "黄海能源",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "黄海能源",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "黄海能源",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "黄海能源",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "黄海能源",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "黄海能源",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "黄海能源",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "8ef60c2be1043da3"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "生产技术部",
+            "attendanceratio": "34%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "生产技术部",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "生产技术部",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "生产技术部",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "CardNumber": "0359494622",
+                    "orgName": "生产技术部",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "生产技术部",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "生产技术部",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "生产技术部",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "生产技术部",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "生产技术部",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "6dea7aa8-5d34-4806-8ef6-0c2be1043da3"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "厦门机电",
+            "attendanceratio": "2%",
+            "count": 9,
+            "data": [
+                {   "jobNo": "1993485846",
+                    "orgName": "厦门机电",
+                    "EnterTime": "16:04:57",
+                    "Name": "JX059"
+                },
+                {   "jobNo": "1384885",
+                    "orgName": "厦门机电",
+                    "EnterTime": "16:04:57",
+                    "Name": "回家睡大觉"
+                },
+                {
+                    "jobNo": "3247173222",
+                    "orgName": "厦门机电",
+                    "EnterTime": "17:33:15",
+                    "Name": "李忠领"
+                },
+                {
+                    "jobNo": "0359494622",
+                    "orgName": "厦门机电",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科"
+                },
+                {
+                    "jobNo": "0360582222",
+                    "orgName": "厦门机电",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚"
+                },
+                {
+                    "jobNo": "0360659998",
+                    "orgName": "厦门机电",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵"
+                },
+                {
+                    "jobNo": "0697894419",
+                    "orgName": "厦门机电",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚"
+                },
+                {
+                    "jobNo": "0701344115",
+                    "orgName": "厦门机电",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏"
+                },
+                {
+                    "jobNo": "3496563082",
+                    "orgName": "厦门机电",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军"
+                }
+
+            ],
+            "islocal": 0,
+            "orgIndexCode": "qw123"
+        }
+    ]
+}

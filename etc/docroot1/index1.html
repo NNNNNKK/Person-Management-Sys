@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>当前电厂生产区本厂人数</title>
+    <meta name="description" content="Dashboard" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="assets/layui/css/layui.css">
+    <style>
+        * {
+            box-sizing:border-box;
+        }
+        html,body,.layui-row,.layui-fluid {
+            height:100%;
+            margin:0 ;
+            padding:0 ;
+        }
+        .header {
+            height:0;
+            background:red;
+            position:relative;
+            padding:0 10px;
+        }
+        .card {
+            box-sizing:border-box;
+            float:left !important;
+            width:33.333333333%;
+            padding:20px 10px 0;
+        }
+        .card p {
+            height:110px;
+            line-height:40px;
+            padding:20px;
+            color:#fff;
+            font-size:22px;
+        }
+        .card span {
+            float:right;
+            line-height:63px;
+            font-size:64px;
+            font-weight:bold;
+            margin-right:10px;
+        }
+        .table {
+            padding:150px 20px 20px;
+            height:100%;
+        }
+        .layui-table-view {
+            margin:0;
+        }
+        .table1 .layui-table-body  {
+            overflow-x:hidden;
+        }
+        .layui-elem-quote {
+            padding:0 15px;
+            height:40px;
+            line-height:40px;
+            margin:0;
+        }
+        .layui-elem-quote p {
+            font-size:14px;
+            font-weight:bold;
+        }
+        .layui-elem-quote .box {
+            float:right;
+            margin-top:5px;
+        }
+        .layui-input, .layui-select, .layui-textarea {
+            height:30px;
+        }
+        .layui-btn-sm {
+            height:30px;
+            line-height:30px;
+        }
+        #edit .layui-form-label {
+            width:100px;
+
+        }
+        #edit input {
+            height:38px;
+            line-height:38px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="layui-fluid header">
+        <div class="layui-row layui-col-space10">
+            <div class="card"><p style="background:#1E9FFF">当前电厂生产区总人数<span id="totalNum">0</span></p></div>
+            <div class="card"><p style="background:#FFB800">当前电厂生产区本厂人数<span id="localNum">0</span></p></div>
+            <div class="card"><p style="background:#009688">当前电厂生产区承包商人数<span id="contractNum">0</span></p></div>
+        </div>
+    </div>
+    <div class="layui-fluid table">
+        <div class="layui-row">
+            <div class="table1" style="height:50%;padding:0 0 20px;">
+                <blockquote class="layui-elem-quote">
+                    <button class="box btn-pz layui-btn layui-btn-sm">配置</button>
+                    <p>实时数据</p>
+                </blockquote>
+                <table class="layui-hide" id="table1" lay-filter="table1"></table>
+                <script type="text/html" id="rowToolbar1">
+                    <a class="layui-btn layui-btn-normal layui-btn-xs" lay-event="detail">详情</a>
+                </script>
+            </div>
+            <div class="table2" style="height:50%">
+                <div class="layui-form">
+                    <blockquote class="layui-elem-quote">
+                        <div style="float:right;height:40px">
+                            <div class="layui-inline">起始日期:</div>
+                          
+                            <div class="layui-inline">
+                                <input name="dateTo" class="layui-input" id="dateTo" autocomplete="off" readonly placeholder="截止日期">
+                            </div>
+                            <div class="layui-inline" style="height: 30px;line-height: 24px;">
+                                <button class="layui-btn layui-btn-sm" lay-submit="" lay-filter="btn-search">查询</button>
+                            </div>
+                        </div>
+                        <p class="table-title">历史数据</p>
+                    </blockquote>
+                </div>
+                <table class="layui-hide" id="table2" lay-filter="table2"></table>
+                <!--table行工具-->
+                <script type="text/html" id="rowToolbar">
+                    <a class="layui-btn layui-btn-normal layui-btn-xs" lay-event="detail">详情</a>
+                </script>
+            </div>
+        </div>
+    </div>
+    <!--配置弹出-->
+    <div style="display:none" id="edit">
+        <form class="layui-form" action="" lay-filter="example" style="padding-right:30px">
+            <div class="layui-form-item"  style="margin-top:20px">
+                <label class="layui-form-label">公司名称</label>
+                <div class="layui-input-block">
+                    <select name="gsname" lay-verify="required" ></select>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">设置人数</label>
+                <div class="layui-input-block">
+                    <input type="number" name="rs" lay-verify="un" autocomplete="off" min="0" placeholder="请输入合同人数" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">管理账号</label>
+                <div class="layui-input-block">
+                    <input type="text" name="un" lay-verify="required" placeholder="请输入管理账号" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">管理密码</label>
+                <div class="layui-input-block">
+                    <input type="password" name="pw" lay-verify="pd" placeholder="请输入管理密码" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item" style="text-align:center;margin-top:40px">
+                <button class="layui-btn" lay-submit="" lay-filter="submit">提交</button>
+                <button class="layui-btn layui-btn-colse">关闭</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/laydate/laydate.js"></script>
+    <script src="assets/layer/layer.js"></script>
+    <script src="assets/layui/layui.js"></script>
+    <script src="assets/js/common.js"></script>
+    <script type="text/html" id="templet">
+        {{#  if(d.cq >60){ }}
+        <span style="color: red;">{{ d.cq +"%"}}</span>
+        {{#  } else { }}
+        <span style="color: blue;">{{ d.cq  +"%"}}</span>
+        {{#  } }}
+    </script>
+    <script type="text/html" id="lztemplet">
+        {{#  if(d.lzv >50){ }}
+        <span style="color: red;">{{ d.lzv +"%"}}</span>
+        {{#  } else { }}
+        <span style="color: blue;">{{ d.lzv  +"%"}}</span>
+        {{#  } }}
+    </script>
+    <script>
+        //获取顶部数据
+        function getRealTime(){
+            AjaxPost("/RealTimeNumber",{},
+                function(data){
+                    $("#totalNum").html(data.total);
+                    $("#localNum").html(data.localNumber);
+                    $("#contractNum").html(data.contractorNumber);
+                },
+                function(){},
+            "json",true);
+        }
+        getRealTime();
+       /* setInterval(function(){
+            getRealTime();
+        },1000);*/
+        //日期初始化方法
+        $(function(){
+            var Fmt='yyyyMM';
+            var dateFm= laydate.render({
+                elem:'#dateFm',
+                format:Fmt,
+                value:Format(ToDate(new Date()-30*1000*60*60*24),Fmt),
+                max:Format(ToDate(),'yyyy-MM-dd'),
+                done:function(value,date){}
+            });
+            var dateTo= laydate.render({
+                elem:'#dateTo',
+				type: 'month',
+                format:'yyyyMM',
+                value:Format(ToDate(),Fmt),
+                max:Format(ToDate(),Fmt),
+                done:function(value,date){
+                    if($("#dateFm").val()>value){
+                        $("#dateFm").val(value);
+                    }
+                    if(value!==''){
+                        date.month=date.month-1;
+                        dateFm.config.max=date;
+                    }
+                }
+            });
+        });
+        //获取配置公司下拉
+        AjaxPost("/GetDepart",{},
+            function(data){
+                var optionHtml="<option value='' selected=''>请选择部门</option>";
+                for(var key in data.data){
+                    optionHtml+="<option value='"+data.data[key].id+"'>"+data.data[key].name+"</option>";
+                };
+                $("select[name='gsname']").html(optionHtml);
+            },
+            function(){},
+        "json",false);
+
+        layui.use(['form','table'], function(){
+            var table = layui.table;
+            var form = layui.form;
+            //自定义按钮事件
+            var $ = layui.$;
+            //渲染实时数据表格
+            table.render({
+                method:'post',
+                url: '/RealTimeDepart',       //数据接口
+                //where: {token: 'sasasas', id: 123},         //接口参数
+                //parseData:function(res){console.log(res)},  //返回结果
+                elem: '#table1',
+                height: 0,
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: false, //开启分页
+                limit: 100,
+                limits: [20,40,60,100],
+                cols: [[
+                    {field: 'name', title: '公司名称',sort: true},
+                    {field: 'contractorPersonNumber', title: '合同人数', sort: true},
+                    {field: 'realtimeNumber', title: '场内实时人数',sort: true},
+                    {field: 'attendanceratio', title: '出勤率',sort: true},
+                    {align:"center", title:"操作",toolbar: '#rowToolbar1',width:200}
+                ]],
+                done:function(){
+                    $(".table1 .layui-table-view").css({"height":$(".table1 .layui-table-view").parent().height()-40});
+                    $(".table1 .layui-table-box").css({"height":$(".table1 .layui-table-box").parent().height()-0});
+                    $(".table1 .layui-table-body").css({"height":$(".table1 .layui-table-body").parent().height()-40})
+                }
+            });
+            //渲染历史数据表格
+            table.render({
+                method:'post',
+                url: '/HistoricalData',        //数据接口
+                where: {                                      //接口参数
+                    "date":$("#dateTo").val()
+                },
+                //parseData:function(res){console.log(res)},  //返回结果
+                elem: '#table2',
+                height: 0,
+                even:true,
+                toolbar: false,                             //开启头部工具条
+                page: true, //开启分页
+                limit: 20,
+                limits: [20,40,60,100],
+                cols: [[
+                    /*{field: 'date', title: '日期',width:200},*/
+                    {field: 'name', title: '公司名称'},
+                    {field: 'contractorPersonNumber', title: '合同人数', sort: true},
+                    {field: 'totalActualHours', title: '实际工作小时数',sort: true},
+                    {field: 'totalHours', title: '合同工作时',sort: true},
+                    {field: 'totalTimes', title: '累计打卡次数',sort: true},
+                    {field: 'attendanceRatio', title: '出勤率',sort: true},
+                    {field: 'circulationRate', title: '流通率',sort: true},
+                    {field: 'actualPersonnUmber',title:'实际工作人数',sort:true},
+                    {align:"center", title:"操作",toolbar: '#rowToolbar1',width:200}
+                ]],
+                done:function(){
+                    $(".table2 .layui-table-view").css({"height":$(".table2 .layui-table-view").parent().height()-40});
+                    $(".table2 .layui-table-box").css({"height":$(".table2 .layui-table-box").parent().height()-40});
+                    $(".table2 .layui-table-body").css({"height":$(".table2 .layui-table-body").parent().height()-40})
+                }
+            });
+            //监听右侧工具条
+            table.on('tool(table1)', function(obj){
+                var data = obj.data;
+                if(obj.event === 'detail'){
+                    OpenLayer('table3.html?id='+obj.data.id,"实时数据详情界面","60%","70%");
+                }
+            });
+            table.on('tool(table2)', function(obj){
+                var data = obj.data;
+                if(obj.event === 'detail'){
+                    OpenLayer('table4.html?id='+obj.data.id+"&date="+$("#dateTo").val(),"历史数据详情内容","60%","70%");
+                }
+            });
+            //监听搜索
+            form.on('submit(btn-search)', function(data){
+                var field = data.field;
+                console.log(field);
+                //执行重载
+                table.reload('table2',{
+                    page: {
+                        curr: 1 //重新从第1页开始
+                    },
+                    where:field
+                });
+            });
+            //自定义验证规则
+            form.verify({
+                un: function(value){
+                    if(value.length <= 0||value<0){
+                        return '请输入合同人数,人数必须大于等于0';
+                    }
+                },
+                pd: [
+                    /^[\S]{1,16}$/
+                    ,'请输入管理密码'
+                ]
+            });
+            //配置按钮点击
+            $(".btn-pz").click(function(){
+                layer.open({
+                    title:'配置',
+                    type:1,
+                    content:$('#edit'),
+                    area:['500px','440px']
+                })
+            });
+            //配置提交点击
+            form.on('submit(submit)', function(data){
+                //layer.msg(JSON.stringify(data.field));
+                AjaxPost("/Set",data.field,
+                    function(data){
+                        layer.msg(data.msg);
+                        //成功时清除表单
+                        if(data.code===0){
+                            form.val("example", {
+                                "gsname": "",
+                                "rs": "",
+                                "un": "",
+                                "pw": ""
+                            });
+                        }
+                    },
+                    function(){},
+                "json",false);
+                return false;
+            });
+            //关闭按钮
+            $(".layui-btn-colse").click(function(){
+                layer.closeAll();
+                return false;
+            });
+        });
+        window.onresize=function(){
+            $(".table1 .layui-table-view").css({"height":$(".table1 .layui-table-view").parent().height()-40});
+            $(".table1 .layui-table-box").css({"height":$(".table1 .layui-table-box").parent().height()-0});
+            $(".table1 .layui-table-body").css({"height":$(".table1 .layui-table-body").parent().height()-40});
+            $(".table2 .layui-table-view").css({"height":$(".table2 .layui-table-view").parent().height()-40});
+            $(".table2 .layui-table-box").css({"height":$(".table2 .layui-table-box").parent().height()-40});
+            $(".table2 .layui-table-body").css({"height":$(".table2 .layui-table-body").parent().height()-40})
+        };
+    </script>
+</body>
+</html>

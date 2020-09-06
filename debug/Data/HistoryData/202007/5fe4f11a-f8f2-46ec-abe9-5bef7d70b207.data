@@ -1,0 +1,35 @@
+{
+    "5fe4f11a-f8f2-46ec-abe9-5bef7d70b207": {
+        "actualWkT": "0.0",
+        "attendanceRatio": "0.00%",
+        "contractPsN": 50,
+        "contractWrH": 3600,
+        "count": 2,
+        "data": [
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "80059",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "5fe4f11a-f8f2-46ec-abe9-5bef7d70b207",
+                "personId": "eed4a9c5795d46dfb86e33cef94c5ff8",
+                "personName": "王峰"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800596",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "5fe4f11a-f8f2-46ec-abe9-5bef7d70b207",
+                "personId": "215f5729a8234398a43e7b6672410882",
+                "personName": "鲁建荣"
+            }
+        ],
+        "departId": "5fe4f11a-f8f2-46ec-abe9-5bef7d70b207",
+        "orgName": "厦门恒力",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-07-14T11:39:22"
+    }
+}

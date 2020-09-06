@@ -1,0 +1,1156 @@
+{
+    "DepartRealTimeInformation": [
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "测试组织1",
+            "attendanceratio": "0%",
+            "count": 9,
+            "data": [
+                {
+                    "CardNumber": "3497539530",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "19:29:34",
+                    "Name": "张雪源",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3497540746",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:33:03",
+                    "Name": "王峰",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3497968442",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:31",
+                    "Name": "韩富祥",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3661066394",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:52",
+                    "Name": "朱美强",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3661250170",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:55",
+                    "Name": "04193",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3662026410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:01",
+                    "Name": "曹宇峰",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3662299722",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:02",
+                    "Name": "陈建国",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3662736266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:05",
+                    "Name": "巩忠成",
+                    "orgName":"测试组织1"
+                },
+                {
+                    "CardNumber": "3663015690",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:11:04",
+                    "Name": "王平",
+                    "orgName":"测试组织1"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "6dea7aa8-5d34-4806-8ef6-0c2be1043da3"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "技术部",
+            "attendanceratio": "0%",
+            "count": 9,
+            "data": [
+                {
+                    "CardNumber": "3497539530",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "19:29:34",
+                    "Name": "张雪源",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3497540746",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:33:03",
+                    "Name": "王峰",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3497968442",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:31",
+                    "Name": "韩富祥",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3661066394",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:52",
+                    "Name": "朱美强",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3661250170",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:55",
+                    "Name": "04193",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3662026410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:01",
+                    "Name": "曹宇峰",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3662299722",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:02",
+                    "Name": "陈建国",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3662736266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:05",
+                    "Name": "巩忠成",
+                    "orgName":"技术部"
+                },
+                {
+                    "CardNumber": "3663015690",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:11:04",
+                    "Name": "王平",
+                    "orgName":"技术部"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "6dea7aa8-5d34-4806"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "企划部",
+            "attendanceratio": "0%",
+            "count": 9,
+            "data": [
+                {
+                    "CardNumber": "3497539530",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "19:29:34",
+                    "Name": "张雪源",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3497540746",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:33:03",
+                    "Name": "王峰",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3497968442",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:31",
+                    "Name": "韩富祥",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3661066394",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:52",
+                    "Name": "朱美强",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3661250170",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:55",
+                    "Name": "04193",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3662026410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:01",
+                    "Name": "曹宇峰",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3662299722",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:02",
+                    "Name": "陈建国",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3662736266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:05",
+                    "Name": "巩忠成",
+                    "orgName":"企划部"
+                },
+                {
+                    "CardNumber": "3663015690",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:11:04",
+                    "Name": "王平",
+                    "orgName":"企划部"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "123-dfr"
+        },
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "党建部",
+            "attendanceratio": "0%",
+            "count": 9,
+            "data": [
+                {
+                    "CardNumber": "3497539530",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "19:29:34",
+                    "Name": "张雪源",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3497540746",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:33:03",
+                    "Name": "王峰",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3497968442",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:31",
+                    "Name": "韩富祥",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3661066394",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:06:52",
+                    "Name": "朱美强",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3661250170",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "20:06:55",
+                    "Name": "04193",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3662026410",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:01",
+                    "Name": "曹宇峰",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3662299722",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:07:02",
+                    "Name": "陈建国",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3662736266",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "20:07:05",
+                    "Name": "巩忠成",
+                    "orgName":"党建部"
+                },
+                {
+                    "CardNumber": "3663015690",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "20:11:04",
+                    "Name": "王平",
+                    "orgName":"党建部"
+                }
+            ],
+            "islocal": 1,
+            "orgIndexCode": "ertt-dfr"
+        },
+        {
+            "ContractorPersonNumber": 20,
+            "DepartName": "贵宾",
+            "attendanceratio": "67%",
+            "count": 6,
+            "data": [
+                {
+                    "CardNumber": "0359494622",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:34:58",
+                    "Name": "黄科",
+                    "orgName":"贵宾"
+                },
+                {
+                    "CardNumber": "0360582222",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:58:04",
+                    "Name": "畅立刚",
+                    "orgName":"贵宾"
+                },
+                {
+                    "CardNumber": "0360659998",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "09:58:06",
+                    "Name": "王兵兵",
+                    "orgName":"贵宾"
+                },
+                {
+                    "CardNumber": "0697894419",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "11:35:13",
+                    "Name": "温亚亚",
+                    "orgName":"贵宾"
+                },
+                {
+                    "CardNumber": "0701344115",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:52:56",
+                    "Name": "赵大鹏",
+                    "orgName":"贵宾"
+                },
+                {
+                    "CardNumber": "3496563082",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "18:08:17",
+                    "Name": "郑喜军",
+                    "orgName":"贵宾"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "af13"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 55,
+            "DepartName": "来宾I",
+            "attendanceratio": "89%",
+            "count": 4,
+            "data": [
+                {
+                    "CardNumber": "0697294915",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "11:15:55",
+                    "Name": "徐志聪",
+                    "orgName":"来宾I"
+                },
+                {
+                    "CardNumber": "2072789972",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:32:38",
+                    "Name": "聂富宁",
+                    "orgName":"来宾I"
+                },
+                {
+                    "CardNumber": "2660828292",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:25:22",
+                    "Name": "马泽平",
+                    "orgName":"来宾I"
+                },
+                {
+                    "CardNumber": "3497373594",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:21:41",
+                    "Name": "李东升",
+                    "orgName":"来宾I"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "6dea"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "来宾II",
+            "attendanceratio": "0%",
+            "count": 2,
+            "data": [
+                {
+                    "CardNumber": "3496995626",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "18:54:46",
+                    "Name": "06087",
+                    "orgName":"来宾II"
+                },
+                {
+                    "CardNumber": "3497477626",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "19:22:21",
+                    "Name": "李甜甜",
+                    "orgName":"来宾II"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "hbkgv"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 150,
+            "DepartName": "众信公司",
+            "attendanceratio": "56%",
+            "count": 10,
+            "data": [
+                {
+                    "CardNumber": "0106836151",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:24:09",
+                    "Name": "丁文亮",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "0106836903",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "07:24:12",
+                    "Name": "080",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "0681957538",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "10:11:47",
+                    "Name": "016",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "0689102275",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "10:17:16",
+                    "Name": "马虎",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "0721050350",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "14:59:03",
+                    "Name": "包鑫祥",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "2073938420",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:44:59",
+                    "Name": "栗学枢",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "2662052724",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:26:56",
+                    "Name": "韩鹏厦门",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "2662147716",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:26:59",
+                    "Name": "马飞",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "2679480436",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:30:02",
+                    "Name": "102",
+                    "orgName":"众信公司"
+                },
+                {
+                    "CardNumber": "3497847610",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:56:46",
+                    "Name": "杨飞",
+                    "orgName":"众信公司"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "rtcgj"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 134,
+            "DepartName": "西安锦天物业管理服务有限公司",
+            "attendanceratio": "67%",
+            "count": 72,
+            "data": [
+                {
+                    "CardNumber": "0100695943",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "07:04:28",
+                    "Name": "JX214",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "0689188787",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "10:59:55",
+                    "Name": "候尚军",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "0696053699",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:01:09",
+                    "Name": "106",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "0696054531",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "11:01:20",
+                    "Name": "张晓龙",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "1994865238",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:28:44",
+                    "Name": "马步俊",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "1994881542",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "16:28:54",
+                    "Name": "彭伟",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "1995201830",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:07",
+                    "Name": "JX206"
+                    ,"orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "1995439558",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:09",
+                    "Name": "022",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2062858164",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:30:13",
+                    "Name": "高永亮",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2064604212",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:21",
+                    "Name": "王浩",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2070967732",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:22",
+                    "Name": "王浩杰","orgName":"西安锦天物业管理服务有限公司"
+
+                },
+                {
+                    "CardNumber": "2071156436",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:26",
+                    "Name": "杨保生",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2071310292",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:30:28",
+                    "Name": "李晓琴11",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2071397332",
+                    "EnterPlace": "检修通道2",
+                    "EnterTime": "16:30:31",
+                    "Name": "孙德学",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2071682804",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:32",
+                    "Name": "吕学勤",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072218212",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:35",
+                    "Name": "任同心",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072306532",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:39",
+                    "Name": "张永乐",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072383380",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "16:30:43",
+                    "Name": "周海东",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072436612",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:30:44",
+                    "Name": "李旺旺",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072513572",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:46",
+                    "Name": "马彦军",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072702324",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "16:30:48",
+                    "Name": "韩文彪",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072705220",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "16:30:51",
+                    "Name": "丁学花",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2072969108",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "16:33:12",
+                    "Name": "王佳富",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2661158260",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:25:46",
+                    "Name": "马建涛",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2787917898",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:32:29",
+                    "Name": "马华",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2788111050",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:30",
+                    "Name": "薛多全",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2788200874",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:32:32",
+                    "Name": "刘爱明",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2842067264",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:33",
+                    "Name": "051",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2842080000",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:34",
+                    "Name": "安振江"
+                    ,"orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2842517184",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:39",
+                    "Name": "申红庭",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2842937280",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:40",
+                    "Name": "武二小",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2949008324",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:43",
+                    "Name": "安文政",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "2954593348",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:32:45",
+                    "Name": "211",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3010095782",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:49",
+                    "Name": "魏琪鹏",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3111513461",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:32:51",
+                    "Name": "王振强",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3194571037",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:53",
+                    "Name": "温万喜",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246710550",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:32:54",
+                    "Name": "李福林",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246766150",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:32:57",
+                    "Name": "范文涛",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246836198",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:00",
+                    "Name": "苏兵",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246872518",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:01",
+                    "Name": "张兆贵",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246881558",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:02",
+                    "Name": "邓弟文",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3246995926",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:03",
+                    "Name": "丁玉琪",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247001766",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:05",
+                    "Name": "宁长鹏"
+                    ,"orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247012166",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:07",
+                    "Name": "李加锁",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247046966",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:08",
+                    "Name": "杨金保",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247070054",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:10",
+                    "Name": "马进军",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247088454",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:11",
+                    "Name": "丁飞月",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247107590",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:13",
+                    "Name": "张文斌",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247188022",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:16",
+                    "Name": "王颖",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247202070",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:17",
+                    "Name": "张兴中",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247356534",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:21",
+                    "Name": "王自芳",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247395062",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "17:33:23",
+                    "Name": "杜红梅",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247411478",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:26",
+                    "Name": "张自立",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247421830",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:27",
+                    "Name": "王佳军",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247453894",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:28",
+                    "Name": "苏静伟",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3247643478",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:30",
+                    "Name": "马帅","orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3281403577",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:31",
+                    "Name": "包和平","orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3281816889",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:34",
+                    "Name": "马洪玉","orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3282089769",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:33:36",
+                    "Name": "刘文涛",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3282603369",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:37",
+                    "Name": "李瑞1",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3282692649",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:39",
+                    "Name": "张文科",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3282787417",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "17:33:43",
+                    "Name": "闫腊成",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3283028729",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:44",
+                    "Name": "王珂鑫","orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3284267769",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:33:46",
+                    "Name": "马骁",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3284364937",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:33:47",
+                    "Name": "段艳利",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3285088985",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "17:34:03",
+                    "Name": "吴广荣",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3285964457",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "17:34:33",
+                    "Name": "张辉",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3495792330",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "17:50:00",
+                    "Name": "金乐",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3496437498",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:03:27",
+                    "Name": "蒋磊",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3496451066",
+                    "EnterPlace": "生产区南门1",
+                    "EnterTime": "18:03:29",
+                    "Name": "杨保生1",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3496666234",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "18:41:03",
+                    "Name": "吴继峰",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                },
+                {
+                    "CardNumber": "3497046042",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "18:57:49",
+                    "Name": "张晓峰",
+                    "orgName":"西安锦天物业管理服务有限公司"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "snhdjk"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 17,
+            "DepartName": "灵武市吉泰商贸有限公司",
+            "attendanceratio": "88%",
+            "count": 0,
+            "data": [
+            ],
+            "islocal": 0,
+            "orgIndexCode": "sghjkoo"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "灵武市轩泰保安",
+            "attendanceratio": "34%",
+            "count": 5,
+            "data": [
+                {
+                    "CardNumber": "0351595998",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "09:29:57",
+                    "Name": "王建峰",
+                    "orgName":"灵武市轩泰保安"
+
+                },
+                {
+                    "CardNumber": "0720360592",
+                    "EnterPlace": "检修通道1",
+                    "EnterTime": "14:40:33",
+                    "Name": "胡金胜",
+                    "orgName":"灵武市轩泰保安"
+                },
+                {
+                    "CardNumber": "1157743821",
+                    "EnterPlace": "生产区南门",
+                    "EnterTime": "15:43:06",
+                    "Name": "付军辉",
+                    "orgName":"灵武市轩泰保安"
+                },
+                {
+                    "CardNumber": "3497202970",
+                    "EnterPlace": "一期二道门3",
+                    "EnterTime": "19:10:51",
+                    "Name": "张振",
+                    "orgName":"灵武市轩泰保安"
+                },
+                {
+                    "CardNumber": "3687968772",
+                    "EnterPlace": "一期二道门1",
+                    "EnterTime": "21:05:54",
+                    "Name": "234",
+                    "orgName":"灵武市轩泰保安"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "jtytjl"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "灵武市轩泰消防",
+            "attendanceratio": "23%",
+            "count": 8,
+            "data": [
+                {
+                    "CardNumber": "0351200158",
+                    "EnterTime": "09:09:16",
+                    "Name": "马菊花",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "0351467614",
+                    "EnterTime": "09:23:43",
+                    "Name": "李伟",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "0351703966",
+                    "EnterTime": "09:31:11",
+                    "Name": "马晴晴",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "0697328979",
+                    "EnterTime": "11:22:57",
+                    "Name": "闫万星",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "0717562478",
+                    "EnterTime": "14:19:37",
+                    "Name": "杜兵",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "0720242750",
+                    "EnterTime": "14:32:38",
+                    "Name": "夏芙蓉",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "3688041140",
+                    "EnterTime": "21:13:54",
+                    "Name": "356",
+                    "orgName":"灵武市轩泰消防"
+                },
+                {
+                    "CardNumber": "3722990214",
+                    "EnterTime": "23:00:38",
+                    "Name": "马英俊",
+                    "orgName":"灵武市轩泰消防"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "sghh"
+        }
+        ,
+        {
+            "ContractorPersonNumber": 100,
+            "DepartName": "厂家来访人员",
+            "attendanceratio": "8.0%",
+            "count": 4,
+            "data": [
+                {
+                    "CardNumber": "0697294915",
+                    "EnterTime": "11:15:55",
+                    "Name": "徐志聪",
+                    "orgName":"厂家来访人员"
+                },
+                {
+                    "CardNumber": "2072789972",
+                    "EnterTime": "16:32:38",
+                    "Name": "聂富宁",
+                    "orgName":"厂家来访人员"
+                },
+                {
+                    "CardNumber": "2660828292",
+                    "EnterTime": "17:25:22",
+                    "Name": "马泽平",
+                    "orgName":"厂家来访人员"
+                },
+                {
+                    "CardNumber": "3497373594",
+                    "EnterTime": "19:21:41",
+                    "Name": "李东升",
+                    "orgName":"厂家来访人员"
+                }
+            ],
+            "islocal": 0,
+            "orgIndexCode": "129"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "18d3f533-aa3f-4f45-a48f-b994cd9b1539": {
+        "actualWkT": "0.0",
+        "attendanceRatio": "0.00%",
+        "contractPsN": 50,
+        "contractWrH": 8400,
+        "count": 8,
+        "data": [
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800110",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "97550fb8b3274e67bd510ca99261882a",
+                "personName": "陶红举"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800109",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "5c4cadcdb6e74ed48f03270b4faf3b7a",
+                "personName": "王永涛"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800105",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "4c0c5ff3ffc7434ea06e5deeb1a3b04a",
+                "personName": "岳海军"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800108",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "28e7d60dee7c483fa36dd11a40026be9",
+                "personName": "郭振轩"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800111",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "1aedcfaf2a594fdab88559a547d6c101",
+                "personName": "马荣"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800107",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "165a4a935ec146f1afe0abb7998cec4e",
+                "personName": "辜文均"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800106",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "0e1bc9af6f2e488ebf88b46dc4f02fae",
+                "personName": "史柯龙"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "800101",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+                "personId": "d97ba8ae907c4835b9928bbc4fa26318",
+                "personName": "杨开程"
+            }
+        ],
+        "departId": "18d3f533-aa3f-4f45-a48f-b994cd9b1539",
+        "orgName": "消防",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-06-30T18:35:12"
+    }
+}

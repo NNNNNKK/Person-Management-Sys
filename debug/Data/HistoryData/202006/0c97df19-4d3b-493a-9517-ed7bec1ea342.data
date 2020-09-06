@@ -1,0 +1,35 @@
+{
+    "0c97df19-4d3b-493a-9517-ed7bec1ea342": {
+        "actualWkT": "0.0",
+        "attendanceRatio": "0.00%",
+        "contractPsN": 50,
+        "contractWrH": 8400,
+        "count": 2,
+        "data": [
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "5376",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "0c97df19-4d3b-493a-9517-ed7bec1ea342",
+                "personId": "f8700fc776504dbfa7d58fce62548ea0",
+                "personName": "临376"
+            },
+            {
+                "attendenceHours": "0.00",
+                "cardNumber": "1896977872",
+                "detail": [
+                ],
+                "orgName": null,
+                "orgindex": "0c97df19-4d3b-493a-9517-ed7bec1ea342",
+                "personId": "43ab2488e24d49768826b6342332113a",
+                "personName": "测试"
+            }
+        ],
+        "departId": "0c97df19-4d3b-493a-9517-ed7bec1ea342",
+        "orgName": "宁煤质检",
+        "turnoverRate": "100.00%",
+        "updatetime": "2020-06-30T09:16:22"
+    }
+}
